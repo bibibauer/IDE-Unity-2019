@@ -3,8 +3,11 @@ ScriptsOnlyBuild:
     Assembly-CSharp-firstpass.dll:
     - UnityStandardAssets.Characters.FirstPerson.FirstPersonController
     Assembly-CSharp.dll:
+    - GvrEditorEmulator
     - LabelOrienter_Smooth
     - PointRenderer
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
   sceneClasses:
     Assets/Example_Scene.unity:
     - Class: 1
@@ -50,11 +53,13 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9360}
+      Script: {instanceID: 9362}
     - Class: 114
-      Script: {instanceID: 9626}
+      Script: {instanceID: 9588}
     - Class: 114
-      Script: {instanceID: 9784}
+      Script: {instanceID: 9630}
+    - Class: 114
+      Script: {instanceID: 9790}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -963,4 +968,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Example_Scene.unity
-  playerPath: /Users/Bibi/Downloads/BibiScatterplot/Scatterplot_Android.apk
+  playerPath: /Users/Bibi/Documents/GitHub/IDE-Unity-2019/Scatterplot_Android_Standalone.apk
