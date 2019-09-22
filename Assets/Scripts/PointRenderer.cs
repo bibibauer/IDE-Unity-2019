@@ -10,32 +10,34 @@ using UnityEngine.UI;
 
 public class PointRenderer : MonoBehaviour {
 
-    //************************************************************************ PUBLIC VARIABLES ************************************************************************
+    /* PUBLIC VARIABLES */
 
     // Name of the input file, no extension
-    public bool dataPoints;
-    public bool highlightPoints;
-    public bool metaData;
-    public bool labels;
+    public bool dataPoints = true;
+    public bool highlightPoints = true;
+    public bool metadataLabels = true;
+    public bool dimensionLabels = true;
 
+    // Name of CSV file to be referenced
     [Space (20)]
-    public string inputFile = "Data-U_Dummy";
+    public string inputFile = "DVX_ENKLU_190907";
 
-    // Indices for columns to be referenced
+    // Columns to be referenced for different variables in CSV file
+    [Space (20)]
     public int dimensionX = 0;
     public int dimensionY = 1;
     public int dimensionZ = 2;
     public int clusterVariable = 3;
     public int interviewVariable = 4;
-    public int metaVar1 = 5;
-    public int metaVar2 = 6;
-    public int metaVar3 = 8;
-    public int metaVar4 = 9;
-    public int metaVar5 = 10;
-    public int metaVar6 = 11;
-    public int metaVar7 = 12;
+    public int metadataVariable1 = 5;
+    public int metadataVariable2 = 6;
+    public int metadataVariable3 = 8;
+    public int metadataVariable4 = 9;
+    public int metadataVariable5 = 10;
+    public int metadataVariable6 = 11;
+    public int metadataVariable7 = 12;
 
-    // Labels for the metadata variables
+    // Prefix labels for the metadata variables
     [Space (20)]
     public string meta1Label;
     public string meta2Label;
@@ -44,6 +46,28 @@ public class PointRenderer : MonoBehaviour {
     public string meta5Label;
     public string meta6Label;
     public string meta7Label;
+
+    // Materials to be used for each type of data point (cluster group or highlight)
+    [Space (20)]
+    public Material cluster1Material;
+    public Material cluster2Material;
+    public Material cluster3Material;
+    public Material cluster4Material;
+    public Material highlightMaterial;
+
+    // Prefabs and scale for the normal data points
+    [Space (20)]
+    public GameObject pointPrefab;
+    [Range (0.0f, 0.5f)]
+    public float dataPointScale = 0.07f;
+
+    // Prefabs and scale for the normal data points
+    [Space (20)]
+    public GameObject highlightPrefab;
+    [Range (0.0f, 0.5f)]
+    public float highlightPointScale = 0.2f;
+
+    /* PRIVATE VARIABLES */
 
     // Full column names from CSV (as Dictionary Keys)
     private string xDimensionName;
@@ -59,33 +83,9 @@ public class PointRenderer : MonoBehaviour {
     private string metadata6;
     private string metadata7;
 
-    // Colors to be assigned to each cluster grouping in the data
-    [Space (20)]
-    public Material cluster1Material;
-    public Material cluster2Material;
-    public Material cluster3Material;
-    public Material cluster4Material;
-    public Material highlightMaterial;
-
     // Scale of particlePoints within graph, WARNING: Does not scale with graph frame
     private float plotScale = 5; // <--- Honestly pretty pointless, need to figure out a way to get rid of this if possible
 
-    // Scale of the prefab particlePoints
-    [Space (20)]
-    [Range (0.0f, 0.5f)]
-    public float dataPointScale = 0.07f;
-    [Range (0.0f, 0.5f)]
-    public float highlightPointScale = 0.2f;
-
-    // The prefab for the data particlePoints that will be instantiated
-    public GameObject pointPrefab;
-    public GameObject highlightPrefab;
-    //public GameObject textMesh;
-
-    // Object which will contain instantiated prefabs in hiearchy
-    public GameObject PointHolder;
-
-    //******************************************************************************** PRIVATE VARIABLES ********************************************************************************
     // Minimum and maximum values of columns
     private float xMin = -3;
     private float yMin = -3;
@@ -95,12 +95,16 @@ public class PointRenderer : MonoBehaviour {
     private float yMax = 3;
     private float zMax = 3;
 
+    // Object which will become a data point
     private GameObject dataPoint;
+
+    // Object which will contain instantiated prefabs in hiearchy
+    private GameObject PointHolder;
 
     // List for holding data from CSV reader
     private List<Dictionary<string, object>> pointList;
 
-    // Number of rows
+    // Number of rows in the CSV file
     private int rowCount;
 
     //**************************************************************************************** METHODS ************************************************************************************************
@@ -113,6 +117,7 @@ public class PointRenderer : MonoBehaviour {
         // Load prefabs
         pointPrefab = Resources.Load ("DataCube", typeof (GameObject)) as GameObject;
         highlightPrefab = Resources.Load ("DataBall", typeof (GameObject)) as GameObject;
+        PointHolder = GameObject.Find ("PointContainer");
 
         // Load materials
         cluster1Material = Resources.Load ("material1", typeof (Material)) as Material;
@@ -136,13 +141,13 @@ public class PointRenderer : MonoBehaviour {
         zDimensionName = columnList[dimensionZ];
         clusterVariableName = columnList[clusterVariable];
         interviewVariableName = columnList[interviewVariable];
-        metadata1 = columnList[metaVar1];
-        metadata2 = columnList[metaVar2];
-        metadata3 = columnList[metaVar3];
-        metadata4 = columnList[metaVar4];
-        metadata5 = columnList[metaVar5];
-        metadata6 = columnList[metaVar6];
-        metadata7 = columnList[metaVar7];
+        metadata1 = columnList[metadataVariable1];
+        metadata2 = columnList[metadataVariable2];
+        metadata3 = columnList[metadataVariable3];
+        metadata4 = columnList[metadataVariable4];
+        metadata5 = columnList[metadataVariable5];
+        metadata6 = columnList[metadataVariable6];
+        metadata7 = columnList[metadataVariable7];
 
         // Get maxes of each axis, using FindMaxValue method defined below
         xMax = FindMaxValue (xDimensionName);
@@ -154,19 +159,19 @@ public class PointRenderer : MonoBehaviour {
         yMin = FindMinValue (yDimensionName);
         zMin = FindMinValue (zDimensionName);
 
-        // Place labels on graph axes
-        if (labels == true){
-            AssignLabels ();
-        }
-
         // Place data points
-        if (dataPoints == true){
+        if (dataPoints == true) {
             PlacePrefabPoints ();
         }
 
         // Place highlights on certain data points
-        if(highlightPoints == true){
+        if (highlightPoints == true) {
             HighlightPoints ();
+        }
+
+        // Place labels on graph axes
+        if (dimensionLabels == true) {
+            AssignLabels ();
         }
 
     }
@@ -222,12 +227,13 @@ public class PointRenderer : MonoBehaviour {
             string meta6 = (pointList[i][metadata6]).ToString ();
             string meta7 = (pointList[i][metadata7]).ToString ();
 
-            // Set text values in the Text Mesh component of the child object for each data point
-            dataPoint.GetComponentInChildren<TextMesh> ().text =
-                meta1Label + meta1 + "\n" + meta2Label + meta2 + "\n" + meta3Label + meta3 + "\n" + meta4Label + meta4 + "\n" + meta5Label + meta5 + "\n" + meta6Label + meta6 + "\n" + meta7Label + meta7;
-
-            // HidePoint (dataPoint);
-
+            if (metadataLabels == true) {
+                // Set text values in the Text Mesh component of the child object for each data point
+                dataPoint.GetComponentInChildren<TextMesh> ().text =
+                    meta1Label + meta1 + "\n" + meta2Label + meta2 + "\n" + meta3Label + meta3 + "\n" + meta4Label + meta4 + "\n" + meta5Label + meta5 + "\n" + meta6Label + meta6 + "\n" + meta7Label + meta7;
+            } else if (metadataLabels == false) {
+                dataPoint.GetComponentInChildren<TextMesh> ().text = "";
+            }
         }
 
     }
