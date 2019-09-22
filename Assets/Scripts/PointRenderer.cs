@@ -6,105 +6,120 @@ using UnityEngine;
 using UnityEngine.UI;
 
 // This script gets values from CSVReader script
-// It instantiates points and particles according to values read
+// It instantiates points and labels according to values read
 
 public class PointRenderer : MonoBehaviour {
 
     //************************************************************************ PUBLIC VARIABLES ************************************************************************
 
-    // Bools for editor options
-    public bool renderstaticPointPrefabs = true;
-    public bool renderPrefabsWithColor = true;
-
-    public string age = "32";
-    public string gender;
-    public string location;
-    public string political;
-    public string worldview;
-
     // Name of the input file, no extension
+    public bool dataPoints;
+    public bool highlightPoints;
+    public bool metaData;
+    public bool labels;
+
     [Space (20)]
     public string inputFile = "Data-U_Dummy";
 
-    // Indices for columns to be assigned
+    // Indices for columns to be referenced
+    public int dimensionX = 0;
+    public int dimensionY = 1;
+    public int dimensionZ = 2;
+    public int clusterVariable = 3;
+    public int interviewVariable = 4;
+    public int metaVar1 = 5;
+    public int metaVar2 = 6;
+    public int metaVar3 = 8;
+    public int metaVar4 = 9;
+    public int metaVar5 = 10;
+    public int metaVar6 = 11;
+    public int metaVar7 = 12;
+
+    // Labels for the metadata variables
     [Space (20)]
-    public int dimensionX = 2;
-    public int dimensionY = 3;
-    public int dimensionZ = 4;
-    public int clusterVariable = 1;
-    public int interviewVariable = 5;
+    public string meta1Label;
+    public string meta2Label;
+    public string meta3Label;
+    public string meta4Label;
+    public string meta5Label;
+    public string meta6Label;
+    public string meta7Label;
 
     // Full column names from CSV (as Dictionary Keys)
-    [Space (20)]
-    public string xDimensionName;
-    public string yDimensionName;
-    public string zDimensionName;
-    public string clusterVariableName;
-    public string interviewVariableName;
+    private string xDimensionName;
+    private string yDimensionName;
+    private string zDimensionName;
+    private string clusterVariableName;
+    private string interviewVariableName;
+    private string metadata1;
+    private string metadata2;
+    private string metadata3;
+    private string metadata4;
+    private string metadata5;
+    private string metadata6;
+    private string metadata7;
 
     // Colors to be assigned to each cluster grouping in the data
     [Space (20)]
-    public Material cluster1Color;
-    public Material cluster2Color;
-    public Material cluster3Color;
-    public Material cluster4Color;
-    public Material highlightColor;
+    public Material cluster1Material;
+    public Material cluster2Material;
+    public Material cluster3Material;
+    public Material cluster4Material;
+    public Material highlightMaterial;
 
     // Scale of particlePoints within graph, WARNING: Does not scale with graph frame
-    private float plotScale = 5;
+    private float plotScale = 5; // <--- Honestly pretty pointless, need to figure out a way to get rid of this if possible
 
     // Scale of the prefab particlePoints
     [Space (20)]
     [Range (0.0f, 0.5f)]
-    public float pointScale = 0.07f;
+    public float dataPointScale = 0.07f;
     [Range (0.0f, 0.5f)]
-    public float highlightScale = 0.2f;
+    public float highlightPointScale = 0.2f;
 
     // The prefab for the data particlePoints that will be instantiated
     public GameObject pointPrefab;
     public GameObject highlightPrefab;
-    // public GameObject staticPointPrefab;
-    // public GameObject interactivePointPrefab;
+    //public GameObject textMesh;
 
     // Object which will contain instantiated prefabs in hiearchy
     public GameObject PointHolder;
 
-    public GameObject metadata;
-
     //******************************************************************************** PRIVATE VARIABLES ********************************************************************************
     // Minimum and maximum values of columns
-    private float xMin;
-    private float yMin;
-    private float zMin;
+    private float xMin = -3;
+    private float yMin = -3;
+    private float zMin = -3;
 
-    private float xMax;
-    private float yMax;
-    private float zMax;
+    private float xMax = 3;
+    private float yMax = 3;
+    private float zMax = 3;
 
     private GameObject dataPoint;
 
-    // Number of rows
-    private int rowCount;
-
     // List for holding data from CSV reader
     private List<Dictionary<string, object>> pointList;
+
+    // Number of rows
+    private int rowCount;
 
     //**************************************************************************************** METHODS ************************************************************************************************
 
     void Awake () {
         // Run CSV Reader
         pointList = CSVReader.Read (inputFile);
+        rowCount = pointList.Count;
 
         // Load prefabs
         pointPrefab = Resources.Load ("DataCube", typeof (GameObject)) as GameObject;
         highlightPrefab = Resources.Load ("DataBall", typeof (GameObject)) as GameObject;
 
         // Load materials
-        cluster1Color = Resources.Load ("material1", typeof (Material)) as Material;
-        cluster2Color = Resources.Load ("material2", typeof (Material)) as Material;
-        cluster3Color = Resources.Load ("material3", typeof (Material)) as Material;
-        cluster4Color = Resources.Load ("material4", typeof (Material)) as Material;
-        highlightColor = Resources.Load ("DataMaterial", typeof (Material)) as Material;
+        cluster1Material = Resources.Load ("material1", typeof (Material)) as Material;
+        cluster2Material = Resources.Load ("material2", typeof (Material)) as Material;
+        cluster3Material = Resources.Load ("material3", typeof (Material)) as Material;
+        cluster4Material = Resources.Load ("material4", typeof (Material)) as Material;
+        highlightMaterial = Resources.Load ("DataMaterial", typeof (Material)) as Material;
     }
 
     // Use this for initialization
@@ -114,7 +129,6 @@ public class PointRenderer : MonoBehaviour {
         List<string> columnList = new List<string> (pointList[1].Keys);
 
         foreach (string key in columnList)
-            //Debug.Log ("Column name is " + key);
 
             // Assign column names according to index indicated in columnList
             xDimensionName = columnList[dimensionX];
@@ -122,6 +136,13 @@ public class PointRenderer : MonoBehaviour {
         zDimensionName = columnList[dimensionZ];
         clusterVariableName = columnList[clusterVariable];
         interviewVariableName = columnList[interviewVariable];
+        metadata1 = columnList[metaVar1];
+        metadata2 = columnList[metaVar2];
+        metadata3 = columnList[metaVar3];
+        metadata4 = columnList[metaVar4];
+        metadata5 = columnList[metaVar5];
+        metadata6 = columnList[metaVar6];
+        metadata7 = columnList[metaVar7];
 
         // Get maxes of each axis, using FindMaxValue method defined below
         xMax = FindMaxValue (xDimensionName);
@@ -134,25 +155,27 @@ public class PointRenderer : MonoBehaviour {
         zMin = FindMinValue (zDimensionName);
 
         // Place labels on graph axes
-        AssignLabels ();
+        if (labels == true){
+            AssignLabels ();
+        }
 
-        // Call PlacePoint methods defined below
-        PlacePrefabPoints ();
+        // Place data points
+        if (dataPoints == true){
+            PlacePrefabPoints ();
+        }
 
-        // Call HighlightPoints method defined below
-        HighlightPoints ();
+        // Place highlights on certain data points
+        if(highlightPoints == true){
+            HighlightPoints ();
+        }
 
     }
 
     // Places the prefabs according to values read in
     private void PlacePrefabPoints () {
 
-        // Get count (number of rows in table)
-        rowCount = pointList.Count;
-
-        // int clusterGroup;
-
-        for (var i = 0; i < pointList.Count; i++) {
+        // Loop through every row in the CSV file
+        for (var i = 0; i < rowCount; i++) {
 
             // Set x/y/z, standardized to between 0-1
             float x = (Convert.ToSingle (pointList[i][xDimensionName]) - xMin) / (xMax - xMin);
@@ -165,50 +188,54 @@ public class PointRenderer : MonoBehaviour {
             // Create vector 3 for positioning particlePoints
             Vector3 position = new Vector3 (x, y, z) * plotScale;
 
-            //instantiate as gameobject variable so that it can be manipulated within loop
+            // Instantiate as gameobject variable so that it can be manipulated within loop
             GameObject dataPoint = Instantiate (pointPrefab, Vector3.zero, Quaternion.identity);
 
             // Make child of PointHolder object, to keep particlePoints within container in hiearchy
             dataPoint.transform.parent = PointHolder.transform;
 
-            // Position point at relative to parent
+            // Position and scale point at relative to parent
             dataPoint.transform.localPosition = position;
-            dataPoint.transform.localScale = new Vector3 (pointScale, pointScale, pointScale);
+            dataPoint.transform.localScale = new Vector3 (dataPointScale, dataPointScale, dataPointScale);
 
-            // Converts index to string to name the point the index number
+            // Converts index number to string and assigns it as the name of the prefab
             string dataPointName = i.ToString ();
-
-            // Assigns name to the prefab
             dataPoint.transform.name = dataPointName;
 
             // Set color according to cluster value
             if (clusterGroup == 1) {
-                dataPoint.GetComponent<Renderer> ().sharedMaterial = cluster1Color;
+                dataPoint.GetComponent<Renderer> ().sharedMaterial = cluster1Material;
             } else if (clusterGroup == 2) {
-                dataPoint.GetComponent<Renderer> ().sharedMaterial = cluster2Color;
+                dataPoint.GetComponent<Renderer> ().sharedMaterial = cluster2Material;
             } else if (clusterGroup == 3) {
-                dataPoint.GetComponent<Renderer> ().sharedMaterial = cluster3Color;
+                dataPoint.GetComponent<Renderer> ().sharedMaterial = cluster3Material;
             } else if (clusterGroup == 4) {
-                dataPoint.GetComponent<Renderer> ().sharedMaterial = cluster4Color;
+                dataPoint.GetComponent<Renderer> ().sharedMaterial = cluster4Material;
             }
 
-        }
+            // Pull metadata values from the CSV file for each data point
+            string meta1 = (pointList[i][metadata1]).ToString ();
+            string meta2 = (pointList[i][metadata2]).ToString ();
+            string meta3 = (pointList[i][metadata3]).ToString ();
+            string meta4 = (pointList[i][metadata4]).ToString ();
+            string meta5 = (pointList[i][metadata5]).ToString ();
+            string meta6 = (pointList[i][metadata6]).ToString ();
+            string meta7 = (pointList[i][metadata7]).ToString ();
 
-        metadata = GameObject.Find ("Text");
-        metadata.transform.rotate(0, 270, 0, relativeTo = Space.Self);
-        Debug.Log ("Text object found");
-        metadata.GetComponent<TextMesh> ().text = "Age: 32 \n Location: CA";
+            // Set text values in the Text Mesh component of the child object for each data point
+            dataPoint.GetComponentInChildren<TextMesh> ().text =
+                meta1Label + meta1 + "\n" + meta2Label + meta2 + "\n" + meta3Label + meta3 + "\n" + meta4Label + meta4 + "\n" + meta5Label + meta5 + "\n" + meta6Label + meta6 + "\n" + meta7Label + meta7;
+
+            // HidePoint (dataPoint);
+
+        }
 
     }
 
     private void HighlightPoints () {
 
-        // Get count (number of rows in table)
-        rowCount = pointList.Count;
-
-        // int clusterGroup;
-
-        for (var i = 0; i < pointList.Count; i++) {
+        // Loop through every row in the CSV file
+        for (var i = 0; i < rowCount; i++) {
 
             // Set x/y/z, standardized to between 0-1
             float x = (Convert.ToSingle (pointList[i][xDimensionName]) - xMin) / (xMax - xMin);
@@ -221,32 +248,48 @@ public class PointRenderer : MonoBehaviour {
             // Get value for interview participants 1 = interview, null = no interview
             int interview = (Convert.ToInt32 (pointList[i][interviewVariableName]));
 
-            // Make prefab white if the data point is an interview participant
+            // Adds highlight to data point only if there is an interview value
             if (interview == 1) {
-                // Place prefabas in the right spots blah blah blah same as in the PlacePointPrefabs method
+
+                // Place prefabas in the right spots blah blah blah (same as everything in the PlacePointPrefabs method)
                 Vector3 position = new Vector3 (x, y, z) * plotScale;
                 GameObject highlightPoint = Instantiate (highlightPrefab, Vector3.zero, Quaternion.identity);
-
                 highlightPoint.transform.parent = PointHolder.transform;
                 highlightPoint.transform.localPosition = position;
-                highlightPoint.transform.localScale = new Vector3 (highlightScale, highlightScale, highlightScale);
+                highlightPoint.transform.localScale = new Vector3 (highlightPointScale, highlightPointScale, highlightPointScale);
                 string highlightPointName = i.ToString ();
-                highlightPoint.transform.name = highlightPointName;
+                highlightPoint.transform.name = highlightPointName + " highlight";
 
-                highlightPoint.GetComponent<Renderer> ().sharedMaterial = highlightColor;
+                // Set material to be highlight material
+                // highlightPoint.GetComponent<Renderer> ().sharedMaterial = highlightMaterial;
 
-                // // Set color according to cluster value
-                // if (clusterGroup == 1) {
-                //     highlightPoint.GetComponent<Renderer> ().sharedMaterial = cluster1Color;
-                // } else if (clusterGroup == 2) {
-                //     highlightPoint.GetComponent<Renderer> ().sharedMaterial = cluster2Color;
-                // } else if (clusterGroup == 3) {
-                //     highlightPoint.GetComponent<Renderer> ().sharedMaterial = cluster3Color;
-                // } else if (clusterGroup == 4) {
-                //     highlightPoint.GetComponent<Renderer> ().sharedMaterial = cluster4Color;
-                // }
+                // Set color according to cluster value
+                if (clusterGroup == 1) {
+                    highlightPoint.GetComponent<Renderer> ().sharedMaterial = cluster1Material;
+                } else if (clusterGroup == 2) {
+                    highlightPoint.GetComponent<Renderer> ().sharedMaterial = cluster2Material;
+                } else if (clusterGroup == 3) {
+                    highlightPoint.GetComponent<Renderer> ().sharedMaterial = cluster3Material;
+                } else if (clusterGroup == 4) {
+                    highlightPoint.GetComponent<Renderer> ().sharedMaterial = cluster4Material;
+                }
+
+                string meta1 = (pointList[i][metadata1]).ToString ();
+                string meta2 = (pointList[i][metadata2]).ToString ();
+
+                highlightPoint.GetComponentInChildren<TextMesh> ().text = meta1;
+
+                highlightPoint.gameObject.tag = "Label";
+
             }
 
+        }
+
+    }
+
+    public void HidePoint (GameObject child) {
+        if (child.tag != "Label") {
+            child.SetActive (false);
         }
     }
 
@@ -254,10 +297,10 @@ public class PointRenderer : MonoBehaviour {
     // WARNING: game objects need to be named within scene
     private void AssignLabels () {
         // Update point counter
-        GameObject.Find ("Point_Count").GetComponent<TextMesh> ().text = pointList.Count.ToString ("0");
+        //GameObject.Find ("Point_Count").GetComponent<TextMesh> ().text = pointList.Count.ToString ("0");
 
         // Update title according to inputFile name
-        GameObject.Find ("Dataset_Label").GetComponent<TextMesh> ().text = inputFile;
+        //GameObject.Find ("Dataset_Label").GetComponent<TextMesh> ().text = inputFile;
 
         // Update axis titles to ColumnNames
         GameObject.Find ("X_Title").GetComponent<TextMesh> ().text = xDimensionName;
@@ -265,19 +308,25 @@ public class PointRenderer : MonoBehaviour {
         GameObject.Find ("Z_Title").GetComponent<TextMesh> ().text = zDimensionName;
 
         // Set x Labels by finding game objects and setting TextMesh and assigning value (need to convert to string)
-        GameObject.Find ("X_Min_Lab").GetComponent<TextMesh> ().text = xMin.ToString ("0.0");
-        GameObject.Find ("X_Mid_Lab").GetComponent<TextMesh> ().text = (xMin + (xMax - xMin) / 2f).ToString ("0.0");
-        GameObject.Find ("X_Max_Lab").GetComponent<TextMesh> ().text = xMax.ToString ("0.0");
+        GameObject.Find ("X_Min_Lab").GetComponent<TextMesh> ().text = "Low";
+        GameObject.Find ("X_Max_Lab").GetComponent<TextMesh> ().text = "High";
+        // GameObject.Find ("X_Min_Lab").GetComponent<TextMesh> ().text = xMin.ToString ("0.0");
+        // GameObject.Find ("X_Mid_Lab").GetComponent<TextMesh> ().text = (xMin + (xMax - xMin) / 2f).ToString ("0.0");
+        // GameObject.Find ("X_Max_Lab").GetComponent<TextMesh> ().text = xMax.ToString ("0.0");
 
         // Set y Labels by finding game objects and setting TextMesh and assigning value (need to convert to string)
-        GameObject.Find ("Y_Min_Lab").GetComponent<TextMesh> ().text = yMin.ToString ("0.0");
-        GameObject.Find ("Y_Mid_Lab").GetComponent<TextMesh> ().text = (yMin + (yMax - yMin) / 2f).ToString ("0.0");
-        GameObject.Find ("Y_Max_Lab").GetComponent<TextMesh> ().text = yMax.ToString ("0.0");
+        GameObject.Find ("Y_Min_Lab").GetComponent<TextMesh> ().text = "Low";
+        GameObject.Find ("Y_Max_Lab").GetComponent<TextMesh> ().text = "High";
+        // GameObject.Find ("Y_Min_Lab").GetComponent<TextMesh> ().text = yMin.ToString ("0.0");
+        // GameObject.Find ("Y_Mid_Lab").GetComponent<TextMesh> ().text = (yMin + (yMax - yMin) / 2f).ToString ("0.0");
+        // GameObject.Find ("Y_Max_Lab").GetComponent<TextMesh> ().text = yMax.ToString ("0.0");
 
         // Set z Labels by finding game objects and setting TextMesh and assigning value (need to convert to string)
-        GameObject.Find ("Z_Min_Lab").GetComponent<TextMesh> ().text = zMin.ToString ("0.0");
-        GameObject.Find ("Z_Mid_Lab").GetComponent<TextMesh> ().text = (zMin + (zMax - zMin) / 2f).ToString ("0.0");
-        GameObject.Find ("Z_Max_Lab").GetComponent<TextMesh> ().text = zMax.ToString ("0.0");
+        GameObject.Find ("Z_Min_Lab").GetComponent<TextMesh> ().text = "Low";
+        GameObject.Find ("Z_Max_Lab").GetComponent<TextMesh> ().text = "High";
+        // GameObject.Find ("Z_Min_Lab").GetComponent<TextMesh> ().text = zMin.ToString ("0.0");
+        // GameObject.Find ("Z_Mid_Lab").GetComponent<TextMesh> ().text = (zMin + (zMax - zMin) / 2f).ToString ("0.0");
+        // GameObject.Find ("Z_Max_Lab").GetComponent<TextMesh> ().text = zMax.ToString ("0.0");
 
     }
 

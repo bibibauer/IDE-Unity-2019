@@ -1,10 +1,19 @@
 fileFormatVersion: 2
 guid: 513496aa1bf5daa40ab1b20759aa0a40
-timeCreated: 1520017426
-licenseType: Free
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - cluster1Material: {fileID: 2100000, guid: f11165a97158a4d2aa9312920d28cda8, type: 2}
+  - cluster2Material: {fileID: 2100000, guid: b07380573493a4937a63035e4a153b6b, type: 2}
+  - cluster3Material: {fileID: 2100000, guid: ba5a7125d0d0d4a9ea2d992c41e46343, type: 2}
+  - cluster4Material: {fileID: 2100000, guid: a77e0d1ff17004e8db5e712db4aa3747, type: 2}
+  - highlightMaterial: {fileID: 2100000, guid: de0f95dffbb624d54ae328de0e719578, type: 2}
+  - pointPrefab: {fileID: 1066957800428120, guid: 19d79ab192d0f434984680078fc7ddda,
+      type: 3}
+  - highlightPrefab: {fileID: 1103527760695654, guid: f651331ec8b2b0d43abf2f06b702bd1f,
+      type: 3}
+  - PointHolder: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

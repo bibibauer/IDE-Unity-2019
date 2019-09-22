@@ -1,0 +1,1012 @@
+TRUST_DIMENSION,CARE_DIMENSION,FAIR_DIMENSION,Cluster_4,INTERVIEW,Q14.1,Q1.2_GENDER,Q1.3_AGE,Q1.4_EDU,Q13.5_FINANCES,Q13.2_GEOG,Q13.6_POLITICS,Q2.6_TECH_ECO,Q2.5_1,Q2.5_2,Q2.5_3,Q2.5_4,Q2.5_5,Q2.5_6
+-2.094239521,0.597979823,-1.863844139,4,0,4,Male,18 - 24,Highschool,Living month to month and just getting by,Countryside,Independent,Samsung,-3,-2,1,-3,-2,3
+-1.626551885,1.143506116,-2.610770068,4,0, ,Female,25 - 34,Master's degree,Have enough but should save more,Suburban,NOTHING REALLY,Samsung,1,0,-4,-2,0,0
+-2.178887597,0.699255873,-2.610483298,4,0, ,Female,25 - 34,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Samsung,2,-3,2,2,-1,-3
+-2.547111405,0.602403167,-2.452470492,4,0, ,Male,25 - 34,Some college / Associate degree,Living month to month and just getting by,Exurb,Independent,I'm not sure,0,0,1,1,-2,3
+-2.044507607,1.126965207,-2.286956164,4,0, ,Female,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Apple,2,2,2,2,2,1
+-0.693299828,1.48475161,-2.251094884,4,0, ,Female,45 - 54,Highschool,Living month to month and just getting by,Gated Community,Independent,Samsung,5,-5,5,5,-5,4
+-1.910127617,1.058194742,-2.178012765,4,0, ,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Republican,Apple,2,3,3,3,-2,3
+-0.696115109,1.143506116,-2.134438754,4,0, ,Female,45 - 54,Highschool,Living month to month and just getting by,Large City or Metropolitan,Republican,Google,0,5,-5,-5,5,2
+-2.086831645,0.277122349,-2.098576206,4,0, ,Male,45 - 54,Highschool,Have enough but should save more,Suburban,Independent,Others,1,2,0,0,-4,3
+-1.350384029,0.170846722,-2.091648225,4,0, ,Female,18 - 24,Bachelor's degree,Living month to month and just getting by,Small City or Town,Liberal,Samsung,3,-2,5,1,-5,-2
+-2.270943549,0.716949248,-2.091648225,4,0, ,Female,45 - 54,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Independent,Others,1,4,-5,-5,1,1
+-1.994775693,-0.606954793,-2.03356915,4,0, ,Male,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Other,NOTHING REALLY,Others,5,-3,3,3,-4,0
+-1.350384029,0.249040107,-2.032995609,4,0, ,Female,55 - 64,Some highschool,Living month to month and just getting by,Large City or Metropolitan,Republican,Samsung,-1,5,5,4,5,5
+-1.129059665,0.691561651,-1.976101397,4,0, ,Male,55 - 64,Trade / technical / vocational school,Have enough but should save more,Suburban,Republican,Others,2,-1,2,1,-1,2
+-0.713400241,1.134659428,-1.947491381,4,0, ,Male,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Countryside,Democrat,Google,3,-2,1,1,-5,4
+-1.308059991,0.162000034,-1.889985847,4,0, ,Female,45 - 54,Bachelor's degree,Have enough but should save more,Suburban,Republican,Samsung,5,-5,5,5,-5,-5
+-1.173680001,0.520938904,-1.874696032,4,0, ,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Independent,Others,1,-1,-3,-3,-3,1
+-1.584227847,0.602403167,-1.86719451,4,0, ,Female,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,NOTHING REALLY,I'm not sure,1,-1,2,-1,-1,-2
+0.560221437,1.309705519,-1.817477269,4,0, ,Male,55 - 64,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Republican,Others,4,0,4,1,-2,-1
+-1.902719741,1.399440237,-1.817190498,4,0, ,Male,18 - 24,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Samsung,4,-3,-4,1,-5,2
+0.080360248,1.570062984,-1.809975747,4,0, ,Female,55 - 64,Some highschool,Sometimes there isn't enough to pay all the bills,Countryside,Republican,Others,0,2,3,2,5,0
+-1.994775693,0.878725308,-1.73804071,4,0, ,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Countryside,Democrat,Samsung,1,2,1,1,-3,0
+-1.497283473,1.570062984,-1.673033654,4,0, ,Female,45 - 54,Trade / technical / vocational school,Living very comfortably and spending freely,Exurb,Independent,Others,4,5,5,4,-5,4
+-1.049523166,1.22881749,-1.646605175,4,0, ,Male,55 - 64,Highschool,Living month to month and just getting by,Small City or Town,Republican,Samsung,-4,2,-3,1,1,4
+-2.455055453,1.22881749,-1.64503496,4,0, ,Female,18 - 24,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,Socialist,Apple,1,-2,2,1,1,3
+-1.828294821,1.143506116,-1.63539095,4,0, ,Female,35 - 44,Trade / technical / vocational school,Living month to month and just getting by,Countryside,DON'T CARE ABOUT POLITICS,Apple,0,2,3,3,4,5
+-1.129059665,1.058194742,-1.630031916,4,0, ,Female,35 - 44,Bachelor's degree,Living month to month and just getting by,Countryside,Independent,Samsung,1,2,0,-1,-1,3
+-1.400115943,1.22881749,-1.596314393,4,0, ,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,Others,1,1,1,-1,-3,4
+-1.265735953,0.627214531,-1.586382344,4,0, ,Female,55 - 64,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Samsung,-2,4,-3,-1,1,4
+0.067840795,1.134659428,-1.574670138,4,0, ,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Independent,Apple,4,4,4,3,3,-5
+-1.320579444,0.265004783,-1.540664576,4,0, ,Male,45 - 54,Some college / Associate degree,Living very comfortably and spending freely,Suburban,Republican,Others,-1,2,-2,-2,2,2
+-1.275959109,0.268275661,-1.53884664,4,0, ,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,NOTHING REALLY,I'm not sure,4,0,1,0,-4,0
+-0.370215339,1.309705519,-1.514734077,4,0, ,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Small City or Town,Republican,Apple,4,-5,5,4,-4,-3
+-1.549311684,-0.626190348,-1.493089823,4,0, ,Female,18 - 24,Highschool,Have enough but should save more,Small City or Town,Independent,Apple,1,-1,1,1,-1,1
+-0.790986342,0.610097388,-1.402802639,4,0, ,Female,45 - 54,Bachelor's degree,Have enough but should save more,Countryside,Socialist,Others,-1,4,1,-1,1,4
+-1.497283473,0.793413934,-1.401903278,4,0, ,Female,45 - 54,Bachelor's degree,Have enough but should save more,Small City or Town,Independent,HTC,1,0,-2,0,-2,1
+-2.086831645,-0.9063596,-1.365793009,4,0, ,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Samsung,3,-1,0,-1,0,-2
+-1.046707886,1.391169782,-1.35614773,4,0, ,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,Others,5,0,3,3,-3,2
+-2.086831645,1.399440237,-1.348932979,4,0, ,Male,45 - 54,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Others,4,3,2,2,-4,2
+-1.534495933,1.570062984,-1.341718227,4,0, ,Male,45 - 54,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Democrat,Others,-1,5,2,1,1,1
+-1.442439981,1.570062984,-1.327538983,4,0, ,Female,25 - 34,Bachelor's degree,Have enough but should save more,Suburban,NOTHING REALLY,Google,2,-4,3,4,-3,5
+-0.198622889,0.610673621,-1.305645738,4,0, ,Female,35 - 44,Bachelor's degree,Living month to month and just getting by,Countryside,Republican,Others,0,0,-3,-3,0,0
+-1.641367636,0.870454853,-1.284212693,4,0, ,Female,45 - 54,Some college / Associate degree,Living comfortably with some left over,Small City or Town,Republican,Samsung,4,3,2,1,3,-5
+-1.492171895,1.045500944,-1.283925923,4,0, ,Male,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Independent,Others,2,-1,3,3,-1,1
+-1.867803578,0.252310985,-1.283352382,4,0, ,Male,55 - 64,Some college / Associate degree,Have enough but should save more,Countryside,Independent,Samsung,1,1,-1,0,-1,1
+-2.270943549,1.570062984,-1.270644771,4,0, ,Female,25 - 34,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Apple,5,-5,5,5,-5,-5
+-1.188495751,-0.809506894,-1.26949642,4,0, ,Male,35 - 44,Highschool,Have enough but should save more,Countryside,Republican,Samsung,2,3,1,1,0,1
+-1.584227847,1.48475161,-1.204776135,4,0, ,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Exurb,Independent,I'm not sure,-1,2,2,2,-1,4
+-1.322875742,0.337046125,-1.133127868,4,0, ,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Google,5,-5,5,5,-5,-5
+-2.178887597,-1.326374712,-1.132841098,4,0, ,Female,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Socialist,Others,0,0,0,0,-3,0
+-0.278159387,0.866031509,-1.039836616,4,0, ,Female,55 - 64,Highschool,Living very comfortably and spending freely,Small City or Town,Democrat,Apple,4,-4,4,4,-4,-4
+-1.783155502,0.252310985,-1.039548577,4,0, ,Male,18 - 24,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Independent,Samsung,2,1,2,2,2,3
+-1.407523818,1.399440237,-1.020297069,4,0, ,Female,45 - 54,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Apple,0,3,2,2,3,0
+-1.164321728,-0.171551238,-1.005868835,4,0, ,Female,35 - 44,Master's degree,Living very comfortably and spending freely,Suburban,Democrat,Apple,3,1,-3,-4,1,-2
+-1.313171569,1.48475161,-1.000435508,4,0, ,Male,45 - 54,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Independent,Others,3,-1,5,0,4,5
+-0.591539704,0.170846722,-0.997755991,4,0, ,Male,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,DON'T CARE ABOUT POLITICS,Others,3,1,2,2,0,-1
+-0.514299502,0.972883369,-0.988397483,4,0, ,Female,55 - 64,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Samsung,-3,3,3,0,5,4
+-1.626551885,0.699832106,-0.987823942,4,0, ,Female,35 - 44,Bachelor's degree,Have enough but should save more,Small City or Town,Independent,Apple,2,3,2,2,-2,1
+0.030628334,1.570062984,-0.98147077,4,0, ,Female,65 - 74,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,DON'T CARE ABOUT POLITICS,I'm not sure,-5,5,5,-2,5,5
+-1.141579118,0.964036681,-0.976111736,4,0, ,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Countryside,Republican,Others,2,3,-1,-3,-3,1
+-0.907735301,0.431204187,-0.966143175,4,0, ,Male,25 - 34,Bachelor's degree,Living month to month and just getting by,Small City or Town,Libertarian,Samsung,5,1,2,5,-2,1
+-0.688707234,0.426780843,-0.959826516,4,0, ,Male,25 - 34,Some highschool,Living comfortably with some left over,Suburban,Republican,Microsoft,1,1,3,-1,-3,4
+-0.273047809,1.399440237,-0.95110235,4,0, ,Male,18 - 24,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Apple,5,-5,5,5,-5,5
+-0.728215991,-0.101628308,-0.922816886,4,0, ,Male,25 - 34,Highschool,Living month to month and just getting by,Large City or Metropolitan,Independent,Samsung,3,3,3,3,-3,3
+-0.823087224,0.525362248,-0.918606202,4,0, ,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,3,2,-1,-1,2,2
+-0.996975972,1.058194742,-0.908960924,4,0, ,Male,45 - 54,Highschool,Living month to month and just getting by,Suburban,Republican,Others,3,2,2,2,-3,2
+-1.952451655,1.053771399,-0.902032943,4,0, ,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Others,2,4,3,1,2,3
+-1.086735627,0.887571995,-0.895393001,4,0, ,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Exurb,NOTHING REALLY,Samsung,3,-2,5,3,3,1
+-1.591635722,-0.088934509,-0.887604709,4,0, ,Male,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Democrat,Apple,3,-2,3,3,2,3
+-1.541903809,-0.711501721,-0.873175206,4,0, ,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Democrat,Apple,-2,1,-1,-1,2,1
+-0.780763186,0.333775247,-0.861100669,4,0, ,Male,25 - 34,Master's degree,Living comfortably with some left over,Suburban,Independent,Samsung,3,-2,5,2,-1,3
+-0.636160039,0.431204187,-0.843093556,4,0, ,Female,55 - 64,Some college / Associate degree,Living very comfortably and spending freely,Suburban,Democrat,Apple,0,0,2,0,2,3
+-0.233539052,1.570062984,-0.836740385,4,0, ,Male,25 - 34,Master's degree,Living very comfortably and spending freely,Gated Community,DON'T CARE ABOUT POLITICS,Others,0,3,0,1,0,-2
+-2.086831645,0.716949248,-0.832815204,4,0, ,Female,35 - 44,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,Samsung,1,2,-4,-1,1,4
+-0.584131828,0.529209359,-0.826808336,4,0, ,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Apple,3,-1,3,3,-2,1
+-0.947244058,0.265004783,-0.815956442,4,0, ,Female,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Apple,1,-1,-3,-2,3,3
+-1.400115943,0.252310985,-0.787059656,4,0, ,Female,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,Independent,Others,5,-3,2,2,-4,-3
+-1.683691674,0.528633126,-0.752805104,4,0, ,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Samsung,4,1,2,-2,0,2
+-1.049523166,0.691561651,-0.733229045,4,0, ,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Suburban,Republican,Others,4,0,3,3,-5,1
+-0.922551051,0.252310985,-0.717555146,4,0, ,Male,45 - 54,Trade / technical / vocational school,Have enough but should save more,Countryside,Independent,Others,5,-4,1,1,-4,1
+-0.57902025,0.610097388,-0.613719255,4,0, ,Female,45 - 54,Trade / technical / vocational school,Living month to month and just getting by,Small City or Town,NOTHING REALLY,Others,3,-1,5,4,-1,4
+-0.996975972,-0.00804648,-0.592076269,4,0, ,Male,35 - 44,Trade / technical / vocational school,Living month to month and just getting by,Small City or Town,DON'T CARE ABOUT POLITICS,Others,3,-1,1,1,-2,1
+-1.818071665,0.70425545,-0.525250007,4,0, ,Female,25 - 34,Bachelor's degree,Living very comfortably and spending freely,Exurb,Republican,Apple,3,-3,2,3,-2,2
+-0.820271943,1.395016893,-0.517137163,4,0, ,Female,55 - 64,Highschool,Living month to month and just getting by,Exurb,Democrat,Others,-1,5,-2,-4,4,-2
+-0.643567915,1.48475161,-0.475630079,4,0, ,Female,18 - 24,Some college / Associate degree,Have enough but should save more,Small City or Town,NOTHING REALLY,Others,-2,2,1,-1,5,1
+-1.186199454,0.956342459,-0.462062157,4,0, ,Male,55 - 64,Highschool,Have enough but should save more,Large City or Metropolitan,Democrat,Others,2,1,-1,-5,2,5
+-2.178887597,-0.715348832,-0.433489921,4,0, ,Non-Binary,18 - 24,Highschool,Living month to month and just getting by,Suburban,Independent,Apple,-3,4,2,1,5,1
+-0.917439473,1.399440237,-0.370874343,4,0, ,Male,35 - 44,Highschool,Living month to month and just getting by,Suburban,Independent,Others,-3,5,3,3,-3,3
+-1.129059665,1.314128863,-0.360981343,4,0, ,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Suburban,DON'T CARE ABOUT POLITICS,Apple,2,-4,-3,-5,-5,1
+-1.370311358,0.252310985,-0.359124358,4,0, ,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Exurb,Republican,Others,4,1,0,1,-2,2
+-1.768339751,0.260005207,-0.346227289,4,0, ,Male,45 - 54,Highschool,Have enough but should save more,Suburban,Democrat,Others,2,-5,1,0,-5,2
+-1.3308026,1.570062984,-0.329020956,4,0, ,Male,35 - 44,Master's degree,Sometimes there isn't enough to pay all the bills,Suburban,Liberal,Others,5,-3,5,5,-5,-5
+-1.683691674,1.309705519,-0.305295015,4,0, ,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Countryside,Independent,Apple,5,-5,5,5,-5,2
+-0.90492002,0.268851894,-0.296547829,4,0, ,Male,18 - 24,Some college / Associate degree,Living month to month and just getting by,Suburban,Liberal,Apple,3,0,2,0,-5,0
+-1.06204262,0.53305647,-0.289333077,4,0, ,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Countryside,Democrat,Others,-3,5,1,1,1,3
+-1.287959579,0.51651556,-0.245395466,4,0, ,Female,35 - 44,Highschool,Living month to month and just getting by,Countryside,Democrat,Apple,3,3,4,3,1,2
+-0.877930716,1.48475161,-0.100318777,4,0, ,Female,65 - 74,Highschool,Living comfortably with some left over,Exurb,Independent,Samsung,-2,-1,0,-1,2,3
+-1.400115943,0.883148652,-0.08770848,4,0, ,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Liberal,Others,2,3,-2,-2,5,5
+-1.23363507,0.601826934,-0.032020882,4,0, ,Male,55 - 64,Master's degree,Living month to month and just getting by,Small City or Town,Democrat,Samsung,1,-2,5,4,-4,2
+-1.547015387,1.135235661,-0.032020882,4,0, ,Male,45 - 54,Master's degree,Living comfortably with some left over,Large City or Metropolitan,Liberal,Apple,3,1,4,2,-1,2
+-1.195903627,0.691561651,-0.005841394,4,0, ,Male,35 - 44,Bachelor's degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Apple,3,2,2,2,1,2
+-1.92264707,0.606250278,0.036850554,4,0, ,Male,25 - 34,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Apple,3,-4,3,4,-3,-2
+-1.216004039,0.615096965,0.662546069,4,0, ,Female,55 - 64,Highschool,Living month to month and just getting by,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Apple,5,0,5,5,-5,5
+0.455991931,0.96018957,-1.008547083,3,0, ,Female,35 - 44,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Democrat,Samsung,4,1,5,4,-4,2
+1.204613101,0.597979823,-0.830384677,3,0, ,Female,25 - 34,Highschool,Living comfortably with some left over,Suburban,NOTHING REALLY,Google,4,-3,5,5,4,1
+0.585260344,1.399440237,-0.826747535,3,0, ,Male,55 - 64,Trade / technical / vocational school,Living comfortably with some left over,Countryside,Independent,Samsung,4,-1,5,5,3,2
+0.256545293,1.399440237,-0.606505772,3,0, ,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Others,5,-3,4,3,-4,1
+0.30398091,0.955766227,-0.475630079,3,0, ,Male,35 - 44,Master's degree,Have enough but should save more,Suburban,Independent,Samsung,3,-4,5,3,-4,1
+0.346304948,1.570062984,-0.471706167,3,0, ,Male,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,NOTHING REALLY,Samsung,-1,2,-1,-1,2,2
+0.512785821,1.130812318,-0.467820035,3,0, ,Male,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,NOTHING REALLY,I'm not sure,4,3,4,4,-2,-4
+0.346304948,1.570062984,-0.41992073,3,0, ,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Democrat,Google,4,3,4,4,-4,3
+0.425841447,1.224394146,-0.361268114,3,0, ,Female,35 - 44,Some highschool,Living month to month and just getting by,Suburban,Independent,Google,4,1,5,3,-1,-1
+-0.173583982,0.866031509,-0.314614473,3,0, ,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Democrat,Apple,5,-5,5,5,-5,-5
+1.015389619,1.139082772,-0.286269476,3,0, ,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,HTC,2,2,3,3,-1,5
+0.114757428,1.143506116,-0.251116832,3,0, ,Female,55 - 64,Highschool,Have enough but should save more,Large City or Metropolitan,Republican,Others,-3,3,-4,-2,5,3
+0.37840583,0.695984995,-0.217684811,3,0, ,Male,35 - 44,Some highschool,Living month to month and just getting by,Small City or Town,DON'T CARE ABOUT POLITICS,Samsung,2,-3,1,3,3,2
+1.070233111,1.0410776,-0.176177727,3,0, ,Male,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Republican,Apple,4,2,4,3,4,5
+0.831277715,1.053771399,-0.172886888,3,0, ,Female,45 - 54,Trade / technical / vocational school,Living month to month and just getting by,Suburban,Democrat,Others,-1,2,1,3,1,2
+-0.243762208,1.143506116,-0.159605736,3,0, ,Female,55 - 64,Highschool,Living month to month and just getting by,Countryside,DON'T CARE ABOUT POLITICS,Samsung,5,-5,5,5,-5,5
+0.259360574,1.049348055,-0.12110272,3,0, ,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Samsung,3,-2,3,4,-3,-1
+0.204517082,1.570062984,-0.036842887,3,0, ,Male,45 - 54,Highschool,Living comfortably with some left over,Countryside,Republican,Samsung,1,5,1,1,1,4
+-0.412539378,1.309705519,-0.031734112,3,0, ,Female,18 - 24,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Apple,2,3,4,3,-1,-2
+0.259360574,0.781296369,-0.031447341,3,0, ,Male,25 - 34,Some highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,Others,3,4,4,3,3,3
+0.794065255,0.955766227,-0.028730044,3,0, ,Female,45 - 54,Highschool,Living month to month and just getting by,Exurb,Republican,Others,3,-2,2,4,5,3
+0.092360718,1.309705519,-0.028444541,3,0, ,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,Republican,Apple,1,4,2,2,-2,1
+0.436064603,1.570062984,-0.001307428,3,0, ,Male,18 - 24,Highschool,Have enough but should save more,Suburban,NOTHING REALLY,Others,5,-5,5,5,-5,-5
+0.923333667,0.606250278,0.006195363,3,0, ,Female,45 - 54,Highschool,Have enough but should save more,Exurb,Republican,Others,1,2,1,1,2,3
+0.7043056,0.614520732,0.012549802,3,0, ,Male,45 - 54,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Others,5,0,0,2,0,1
+-0.63897532,1.143506116,0.013410114,3,0, ,Male,35 - 44,Highschool,Living month to month and just getting by,Countryside,Democrat,I'm not sure,-4,5,4,2,2,-2
+0.174712497,1.399440237,0.018805661,3,0, ,Female,18 - 24,Highschool,Have enough but should save more,Small City or Town,NOTHING REALLY,Apple,2,-2,3,2,1,-3
+-0.370215339,0.968460025,0.019130212,3,0, ,Male,65 - 74,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Democrat,Samsung,3,3,4,3,0,1
+1.107445571,0.525362248,0.023340895,3,0, ,Female,18 - 24,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Independent,Samsung,5,1,-2,3,2,2
+0.209109677,0.618944076,0.040260457,3,0, ,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Small City or Town,DON'T CARE ABOUT POLITICS,Apple,4,-3,3,5,1,2
+0.022701476,0.610673621,0.063987667,3,0, ,Male,18 - 24,Highschool,Living comfortably with some left over,Exurb,Democrat,I'm not sure,0,0,0,0,0,0
+1.296669053,0.862760631,0.096197045,3,0, ,Female,18 - 24,Master's degree,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Apple,5,-5,5,5,-5,-4
+-0.007103109,1.309705519,0.119063943,3,0, ,Male,45 - 54,Master's degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Apple,4,2,1,3,-2,3
+-0.101455359,0.699255873,0.128383401,3,0, ,Female,18 - 24,Highschool,Have enough but should save more,Suburban,Democrat,Apple,3,1,4,4,-1,1
+0.214221255,0.520938904,0.155747753,3,0, ,Female,35 - 44,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Google,2,-2,3,4,-3,0
+0.756852794,0.427357076,0.173181325,3,0, ,Male,18 - 24,Bachelor's degree,Have enough but should save more,Exurb,Democrat,Apple,3,-3,4,4,-4,1
+-0.303198294,1.139082772,0.187994911,3,0, ,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,Others,3,3,4,3,2,4
+0.930741542,0.43562753,0.191918824,3,0, ,Female,25 - 34,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Apple,2,-1,3,2,-1,-1
+-0.014510985,1.314128863,0.208431282,3,0, ,Male,25 - 34,Highschool,Living month to month and just getting by,Large City or Metropolitan,Republican,Others,-5,5,0,-5,-5,-5
+-0.059650304,1.570062984,0.215357995,3,0, ,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Independent,Samsung,5,5,5,5,5,5
+0.746629638,0.431204187,0.219856717,3,0, ,Male,55 - 64,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Independent,I'm not sure,1,2,1,1,-1,3
+0.980473456,0.166423378,0.230075537,3,0, ,Female,18 - 24,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Republican,Apple,4,0,3,4,0,3
+0.293757754,1.395016893,0.246934298,3,0, ,Female,25 - 34,Highschool,Living comfortably with some left over,Exurb,NOTHING REALLY,Samsung,4,5,1,3,-2,3
+1.246937139,0.687138307,0.252942435,3,0, ,Female,18 - 24,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,NOTHING REALLY,Apple,5,2,4,5,-1,5
+0.090064421,0.691561651,0.325164242,3,0, ,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Libertarian,Apple,5,3,5,3,-4,-3
+0.070137092,1.309705519,0.388375113,3,0, ,Male,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Republican,Others,2,-4,2,2,3,-4
+0.132388459,0.520362671,0.394095211,3,0, ,Male,25 - 34,Bachelor's degree,Living month to month and just getting by,Small City or Town,Independent,Apple,2,3,4,3,1,3
+0.254248996,0.431204187,0.398592664,3,0, ,Male,25 - 34,Bachelor's degree,Living month to month and just getting by,Suburban,Independent,Others,2,3,2,2,2,3
+-0.116271109,1.570062984,0.425731047,3,0, ,Female,25 - 34,Highschool,Living month to month and just getting by,Large City or Metropolitan,Independent,Apple,2,-1,3,-2,4,3
+0.567629312,1.224394146,0.446454188,3,0, ,Female,35 - 44,Highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Apple,1,-4,4,2,-3,-2
+0.480684938,1.395016893,0.456098198,3,0, ,Male,25 - 34,Some college / Associate degree,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Samsung,5,-5,5,5,-5,-5
+0.881009629,0.345892813,0.508457176,3,0, ,Male,18 - 24,Bachelor's degree,Living comfortably with some left over,Small City or Town,Republican,Others,-1,4,1,1,1,2
+0.385813706,0.520362671,0.559669071,3,0, ,Male,45 - 54,Some highschool,Living month to month and just getting by,Countryside,Independent,Samsung,5,-2,5,5,-5,-3
+0.159377763,1.570062984,0.618608458,3,0, ,Female,25 - 34,Highschool,Living month to month and just getting by,Countryside,DON'T CARE ABOUT POLITICS,Samsung,3,2,0,0,-3,0
+-0.462271291,0.431204187,0.621325756,3,0, ,Male,35 - 44,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Small City or Town,Republican,HTC,4,-2,4,3,-4,0
+-0.240946927,0.606250278,0.628827278,3,0, ,Female,18 - 24,Professional / Doctorate degree ,Have enough but should save more,Suburban,NOTHING REALLY,Apple,4,-4,3,4,-3,-5
+0.296573034,0.68771454,0.64297001,3,0, ,Male,18 - 24,Some college / Associate degree,Living very comfortably and spending freely,Countryside,Republican,Samsung,4,2,4,2,3,4
+0.217036536,0.606250278,0.643581332,3,0, ,Male,18 - 24,Bachelor's degree,Have enough but should save more,Suburban,Independent,Apple,3,-4,4,4,2,-5
+0.443472478,1.134659428,0.663119611,3,0, ,Male,25 - 34,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Independent,Others,3,-3,3,2,-4,-3
+-0.059650304,0.180269643,0.66947405,3,0, ,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Apple,4,4,4,4,0,-5
+0.744333341,0.955766227,0.669760821,3,0, ,Female,45 - 54,Trade / technical / vocational school,Have enough but should save more,Suburban,Independent,Google,3,3,5,3,3,3
+0.702009303,0.694832529,0.683328743,3,0, ,Female,35 - 44,Highschool,Living comfortably with some left over,Large City or Metropolitan,Liberal,Samsung,5,-5,5,5,-5,-5
+0.761964372,0.147187824,0.689910421,3,0, ,Female,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Democrat,Samsung,5,1,3,4,-3,2
+0.124980584,0.687138307,0.703766383,3,0, ,Female,45 - 54,Bachelor's degree,Living comfortably with some left over,Small City or Town,Republican,Apple,5,-5,5,5,-4,-4
+1.376205552,0.26442855,0.711040667,3,0, ,Female,65 - 74,Highschool,Have enough but should save more,Small City or Town,Democrat,Apple,5,3,5,5,5,-5
+0.254248996,0.601826934,0.724835828,3,0, ,Female,18 - 24,Some college / Associate degree,Living comfortably with some left over,Suburban,Independent,Apple,4,-4,3,4,-4,1
+0.398852142,1.219970802,0.744986697,3,0, ,Male,25 - 34,Highschool,Living very comfortably and spending freely,Suburban,Democrat,I'm not sure,5,-5,5,5,-3,5
+0.746629638,0.524786015,0.751015316,3,0, ,Female,55 - 64,Highschool,Have enough but should save more,Small City or Town,Independent,Others,3,-3,3,2,-3,-3
+0.346304948,-0.085087399,0.765769371,3,0, ,Male,18 - 24,Some college / Associate degree,Living comfortably with some left over,Suburban,Democrat,Apple,3,-3,3,2,-4,-2
+0.878713331,1.143506116,0.768162117,3,0, ,Male,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,Others,-5,5,-5,0,-5,-5
+-0.083824327,0.784567246,0.779279029,3,0, ,Male,35 - 44,Bachelor's degree,Have enough but should save more,Suburban,Republican,Apple,5,2,5,5,-5,5
+0.893529082,1.309705519,0.793420493,3,0, ,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Countryside,Democrat,Apple,4,-4,5,5,-4,-4
+0.174712497,0.150458702,0.879211492,3,0, ,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,5,-1,5,5,1,1
+0.946076276,0.512668449,0.893354224,3,0, ,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Samsung,4,1,3,3,5,3
+0.933556823,1.570062984,0.910212986,3,0, ,Female,35 - 44,Highschool,Living comfortably with some left over,Small City or Town,Republican,Samsung,5,-4,5,5,-2,5
+0.227259692,0.252310985,0.914710439,3,0, ,Male,35 - 44,Bachelor's degree,Have enough but should save more,Small City or Town,Republican,Samsung,2,2,2,3,1,3
+1.751837235,0.691561651,0.922785503,3,0, ,Female,18 - 24,Some college / Associate degree,Living month to month and just getting by,Suburban,DON'T CARE ABOUT POLITICS,Apple,3,-2,1,2,3,2
+-0.091232203,0.694832529,0.942687382,3,0, ,Female,18 - 24,Master's degree,Living comfortably with some left over,Suburban,Republican,Apple,5,5,5,3,1,5
+1.341289389,0.340893236,0.95200684,3,0, ,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Apple,4,-5,4,4,-5,-5
+-0.099159061,1.139082772,0.955070441,3,0, ,Male,18 - 24,Highschool,Living comfortably with some left over,Suburban,Republican,Apple,4,-2,4,3,-3,1
+0.57274089,0.434475065,0.960179217,3,0, ,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Independent,HTC,5,-3,5,4,-5,1
+0.831277715,-0.016316934,0.97460872,3,0, ,Female,18 - 24,Bachelor's degree,Have enough but should save more,Suburban,NOTHING REALLY,Apple,3,1,5,5,3,1
+0.348601245,0.606250278,0.986645476,3,0, ,Male,18 - 24,Highschool,Living month to month and just getting by,Small City or Town,Republican,Apple,3,-4,2,2,-4,3
+-0.061946601,0.419086621,0.989936315,3,0, ,Male,18 - 24,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Independent,Apple,2,1,5,2,1,-4
+1.383613427,0.162576267,1.035367312,3,0, ,Male,25 - 34,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Republican,Samsung,4,2,3,3,2,3
+0.893529082,1.570062984,1.051365762,3,0, ,Male,18 - 24,Bachelor's degree,Living comfortably with some left over,Suburban,Republican,Apple,5,-5,5,4,-5,-5
+0.739221763,-0.015740701,1.144658282,3,0, ,Male,18 - 24,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,NOTHING REALLY,Samsung,2,4,1,1,1,2
+0.336081792,0.597979823,1.144658282,3,0, ,Male,45 - 54,Highschool,Living month to month and just getting by,Suburban,Republican,I'm not sure,5,-4,5,5,-5,-5
+1.16458536,0.870454853,1.203597669,3,0, ,Male,45 - 54,Bachelor's degree,Living very comfortably and spending freely,Suburban,Democrat,Apple,4,4,3,3,4,1
+1.199501523,0.606250278,1.210238879,3,0, ,Female,45 - 54,Master's degree,Living comfortably with some left over,Suburban,Democrat,Samsung,1,4,1,-1,-2,0
+1.199501523,0.431204187,1.316179478,3,0, ,Male,45 - 54,Highschool,Living comfortably with some left over,Large City or Metropolitan,Democrat,Apple,5,-5,5,4,-5,4
+1.517993417,0.256158096,1.361897246,3,0, ,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Small City or Town,Independent,Apple,4,2,2,1,3,3
+1.070233111,0.691561651,1.395616037,3,0, ,Male,35 - 44,Trade / technical / vocational school,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,5,4,4,5,4,4
+0.351416526,0.785143479,1.656852144,3,0, ,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Liberal,Apple,3,5,2,4,4,3
+0.361120699,1.570062984,1.744401547,3,0, ,Male,18 - 24,Highschool,Living very comfortably and spending freely,Suburban,Liberal,Samsung,5,-3,5,5,-5,-2
+1.794161273,1.305858408,1.873804337,3,0, ,Female,25 - 34,Highschool,Living comfortably with some left over,Large City or Metropolitan,Democrat,Samsung,4,4,4,4,3,3
+1.928541264,0.712525904,2.011033201,3,0, ,Female,18 - 24,Bachelor's degree,Have enough but should save more,Suburban,Republican,Apple,5,-5,5,5,-5,-5
+1.254345015,0.447745096,2.017961182,3,0, ,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Samsung,5,-5,5,5,-5,5
+0.796361552,-2.82244368,-1.153988641,2,0, ,Female,35 - 44,Highschool,Living month to month and just getting by,Suburban,Republican,Others,-5,-5,-5,-5,-5,-5
+0.470461782,-2.82244368,-0.865673684,2,0, ,Male,45 - 54,Bachelor's degree,Living month to month and just getting by,Countryside,Independent,I'm not sure,-5,5,-5,-5,5,-5
+1.107445571,-0.862312681,-0.058526191,2,0, ,Female,35 - 44,Highschool,Living very comfortably and spending freely,Small City or Town,Independent,Others,2,2,2,1,3,3
+1.125076602,-0.707654611,0.253515976,2,0, ,Female,18 - 24,Some college / Associate degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Apple,2,3,4,4,-2,3
+0.398333159,-1.765049145,0.274011879,2,0, ,Female,18 - 24,Highschool,Have enough but should save more,Suburban,DON'T CARE ABOUT POLITICS,Apple,5,-1,2,4,-5,1
+0.488092814,-1.163446186,0.367591171,2,0, ,Male,35 - 44,Highschool,Have enough but should save more,Suburban,Democrat,Samsung,3,-3,3,3,3,0
+0.199405504,-2.387040124,0.392910348,2,0, ,Female,18 - 24,Highschool,Living comfortably with some left over,Small City or Town,Republican,Apple,5,2,5,4,1,-3
+0.985585034,-0.712077954,0.470527701,2,0, ,Female,18 - 24,Bachelor's degree,Have enough but should save more,Suburban,Republican,Google,4,-4,4,4,-4,-3
+-0.486964298,-2.737132306,0.483463819,2,0, ,Female,45 - 54,Bachelor's degree,Have enough but should save more,Suburban,Independent,Apple,5,1,4,5,1,4
+1.022797494,-0.988400095,0.501815966,2,0, ,Male,18 - 24,Highschool,Living very comfortably and spending freely,Suburban,Independent,Apple,3,-3,2,2,-2,0
+0.24402584,-1.155175732,0.515385157,2,0, ,Female,45 - 54,Some college / Associate degree,Living comfortably with some left over,Small City or Town,Republican,Others,2,-2,4,5,-2,2
+0.612249648,-0.626190348,0.538885129,2,0, ,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Democrat,Others,5,0,0,0,-5,-5
+0.654573686,-0.894818267,0.546673421,2,0, ,Male,45 - 54,Highschool,Have enough but should save more,Large City or Metropolitan,Liberal,Others,1,-1,1,1,1,-1
+0.933556823,-1.67204355,0.5764683,2,0, ,Female,55 - 64,Highschool,Have enough but should save more,Suburban,Democrat,Samsung,3,3,2,0,-1,-1
+0.788953677,-0.984552985,0.621612526,2,0, ,Male,65 - 74,Trade / technical / vocational school,Have enough but should save more,Countryside,Republican,Others,4,-2,4,2,-1,4
+0.261656871,-0.717077531,0.634835415,2,0, ,Male,25 - 34,Highschool,Have enough but should save more,Suburban,Democrat,Others,5,-5,5,5,0,-5
+0.973065581,-0.789118873,0.676974304,2,0, ,Male,25 - 34,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Apple,2,-2,4,3,-3,2
+0.843797168,-1.151328621,0.724835828,2,0, ,Male,18 - 24,Highschool,Living comfortably with some left over,Large City or Metropolitan,Democrat,Samsung,3,0,5,4,2,0
+0.788953677,-0.95974162,0.731477038,2,0, ,Female,45 - 54,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Republican,Apple,4,-4,4,2,-4,-2
+0.749444919,-0.824895337,0.734767877,2,0, ,Male,25 - 34,Highschool,Living comfortably with some left over,Large City or Metropolitan,Independent,Samsung,-1,5,5,5,2,5
+0.580148766,-0.55299654,0.743800565,2,0, ,Female,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Liberal,Apple,4,-2,4,3,-4,2
+0.577333485,-1.940095236,0.793133723,2,0, ,Female,35 - 44,Master's degree,Have enough but should save more,Large City or Metropolitan,Independent,Apple,3,-1,-1,2,-3,-2
+0.351416526,-0.377950449,0.837991178,2,0, ,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Independent,I'm not sure,4,2,3,-2,-5,-2
+0.4383609,-1.253180904,0.84520593,2,0, ,Male,25 - 34,Some college / Associate degree,Living month to month and just getting by,Suburban,Libertarian,Apple,3,-2,3,5,-2,2
+1.070233111,-1.163446186,0.902673683,2,0, ,Male,25 - 34,Some college / Associate degree,Living comfortably with some left over,Small City or Town,Republican,Samsung,4,-3,3,4,-2,-2
+0.881009629,-0.186939682,0.914423669,2,0, ,Female,55 - 64,Highschool,Living month to month and just getting by,Countryside,Democrat,Google,2,-1,3,3,1,-1
+0.520193696,-0.264556833,0.993573457,2,0, ,Male,45 - 54,Bachelor's degree,Living comfortably with some left over,Suburban,Republican,Samsung,3,-2,2,2,-5,0
+1.433345341,-0.984552985,1.058867284,2,0, ,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Apple,4,-4,4,3,-4,-4
+1.199501523,-1.879595227,1.109732876,2,0, ,Male,25 - 34,Highschool,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Samsung,5,-4,5,5,-5,-5
+0.241729543,-0.894818267,1.178663844,2,0, ,Female,35 - 44,Master's degree,Living comfortably with some left over,Suburban,Republican,Apple,4,0,4,5,0,0
+0.796361552,-0.45172049,1.210238879,2,0, ,Male,18 - 24,Bachelor's degree,Living comfortably with some left over,Small City or Town,Republican,Apple,4,-3,3,4,-2,-1
+0.831277715,-0.447873379,1.27013716,2,0, ,Female,25 - 34,Some highschool,Living month to month and just getting by,Suburban,DON'T CARE ABOUT POLITICS,Samsung,5,2,4,4,1,-4
+1.107445571,-0.183668804,1.275245935,2,0, ,Female,18 - 24,Bachelor's degree,Living very comfortably and spending freely,Suburban,Republican,Samsung,4,1,4,4,2,-3
+0.973065581,-0.72419552,1.282173916,2,0, ,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Independent,Others,3,-2,3,3,-2,-2
+1.154881187,-2.046370863,1.304142722,2,0, ,Female,45 - 54,Highschool,Living comfortably with some left over,Suburban,Republican,Samsung,3,-5,4,5,-5,-5
+0.923333667,-0.545302318,1.342072196,2,0, ,Male,45 - 54,Some highschool,Have enough but should save more,Small City or Town,Republican,Samsung,5,-2,4,4,-5,-5
+1.383613427,-0.016316934,1.347467743,2,0, ,Male,25 - 34,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,Republican,Samsung,3,1,4,4,3,2
+1.391021302,-0.638307913,1.347754513,2,0, ,Male,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,NOTHING REALLY,Apple,3,-3,3,3,-2,-1
+1.333881513,-0.272251055,1.354395724,2,0, ,Male,25 - 34,Some highschool,Living comfortably with some left over,Small City or Town,Democrat,Apple,3,-4,4,2,-5,-1
+0.739221763,-2.310575438,1.440186722,2,0, ,Male,55 - 64,Some college / Associate degree,Living comfortably with some left over,Suburban,Republican,Others,5,-4,4,-3,-5,-5
+0.702009303,-1.969329944,1.493443792,2,0, ,Male,25 - 34,Highschool,Living comfortably with some left over,Large City or Metropolitan,Democrat,Samsung,4,-5,4,5,5,-5
+1.468261504,-1.422074952,1.498552568,2,0, ,Male,18 - 24,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,NOTHING REALLY,Samsung,5,-4,5,5,-5,5
+1.015389619,-1.871324772,1.505480549,2,0, ,Female,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,Google,5,-4,5,5,-4,-4
+1.560317456,-1.700702025,1.570774375,2,0, ,Male,18 - 24,Some college / Associate degree,Living comfortably with some left over,Suburban,Democrat,Samsung,3,3,4,2,5,-3
+1.192093648,-1.969329944,1.584630337,2,0, ,Male,45 - 54,Highschool,Have enough but should save more,Countryside,Republican,Others,5,-2,5,4,-3,-5
+0.811177303,-0.442873802,1.642996183,2,0, ,Male,25 - 34,Highschool,Living comfortably with some left over,Suburban,Republican,Apple,5,-5,5,5,-5,3
+1.2841496,-2.82244368,1.656852144,2,0, ,Female,25 - 34,Highschool,Living very comfortably and spending freely,Small City or Town,Independent,Samsung,5,-5,5,5,-5,0
+0.032405648,-1.969329944,1.656852144,2,0, ,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Small City or Town,Independent,Apple,5,-5,5,5,-5,5
+1.2841496,-1.969329944,1.656852144,2,0, ,Male,45 - 54,Highschool,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Samsung,5,-5,5,5,-5,-5
+1.560317456,-0.016316934,1.873517567,2,0, ,Female,45 - 54,Highschool,Living comfortably with some left over,Large City or Metropolitan,Republican,Samsung,4,2,5,5,-5,2
+1.652373408,-1.969329944,1.945739374,2,0, ,Male,45 - 54,Highschool,Have enough but should save more,Suburban,Republican,Samsung,1,-1,5,5,5,-5
+1.74442936,-1.969329944,2.017961182,2,0, ,Female,25 - 34,Some college / Associate degree,Living comfortably with some left over,Small City or Town,DON'T CARE ABOUT POLITICS,Apple,5,-5,5,5,-5,3
+0.142611615,0.077264894,-1.486448613,1,0, ,Female,35 - 44,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Samsung,3,-2,2,2,-3,1
+-0.210796442,-1.69243157,-1.479520632,1,0, ,Female,45 - 54,Bachelor's degree,Living very comfortably and spending freely,Suburban,Republican,Apple,2,-1,2,1,-5,-3
+-1.633959761,-1.858630973,-1.35586096,1,0, ,Female,45 - 54,Bachelor's degree,Living comfortably with some left over,Countryside,Democrat,I'm not sure,1,2,1,1,1,3
+-0.292975138,-1.871324772,-1.320075241,1,0, ,Female,45 - 54,Trade / technical / vocational school,Living comfortably with some left over,Suburban,Democrat,Apple,-4,-2,-2,-2,-2,1
+-0.014510985,-0.528185176,-1.298430987,1,0, ,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,-1,3,-5,-5,1,-1
+-0.094047483,-0.53260852,-1.298393206,1,0, ,Female,55 - 64,Bachelor's degree,Have enough but should save more,Suburban,Republican,Samsung,2,1,-3,-3,0,2
+0.167304622,-0.442873802,-1.256215268,1,0, ,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Exurb,Republican,Samsung,5,1,0,2,-1,2
+0.654573686,-0.252439268,-1.244216292,1,0, ,Male,55 - 64,Trade / technical / vocational school,Have enough but should save more,Large City or Metropolitan,Independent,Samsung,1,-1,-3,-3,1,1
+-0.725919694,-0.523761832,-1.21323655,1,0, ,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,Others,2,1,3,3,-1,4
+0.562517734,-0.101628308,-1.16684666,1,0, ,Female,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Samsung,4,-4,3,2,-4,-5
+0.525305274,0.252310985,-1.047050099,1,0, ,Female,25 - 34,Bachelor's degree,Living month to month and just getting by,Small City or Town,DON'T CARE ABOUT POLITICS,Apple,5,1,5,5,-5,2
+0.915925792,0.716949248,-1.01155242,1,0, ,Male,55 - 64,Master's degree,Sometimes there isn't enough to pay all the bills,Countryside,Republican,Apple,1,5,-2,-5,2,5
+0.211924958,0.699832106,-0.972150043,1,0, ,Female,55 - 64,Highschool,Have enough but should save more,Suburban,Republican,Others,2,1,1,1,1,1
+-0.90492002,-0.532032287,-0.880389957,1,0, ,Female,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Independent,Others,-5,2,1,-4,1,-3
+0.067321811,-0.00804648,-0.874322288,1,0, ,Female,18 - 24,Some college / Associate degree,Living month to month and just getting by,Suburban,Independent,Apple,3,0,2,1,1,3
+-0.805456193,-0.691689934,-0.857523059,1,0, ,Male,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Independent,Apple,3,-3,3,3,-2,4
+-0.457159713,0.009070663,-0.805450852,1,0, ,Female,55 - 64,Highschool,Have enough but should save more,Countryside,Republican,Others,-3,5,2,-3,4,3
+-0.370215339,-0.442873802,-0.729018361,1,0, ,Female,45 - 54,Bachelor's degree,Living month to month and just getting by,Countryside,Independent,Apple,-1,-1,-1,-1,-1,3
+-0.198622889,0.528633126,-0.729018361,1,0, ,Female,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Others,-1,2,-1,-1,0,0
+-0.462271291,-1.761202034,-0.722663922,1,0, ,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Samsung,3,-5,3,3,-5,3
+-0.50459533,-0.186939682,-0.707336326,1,0, ,Male,35 - 44,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Socialist,Samsung,2,-3,-3,2,-4,2
+-0.365103761,-0.626190348,-0.698936712,1,0, ,Male,45 - 54,Highschool,Living month to month and just getting by,Large City or Metropolitan,Republican,Samsung,0,0,0,0,0,3
+-0.462271291,0.175270066,-0.68508075,1,0, ,Female,45 - 54,Highschool,Living month to month and just getting by,Suburban,Democrat,Google,-2,4,-2,-2,4,1
+0.575037188,0.43562753,-0.681730379,1,0, ,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,Apple,2,-2,2,2,2,-1
+-1.238227665,-0.626766581,-0.671511559,1,0, ,Male,35 - 44,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Apple,2,2,2,2,4,3
+-0.203734467,0.43562753,-0.669693622,1,0, ,Female,25 - 34,Bachelor's degree,Living month to month and just getting by,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Samsung,1,3,1,0,0,2
+-1.417746974,-1.164022419,-0.623077762,1,0, ,Male,45 - 54,Professional / Doctorate degree ,Living comfortably with some left over,Suburban,Democrat,Apple,4,-4,2,1,-4,-1
+-0.728215991,-0.626766581,-0.612572172,1,0, ,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,DON'T CARE ABOUT POLITICS,Samsung,-1,2,1,1,2,2
+-0.77054003,-0.349868207,-0.605644191,1,0, ,Female,45 - 54,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Exurb,Democrat,Samsung,0,1,-1,1,1,-3
+-0.957467214,-1.073711469,-0.601108957,1,0, ,Male,18 - 24,Bachelor's degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Samsung,3,1,3,3,-3,0
+-0.554327243,0.166999611,-0.592076269,1,0, ,Male,25 - 34,Some highschool,Living month to month and just getting by,Suburban,DON'T CARE ABOUT POLITICS,Apple,2,-3,5,3,-3,-3
+-0.27586309,-2.050217974,-0.584861517,1,0, ,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Small City or Town,NOTHING REALLY,Apple,1,3,2,2,2,3
+-0.651494773,-0.903088722,-0.584861517,1,0, ,Female,25 - 34,Highschool,Living month to month and just getting by,Other,Independent,I'm not sure,2,1,1,0,0,1
+0.336081792,-0.268403944,-0.584861517,1,0, ,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Others,4,1,0,0,-4,-1
+-0.519930064,-0.512220499,-0.56920937,1,0, ,Male,55 - 64,Bachelor's degree,Living very comfortably and spending freely,Gated Community,Democrat,Samsung,4,-4,3,2,-4,-5
+-0.472494447,-2.037524175,-0.549038018,1,0, ,Female,55 - 64,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,NOTHING REALLY,Samsung,2,2,2,2,3,1
+-0.494372174,-0.365832883,-0.51928092,1,0, ,Female,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Independent,Others,0,2,1,1,1,0
+-0.111678515,0.78899059,-0.468069025,1,0, ,Male,55 - 64,Some college / Associate degree,Living comfortably with some left over,Exurb,Republican,Apple,4,-1,4,3,-5,1
+0.356009121,-0.471532277,-0.441278214,1,0, ,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Samsung,4,-4,4,5,-4,3
+0.286349878,-0.2639806,-0.440704673,1,0, ,Male,55 - 64,Highschool,Living month to month and just getting by,Large City or Metropolitan,Republican,Samsung,2,-1,2,1,-2,2
+0.032924632,0.077264894,-0.430199082,1,0, ,Female,55 - 64,Highschool,Living month to month and just getting by,Suburban,NOTHING REALLY,Apple,2,3,2,-1,3,2
+-1.00208755,-1.253180904,-0.399197589,1,0, ,Female,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Exurb,Independent,Others,3,-1,1,1,1,-1
+1.376205552,-0.717077531,-0.37626989,1,0, ,Female,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Republican,Samsung,5,-5,5,5,-5,-5
+0.20681338,-0.28052151,-0.362415196,1,0, ,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Exurb,Liberal,Samsung,5,-5,5,5,-5,-5
+-0.278159387,0.525362248,-0.327836093,1,0, ,Male,45 - 54,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Exurb,Independent,Apple,5,-4,4,4,-5,-4
+0.433249322,-0.369679994,-0.310977332,1,0, ,Male,18 - 24,Some college / Associate degree,Living comfortably with some left over,Suburban,DON'T CARE ABOUT POLITICS,Samsung,4,-3,5,2,-4,2
+0.56992561,-0.349291974,-0.289333077,1,0, ,Female,55 - 64,Professional / Doctorate degree ,Have enough but should save more,Countryside,NOTHING REALLY,Apple,-4,3,-1,-3,4,2
+-0.536696212,-0.186939682,-0.289333077,1,0, ,Female,35 - 44,Professional / Doctorate degree ,Have enough but should save more,Suburban,Democrat,Samsung,2,1,1,2,-1,3
+0.035220929,0.520938904,-0.270941881,1,0, ,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Democrat,Samsung,4,-2,4,3,-5,-4
+-0.103751656,-0.004775602,-0.241758324,1,0, ,Male,25 - 34,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Independent,Apple,4,-4,4,5,-4,4
+-0.559438821,-0.862312681,-0.236649548,1,0, ,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Exurb,Republican,Others,-2,3,-1,-1,-1,2
+0.259360574,0.520938904,-0.229148026,1,0, ,Male,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Samsung,2,2,2,3,1,3
+-0.322779723,-0.268403944,-0.224039251,1,0, ,Male,18 - 24,Highschool,Living month to month and just getting by,Suburban,Independent,Samsung,2,1,1,0,0,0
+-0.60176286,0.273275238,-0.193324527,1,0, ,Male,55 - 64,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Samsung,2,3,1,2,-2,3
+0.34119337,-0.00804648,-0.185823005,1,0, ,Male,45 - 54,Bachelor's degree,Living comfortably with some left over,Countryside,Independent,I'm not sure,1,1,1,0,1,1
+0.027813054,-1.419380307,-0.178895024,1,0, ,Male,55 - 64,Highschool,Living month to month and just getting by,Suburban,Democrat,Others,0,0,1,1,1,2
+-0.325595004,-1.765049145,-0.175890956,1,0, ,Male,35 - 44,Bachelor's degree,Have enough but should save more,Suburban,Republican,Apple,2,-4,4,3,-4,-2
+0.973065581,-0.272251055,-0.175544653,1,0, ,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Independent,Apple,2,-1,1,0,-2,4
+0.433249322,-1.159022843,-0.159356746,1,0, ,Female,65 - 74,Trade / technical / vocational school,Living comfortably with some left over,Small City or Town,Democrat,Samsung,3,-1,-1,-1,1,-3
+-0.457159713,0.426780843,-0.152390984,1,0, ,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Suburban,Independent,I'm not sure,4,-3,3,3,-4,-3
+0.83868559,-0.442873802,-0.145176233,1,0, ,Female,25 - 34,Trade / technical / vocational school,Have enough but should save more,Small City or Town,DON'T CARE ABOUT POLITICS,Apple,3,-2,2,3,-2,-2
+-0.317668145,0.00849443,-0.145176233,1,0, ,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Countryside,DON'T CARE ABOUT POLITICS,Apple,3,5,2,-2,-3,-3
+0.652277389,0.263852317,-0.13074673,1,0, ,Male,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,I'm not sure,1,1,1,2,1,-1
+-1.223411914,-0.447873379,-0.130135408,1,0, ,Female,45 - 54,Highschool,Have enough but should save more,Small City or Town,Republican,Samsung,3,2,2,2,2,-3
+-0.591539704,0.166999611,-0.1108839,1,0, ,Male,35 - 44,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,Samsung,3,2,3,3,-2,3
+-1.067154198,-0.182516338,-0.103322846,1,0, ,Male,35 - 44,Highschool,Have enough but should save more,Suburban,Democrat,Samsung,3,-1,-1,1,-3,4
+0.032924632,0.349739924,-0.096454397,1,0, ,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Liberal,Apple,1,4,2,1,2,2
+0.893529082,-0.272827288,-0.093738368,1,0, ,Female,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,Republican,Apple,2,3,2,0,-1,-1
+-0.004287829,-0.267827711,-0.084093089,1,0, ,Female,18 - 24,Some highschool,Living comfortably with some left over,Countryside,NOTHING REALLY,Apple,3,3,3,2,-2,-2
+-0.101455359,-0.361985773,-0.073241196,1,0, ,Male,35 - 44,Bachelor's degree,Have enough but should save more,Suburban,Republican,Apple,5,-4,4,4,4,4
+-0.414835675,0.345892813,-0.069950357,1,0, ,Male,45 - 54,Highschool,Living comfortably with some left over,Large City or Metropolitan,Independent,Others,-3,2,-2,1,1,-2
+0.385813706,-0.00804648,-0.063634967,1,0, ,Male,18 - 24,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Democrat,Samsung,-1,1,1,2,0,-1
+0.428137744,-0.524338065,-0.035944795,1,0, ,Male,55 - 64,Some college / Associate degree,Living very comfortably and spending freely,Small City or Town,Independent,HTC,5,-5,5,3,-5,0
+0.164489341,0.422933732,-0.015773443,1,0, ,Female,55 - 64,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,Others,-1,1,3,1,1,2
+0.430953025,-1.078711046,-0.015162121,1,0, ,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Republican,Google,5,-5,5,5,-5,-4
+0.66709314,-0.357562429,-0.00823414,1,0, ,Female,18 - 24,Highschool,Have enough but should save more,Suburban,Liberal,Samsung,2,-1,2,1,-2,-3
+-0.862595982,0.268275661,-0.00823414,1,0, ,Female,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Samsung,5,-5,5,5,5,-5
+0.090064421,-0.008622713,-0.001019389,1,0, ,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Others,3,-1,3,5,-1,2
+-0.50459533,-0.016316934,0.009199431,1,0, ,Male,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Samsung,4,-4,5,3,-4,3
+-0.136371522,-0.45172049,0.01187768,1,0, ,Female,45 - 54,Highschool,Have enough but should save more,Exurb,Republican,Apple,1,1,2,2,1,1
+-0.243243224,0.520938904,0.013123344,1,0, ,Female,25 - 34,Highschool,Have enough but should save more,Small City or Town,Socialist,Google,4,-3,4,4,-4,-4
+0.082656545,-0.00804648,0.033559715,1,0, ,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Independent,Samsung,3,0,2,4,-2,0
+-0.713400241,-0.967435842,0.057633228,1,0, ,Female,35 - 44,Bachelor's degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Apple,2,-3,2,2,-4,2
+1.022797494,-0.537031863,0.075699873,1,0, ,Female,25 - 34,Master's degree,Living comfortably with some left over,Large City or Metropolitan,Republican,Apple,2,-1,3,5,2,-2
+-0.738439147,0.166423378,0.085345151,1,0, ,Female,18 - 24,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Independent,Samsung,4,5,3,5,-5,-2
+0.217036536,-0.00804648,0.095275932,1,0, ,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,DON'T CARE ABOUT POLITICS,Samsung,4,2,4,5,-5,-3
+0.560221437,-0.463261823,0.123561396,1,0, ,Male,25 - 34,Bachelor's degree,Living comfortably with some left over,Suburban,Liberal,Apple,3,2,4,2,-2,3
+-0.649198476,-1.150752388,0.143136187,1,0, ,Female,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Samsung,5,-5,5,5,-5,-5
+0.888417504,-0.626190348,0.143137456,1,0, ,Female,35 - 44,Highschool,Have enough but should save more,Countryside,DON'T CARE ABOUT POLITICS,Others,5,0,5,5,-5,2
+-0.267936231,-0.011893591,0.143137456,1,0, ,Female,35 - 44,Highschool,Have enough but should save more,Small City or Town,DON'T CARE ABOUT POLITICS,Apple,4,-3,5,5,-4,-4
+0.433249322,-0.273403521,0.150925748,1,0, ,Male,55 - 64,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Republican,Others,-2,4,3,4,2,3
+0.217036536,-0.984552985,0.18464454,1,0, ,Male,45 - 54,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Democrat,Others,3,-4,4,3,-4,-3
+0.53552843,-0.456143834,0.18464454,1,0, ,Male,25 - 34,Master's degree,Living comfortably with some left over,Suburban,Democrat,Samsung,5,-4,5,5,-2,-2
+0.477869658,-0.178669227,0.185851155,1,0, ,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,I'm not sure,2,-1,1,2,1,-2
+0.353712823,-0.715925065,0.216219575,1,0, ,Female,45 - 54,Trade / technical / vocational school,Have enough but should save more,Suburban,Democrat,Samsung,3,-1,3,3,-3,-1
+-0.056835023,0.166999611,0.220143487,1,0, ,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Countryside,Republican,Samsung,-1,1,-1,1,2,2
+0.174712497,-0.626190348,0.235184312,1,0, ,Female,45 - 54,Highschool,Have enough but should save more,Suburban,Democrat,Apple,0,0,1,2,1,-2
+0.428137744,-0.80508355,0.257786192,1,0, ,Male,35 - 44,Trade / technical / vocational school,Have enough but should save more,Suburban,Democrat,Samsung,3,-1,2,2,-1,0
+0.07524867,-1.066017247,0.264081099,1,0, ,Male,18 - 24,Bachelor's degree,Have enough but should save more,Suburban,Republican,Apple,4,3,3,4,-5,-2
+0.672204718,-0.183092571,0.268291782,1,0, ,Male,25 - 34,Highschool,Living month to month and just getting by,Large City or Metropolitan,Independent,Samsung,1,0,5,3,2,3
+0.470461782,-0.792965984,0.273113787,1,0, ,Female,45 - 54,Highschool,Have enough but should save more,Suburban,Democrat,Others,-1,1,-1,-1,-1,1
+0.127276881,-0.789118873,0.273725109,1,0, ,Female,18 - 24,Some college / Associate degree,Living comfortably with some left over,Small City or Town,Independent,Samsung,3,1,3,3,-4,-1
+0.119869006,-0.011893591,0.287867841,1,0, ,Male,45 - 54,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Samsung,3,2,3,2,1,1
+-0.228427474,-0.626766581,0.301723803,1,0, ,Female,18 - 24,Some college / Associate degree,Have enough but should save more,Suburban,Libertarian,Apple,-1,-3,1,3,2,2
+0.659685264,-0.186939682,0.301723803,1,0, ,Female,45 - 54,Highschool,Have enough but should save more,Small City or Town,Republican,Others,3,-1,2,3,-1,-3
+0.4383609,-0.268403944,0.30740612,1,0, ,Male,45 - 54,Trade / technical / vocational school,Have enough but should save more,Suburban,Republican,Samsung,2,0,2,3,-1,0
+-0.327891301,-1.598849742,0.319156106,1,0, ,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Independent,Others,0,5,4,1,0,1
+0.751741216,-0.357562429,0.333012067,1,0, ,Male,18 - 24,Trade / technical / vocational school,Living month to month and just getting by,Suburban,Democrat,Apple,3,2,4,2,1,2
+0.296573034,-0.17924546,0.333012067,1,0, ,Female,45 - 54,Some college / Associate degree,Have enough but should save more,Small City or Town,NOTHING REALLY,Others,1,3,3,2,3,2
+-0.996975972,-0.711501721,0.354980873,1,0, ,Male,55 - 64,Bachelor's degree,Have enough but should save more,Countryside,Democrat,I'm not sure,2,-3,1,-1,-4,-3
+0.10964585,-0.101628308,0.385982367,1,0, ,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Samsung,5,-4,5,5,-5,4
+-0.494372174,-0.101628308,0.394728284,1,0, ,Female,25 - 34,Highschool,Have enough but should save more,Suburban,Independent,Samsung,4,0,3,3,-5,2
+0.520193696,-0.276674399,0.405233875,1,0, ,Male,18 - 24,Some highschool,Have enough but should save more,Exurb,Republican,Samsung,3,-2,4,4,-1,2
+0.030109351,-0.097781197,0.439239437,1,0, ,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,DON'T CARE ABOUT POLITICS,Apple,5,4,4,3,-4,-4
+0.211924958,-0.792965984,0.439812978,1,0, ,Male,18 - 24,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Samsung,3,-1,5,2,-2,-2
+0.251433715,-0.906935833,0.445880647,1,0, ,Female,45 - 54,Highschool,Have enough but should save more,Small City or Town,Democrat,Samsung,4,-2,2,2,-5,0
+0.353712823,-0.003623136,0.466317018,1,0, ,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Small City or Town,Independent,Apple,4,-3,2,1,-5,-4
+0.032924632,-0.903088722,0.499137717,1,0, ,Female,25 - 34,Highschool,Have enough but should save more,Countryside,Republican,Samsung,4,-3,5,2,-2,-1
+0.4383609,-0.45172049,0.609862541,1,0, ,Male,18 - 24,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Google,5,-2,4,5,-2,-2
+0.406260018,-0.203480591,0.658908927,1,0, ,Female,35 - 44,Some college / Associate degree,Living comfortably with some left over,Suburban,Republican,Apple,5,-2,5,5,-3,4
+-0.957467214,-1.261451358,0.840097154,1,0, ,Male,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Samsung,4,-4,4,4,-4,-4
+-0.096343781,-0.533760986,0.850027935,1,0, ,Male,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Google,5,-2,4,4,0,-3
+-0.340410754,-0.000928491,0.859348662,1,0, ,Male,45 - 54,Some college / Associate degree,Have enough but should save more,Gated Community,Democrat,Apple,0,0,5,3,2,-2
+-2.362999501,1.570062984,-1.601098617,4,0,14earth@gmail.com,Female,45 - 54,Bachelor's degree,Living month to month and just getting by,Small City or Town,Liberal,Apple,3,-3,0,0,-3,3
+-0.641271617,-0.626190348,-0.786772885,1,0,1mrs.maupinsdeml1@gmail.com,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Samsung,3,4,4,4,3,2
+0.059913936,0.866607742,0.534063124,3,0,6lf6@runbox.com,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,Others,4,-4,4,3,-4,-3
+-0.598947579,0.166999611,-0.330899694,1,0,aaliyahhopkins22@yahoo.com,Female,18 - 24,Some highschool,Have enough but should save more,Small City or Town,DON'T CARE ABOUT POLITICS,Others,1,1,2,1,-1,1
+-0.320483426,-0.528761409,-1.493663364,1,0,abarron@ba-logistics.net,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Small City or Town,NOTHING REALLY,Apple,5,-4,5,4,-5,2
+0.209109677,0.081688238,-0.50628527,1,0,acrase1984@yahoo.com,Male,25 - 34,Bachelor's degree,Have enough but should save more,Small City or Town,Republican,Apple,3,0,3,3,-3,4
+-1.154098572,-0.528185176,-0.803957467,1,0,adam5042@hotmail.com,Male,35 - 44,Bachelor's degree,Living comfortably with some left over,Small City or Town,Democrat,Apple,-4,1,-4,-4,2,-3
+0.338897073,0.951919116,0.374519152,3,0,agho.desmond@yahoo.com,Male,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Apple,4,4,3,4,2,4
+1.794161273,1.049348055,1.888845162,3,0,agrawal.sunanda60@gmail.com,Female,25 - 34,Master's degree,Living comfortably with some left over,Small City or Town,NOTHING REALLY,Apple,4,-2,5,4,-2,4
+-0.419947253,0.512668449,-0.519854461,1,0,ahart31@gmail.com,Female,25 - 34,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Samsung,5,-5,5,5,-5,2
+0.796361552,-0.626190348,0.177354227,1,0,Aidendrakewright13@gmail.com,Female,18 - 24,Some highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,DON'T CARE ABOUT POLITICS,Others,5,1,1,5,-5,-5
+1.199501523,-1.236063761,0.617688614,2,0,Aj.devion@gmail.com,Male,18 - 24,Highschool,Living comfortably with some left over,Suburban,Independent,Apple,5,-5,5,5,-5,0
+-0.083824327,-0.568961216,-0.981756273,1,0,ajterrey@yahoo.com,Female,35 - 44,Master's degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Samsung,5,-4,5,4,-5,-4
+1.610049369,-2.737132306,2.017961182,2,0,Akheon23@gmail.com,Male,45 - 54,Master's degree,Living comfortably with some left over,Suburban,Republican,Samsung,5,-5,5,5,-4,-4
+-0.163706726,0.594132712,-0.298690317,1,0,akiragen6@gmail.com,Female,18 - 24,Master's degree,Have enough but should save more,Suburban,Democrat,Apple,4,3,-1,-1,2,5
+-0.492421776,0.874301964,0.697471476,3,0,aldonaulanecka@dot.nyc.gov,Male,45 - 54,Professional / Doctorate degree ,Living comfortably with some left over,Large City or Metropolitan,Republican,Samsung,3,-1,3,1,0,4
+1.567725331,0.077264894,1.02122458,2,0,alfred.cole1982@gmail.com,Male,25 - 34,Master's degree,Living comfortably with some left over,Suburban,Republican,Microsoft,3,2,2,2,3,2
+1.157177485,-0.540302741,1.570774375,2,0,alkado544@gmail.com,Male,25 - 34,Highschool,Living month to month and just getting by,Suburban,Independent,Apple,3,-4,2,5,1,-5
+1.74442936,-1.61154354,2.017961182,2,0,allen.miller7@aol.com,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Apple,5,-5,5,5,-4,5
+-0.60176286,-0.353139085,0.518675996,1,0,Amanro123@gmail.com,Male,35 - 44,Master's degree,Have enough but should save more,Suburban,Democrat,Samsung,3,-3,3,4,-4,3
+0.80147313,0.43562753,-0.433776692,3,0,Andreabest@rochester.rr.com,Female,45 - 54,Master's degree,Living comfortably with some left over,Small City or Town,Democrat,Apple,1,-1,3,4,0,-1
+0.831277715,0.337622358,0.777194805,3,0,Angelarogersa@engineer.com,Female,45 - 54,Highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,2,-1,4,4,2,-2
+-1.265735953,1.48475161,-0.916462446,4,0,angelialynn4@gmail.com,Female,45 - 54,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Countryside,DON'T CARE ABOUT POLITICS,Others,5,-2,4,1,-4,-4
+-1.718607837,0.170846722,-1.673320425,4,0,angelrivas4444@gmail.com,Male,18 - 24,Some college / Associate degree,Have enough but should save more,Suburban,Liberal,Apple,5,-5,5,5,-5,-5
+0.30398091,-0.272827288,0.996577525,2,0,aniffa@gmail.com,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Suburban,Liberal,Others,5,-2,4,4,-3,-1
+1.025612775,-0.363138238,1.231920914,2,0,annbbarry@gmail.com,Female,25 - 34,Highschool,Have enough but should save more,Large City or Metropolitan,Republican,Samsung,2,5,-1,-3,3,4
+0.164489341,-0.183092571,0.304115281,1,0,Annestillings1977@gmail.com,Female,35 - 44,Highschool,Have enough but should save more,Large City or Metropolitan,Independent,Samsung,-2,-2,0,-1,-2,1
+-0.056835023,-0.442873802,-0.399197589,1,0,antmanfoosin@yahoo.com,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,Others,-1,3,1,-1,4,4
+-0.586428126,-0.361985773,-0.252036676,1,0,apettitdoughgirl983@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,4,0,1,2,-5,1
+-0.465086572,1.391169782,0.583396281,3,0,Ashleyrouth2019@gmail.com,Female,18 - 24,Highschool,Living month to month and just getting by,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Samsung,5,4,5,4,-5,-5
+1.107445571,-1.607120197,1.274959165,2,0,audreylovesdeclan@gmail.com,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Democrat,Google,5,-5,5,5,-5,-5
+-1.52349021,1.802212,-0.5684234,4,1,Av08052004@gmail.com,Male,18 - 24,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Apple,3,-3,2,-2,1,2
+-0.917439473,-0.988400095,-0.952038223,1,0,babygirlbyrleyangel@gmail.com,Female,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Independent,Microsoft,0,1,0,0,0,0
+1.043243806,-0.19963348,1.341725893,2,0,barrettwomack@gmail.com,Male,45 - 54,Trade / technical / vocational school,Have enough but should save more,Suburban,Democrat,Apple,5,-5,5,5,-5,0
+1.16458536,-0.626190348,0.756697633,2,0,bassblader@gmail.com,Male,25 - 34,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Republican,Apple,2,3,3,2,2,1
+0.525305274,-1.150752388,-0.118996744,1,0,bbauer@cca.edu,Female,18 - 24,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Google,5,-4,4,-1,-4,4
+0.659685264,0.512668449,0.54996426,3,0,Bbrozick@aol.com,Female,18 - 24,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,Apple,3,2,2,2,2,2
+0.567629312,0.003494853,0.426878129,3,0,bcflowers0718@gmail.com,Female,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,Apple,4,-5,3,3,-5,0
+-0.823087224,0.606250278,-1.059758978,4,0,bda1@comcast.net,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Small City or Town,Independent,Samsung,1,0,2,0,-4,-5
+1.388725005,-1.602696853,0.628253737,2,1,beachlady17@aol.com,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Apple,5,-4,5,5,-5,-4
+0.577852468,-0.268980177,0.119637484,1,0,Beeclincy@yahoo.com,Female,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Republican,Apple,4,-3,3,4,-3,3
+0.978177159,1.045500944,1.801295759,3,0,benadams656@gmail.com,Male,18 - 24,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Apple,5,-3,4,4,-5,0
+1.199501523,0.597979823,1.263495949,3,0,Benjamin.bagley@yahoo.com,Male,18 - 24,Highschool,Living very comfortably and spending freely,Large City or Metropolitan,Independent,Apple,3,3,3,4,5,3
+-0.056835023,-0.00804648,-0.714875629,1,0,benzon43@gmail.com,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Independent,Samsung,-2,1,-3,-3,-2,-3
+-1.141579118,1.570062984,-2.278882369,4,0,bernardschitt@gmx.com,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Large City or Metropolitan,Independent,Others,1,-3,-5,-5,-4,2
+-0.091232203,1.570062984,-0.757589328,4,0,berrymad1@mail.gtc.edu,Female,25 - 34,Master's degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Democrat,Others,5,2,4,3,-5,5
+0.348601245,0.703679217,-0.48278403,3,0,Bethortiz2006@gmail.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Apple,5,-5,5,5,-5,-2
+1.192093648,-1.969329944,1.584630337,2,0,bethstone.610@gmail.com,Female,45 - 54,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,Republican,Others,5,-5,0,0,-5,5
+0.24402584,1.049924288,-0.069030513,3,0,betsyann@hotmail.com,Female,55 - 64,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,DON'T CARE ABOUT POLITICS,Samsung,0,2,-1,-1,2,4
+-0.278159387,0.427357076,0.119350713,1,0,bfowsar2@gmail.com,Female,18 - 24,Some college / Associate degree,Living month to month and just getting by,Suburban,Independent,Samsung,2,-3,4,3,2,4
+0.37840583,-0.186939682,0.329434458,1,0,bickham.julie@gmail.com,Female,35 - 44,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Small City or Town,Liberal,Samsung,4,-2,2,3,4,4
+-0.009399407,0.699832106,-0.282978638,3,0,bkirk80@yahoo.com,Female,35 - 44,Highschool,Living month to month and just getting by,Exurb,Republican,Apple,1,1,1,3,-1,-2
+-0.994679675,-0.34486863,-1.790475249,4,0,bluesman5@coolsite.net,Male,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,DON'T CARE ABOUT POLITICS,Others,-4,4,-5,-5,2,-2
+-0.77054003,1.049348055,-1.004049629,4,0,bobbysahut@hotmail.com,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Others,0,0,2,0,-5,-5
+0.841500871,1.219970802,0.45644577,3,0,bossbaris@live.com,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Republican,Others,5,-2,5,5,-2,3
+0.482981236,-0.626190348,0.446740959,1,0,Botrout213@gmail.com,Male,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Exurb,Democrat,Samsung,5,2,5,5,-5,-5
+0.831277715,0.951919116,1.106728807,3,0,breylanbrown18@gmail.com,Male,18 - 24,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,Google,3,3,1,5,4,4
+0.756852794,0.24404053,1.649924164,3,0,Briannaallen2393@gmail.com,Female,25 - 34,Some college / Associate degree,Living comfortably with some left over,Small City or Town,Democrat,Others,5,-5,5,5,-5,-5
+0.436064603,-1.969329944,1.649924164,2,0,Briannaallen2393@gmail.com,Female,25 - 34,Some college / Associate degree,Living comfortably with some left over,Suburban,Democrat,Others,5,-5,5,5,-5,2
+-0.823087224,0.703679217,-0.703087863,4,0,brikelslstrip@gmail.com,Male,35 - 44,Highschool,Living month to month and just getting by,Countryside,Republican,Samsung,3,-1,5,4,1,3
+0.888417504,-2.139952691,1.12387434,2,0,Brittaney3914@gmail.com,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,HTC,5,-5,3,4,-5,-4
+1.291557475,0.785143479,1.138590613,3,0,brogdon.monte@outlook.com,Male,25 - 34,Bachelor's degree,Have enough but should save more,Small City or Town,Democrat,Apple,1,2,0,3,1,3
+0.47557336,-2.82244368,1.027292249,2,0,brucehjbt@yahoo.com,Male,45 - 54,Highschool,Have enough but should save more,Suburban,Republican,Samsung,2,-5,1,2,-2,-4
+-2.049619185,0.51651556,-1.349219749,4,0,brumdumdum@protonmail.com,Male,18 - 24,Highschool,Have enough but should save more,Suburban,Republican,Samsung,2,-5,4,2,-5,1
+1.162289063,-1.081981924,1.354682494,2,0,bshuntelle@yahoo.com,Female,35 - 44,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Suburban,Liberal,Samsung,3,3,3,3,3,3
+0.022701476,-0.00804648,-0.316697429,1,0,busyshekinah@gmail.com,Female,18 - 24,Highschool,Living month to month and just getting by,Exurb,Democrat,Apple,5,-3,4,5,-5,-2
+-0.159114131,0.17969341,-0.513500022,1,0,bxnewyorknative@yahoo.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,2,-4,0,2,-5,3
+1.431049043,0.344740347,1.206028196,3,0,camerontanner8@gmail.com,Male,35 - 44,Master's degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Samsung,4,4,5,5,5,0
+-1.046707886,-0.622343237,0.246301225,1,0,camilo_olmeda@yahoo.com,Male,55 - 64,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Google,5,-3,5,5,-3,2
+-1.832887415,1.058194742,-1.047050099,4,0,candithomasnwoye@gmail.com,Female,35 - 44,Trade / technical / vocational school,Living month to month and just getting by,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Others,5,-5,5,5,-5,3
+-2.228619511,-0.088934509,-2.747712161,4,1,candzmom@yahoo.com,Female,45 - 54,Bachelor's degree,Have enough but should save more,Small City or Town,Independent,Apple,1,1,1,0,-3,3
+-0.862595982,-0.00804648,-0.908674153,4,0,Careyr66@yahoo.com,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,NOTHING REALLY,Apple,2,3,2,2,3,2
+0.47557336,-0.267827711,0.00227145,1,0,carlsill72@cox.net,Male,45 - 54,Some highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Independent,Others,4,1,3,4,-3,1
+-0.094047483,-1.090252378,0.294509051,1,0,Carol.brandano@gmail.com,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,Independent,Google,5,-5,5,5,-5,-3
+-1.414931694,-0.00804648,-0.50628527,4,0,carolynhatcher1@yahoo.com,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Countryside,Republican,Apple,-1,-1,0,-1,1,1
+-0.536696212,0.874878197,-0.001019389,3,0,carolynweinert57@gmail.com,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Independent,Apple,1,1,3,4,4,3
+0.296573034,0.699832106,0.621612526,3,1,catbaron713@infowest.com,Female,55 - 64,Bachelor's degree,Living month to month and just getting by,Countryside,Independent,Samsung,-2,2,-1,0,1,4
+0.119869006,-0.357562429,-1.227356262,1,0,Cawmson@gmail.com,Female,45 - 54,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Samsung,-1,2,1,2,1,1
+-0.641271617,1.143506116,-0.440704673,4,0,cbk@att.net,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,DON'T CARE ABOUT POLITICS,Samsung,4,-4,0,0,-4,0
+-0.238131646,0.610673621,-0.729018361,1,0,cbk@att.net,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,DON'T CARE ABOUT POLITICS,Samsung,4,-3,0,0,-4,0
+1.341289389,-0.805659783,1.388688056,2,0,cbrownogb@aol.com,Male,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,Apple,5,4,5,4,4,3
+-0.414835675,-0.186939682,-0.433489921,1,0,cgagabupsies@comcast.net,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Republican,Apple,0,-1,-2,1,1,0
+1.100037696,-1.969329944,1.51240853,2,0,chad.b32@yahoo.com,Male,35 - 44,Some highschool,Living month to month and just getting by,Suburban,Independent,Others,5,-5,5,5,-5,-5
+1.530512871,-1.615390651,1.718508829,2,0,chandajohnson47043@gmail.com,Female,35 - 44,Highschool,Have enough but should save more,Suburban,Independent,Apple,5,-5,5,5,-5,-3
+0.831277715,0.166423378,0.769980054,3,0,chauntefillmore@aol.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Google,5,3,4,4,2,3
+0.714528756,-2.029253721,0.66947405,2,0,cheeseburgers401@icloud.com,Female,18 - 24,Highschool,Living comfortably with some left over,Small City or Town,Republican,Apple,5,-1,4,3,-2,2
+0.348601245,-0.622343237,-1.067834042,1,0,cheryllchance@aol.com,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Democrat,Apple,-3,1,2,2,2,-1
+0.358824401,-0.00804648,0.144284538,1,0,Chigirl35_99@yahoo.com,Female,45 - 54,Highschool,Have enough but should save more,Suburban,Democrat,Samsung,1,-1,1,1,-3,1
+-1.054115761,0.252310985,-1.110910073,4,0,chopinzee72@yahoo.com,Male,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,I'm not sure,2,2,2,2,2,2
+0.53552843,-2.387616357,1.467551074,2,0,chris16gabulldog@yahoo.com,Male,25 - 34,Highschool,Living very comfortably and spending freely,Countryside,Republican,Apple,3,-3,5,3,2,-4
+1.577948487,-1.794283853,1.185591825,2,0,chris71682aol.com,Male,35 - 44,Master's degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Apple,4,-5,5,4,5,-5
+0.659685264,1.219970802,-0.420782311,3,1,chrisluvsjimmy2003@yahoo.com,Female,45 - 54,Some college / Associate degree,Have enough but should save more,Countryside,Democrat,Apple,5,-5,5,5,-5,-5
+-0.989568097,-1.586155943,-0.888849104,1,0,Christophersrayburn@gmail.com,Male,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Apple,3,-4,0,0,-5,3
+-0.009399407,0.077841127,-0.873175206,1,0,cindyransdell@yahoo.com,Female,45 - 54,Some highschool,Living month to month and just getting by,Suburban,Independent,I'm not sure,-1,1,-1,-4,0,3
+0.580148766,-0.256286379,-0.289333077,1,0,ckuntz098@gmail.com,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Suburban,Republican,Samsung,-4,3,-3,-2,3,2
+-0.897512145,1.48475161,-1.644748189,4,0,Cmagistro@aol.com,Female,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Samsung,3,1,1,2,-1,3
+0.214221255,1.049348055,0.205715253,3,0,Cmpalmer1978@gmail.com,Female,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Others,-1,2,-1,5,2,-1
+-0.19069603,1.570062984,0.707057222,3,0,cnf524@msn.com,Female,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Independent,Samsung,3,-3,5,5,-3,5
+1.154881187,-1.436497449,0.535595558,2,0,codyhenry877@gmail.com,Female,25 - 34,Some college / Associate degree,Living very comfortably and spending freely,Small City or Town,Democrat,Apple,5,-4,4,5,-5,-5
+-1.178791579,-0.890394923,-1.211990886,1,0,coletta.caroline@yahoo.com,Female,45 - 54,Bachelor's degree,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Apple,1,-1,-3,2,-1,4
+0.171897217,-0.360833307,0.198499233,1,0,Connor.jensen.2113@gmail.com,Male,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Independent,Samsung,5,2,5,5,-4,-1
+1.928541264,0.154305813,2.018247952,2,0,cooperxzxz@hotmail.com,Male,45 - 54,Master's degree,Living very comfortably and spending freely,Suburban,Republican,Apple,5,-5,5,5,-5,-5
+-0.73614285,-1.858630973,-1.363362482,1,0,corynikolas05@gmail.com,Male,55 - 64,Highschool,Living month to month and just getting by,Small City or Town,Independent,Samsung,1,-4,2,3,-3,2
+-0.143779397,-0.451144257,-0.229148026,1,0,Coxlinda1957@yahoo.com,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Samsung,0,2,4,3,-2,2
+0.344008651,1.224394146,0.074493258,3,0,crooksie1956@yahoo.com,Male,55 - 64,Highschool,Living month to month and just getting by,Countryside,DON'T CARE ABOUT POLITICS,Samsung,5,0,4,3,-3,2
+0.751741216,-0.540878974,1.039615776,2,0,cusucadrutatia@gmail.com,Male,25 - 34,Master's degree,Living comfortably with some left over,Suburban,DON'T CARE ABOUT POLITICS,Samsung,4,-3,3,3,-2,0
+-1.497283473,0.422933732,-0.582468771,4,0,cyshagood2@yahoo.com,Female,55 - 64,Bachelor's degree,Living comfortably with some left over,Small City or Town,Democrat,Samsung,2,-3,2,3,2,3
+0.035220929,0.866607742,0.3673044,3,0,Daddychester@gmail.com,Female,45 - 54,Trade / technical / vocational school,Living comfortably with some left over,Small City or Town,Libertarian,Apple,1,3,2,3,3,0
+0.117053725,0.1631525,-0.298019462,1,1,dandlbauer@aol.com,Male,55 - 64,Bachelor's degree,Have enough but should save more,Countryside,NOTHING REALLY,Google,-2,1,3,2,0,3
+0.562517734,-0.890971156,0.928566401,2,0,danielle_john30@yahoo.com,Female,35 - 44,Some highschool,Living comfortably with some left over,Exurb,Democrat,Samsung,3,2,3,2,2,2
+-1.405227521,-2.82244368,0.475064204,2,0,daniels1957a@gmail.com,Male,18 - 24,Bachelor's degree,Living month to month and just getting by,Small City or Town,Libertarian,Samsung,5,-5,5,5,-5,-5
+-2.086831645,-0.626190348,-1.053405807,4,0,Danishelley@gmail.com,Non-Binary,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Socialist,HTC,5,-1,0,0,-5,0
+-1.902719741,1.399440237,-0.843667097,4,0,dannomm@hotmail.com,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Independent,Apple,4,-4,4,3,-4,4
+1.2841496,-1.078134813,1.407366023,2,0,darkorton7@gmail.com,Male,25 - 34,Highschool,Living very comfortably and spending freely,Suburban,Republican,Samsung,5,-1,5,4,-4,2
+1.149769609,0.057453106,1.474479055,2,0,darkshadow0001@gmail.com,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Others,4,5,5,5,5,3
+0.043147788,-1.679737772,-0.245395466,1,0,darock76@yahoo.com,Male,35 - 44,Highschool,Living comfortably with some left over,Large City or Metropolitan,Democrat,Others,5,-3,5,4,3,-3
+0.836389293,0.86987862,1.501843407,3,0,daveduke420@aol.com,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Samsung,5,-4,5,5,-5,-4
+-0.05913132,-0.358138662,0.344762053,1,0,daveyzonderman@hotmail.com,Male,45 - 54,Bachelor's degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,5,2,1,2,-4,3
+1.199501523,-0.968012075,0.298432964,2,0,davidetheking2@gmail.com,Male,25 - 34,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,Others,4,-4,4,4,-4,-4
+-1.731127291,0.959613337,-0.884887411,4,0,davidsteny@gmail.com,Male,45 - 54,Master's degree,Living comfortably with some left over,Suburban,Republican,Apple,5,-4,2,3,-4,2
+0.236617965,0.797837278,-2.245163577,4,0,davletlet@yahoo.com,Male,55 - 64,Professional / Doctorate degree ,Living very comfortably and spending freely,Suburban,Republican,Apple,-2,3,-4,-5,-5,2
+0.256545293,0.349739924,0.07177596,3,0,davon96720@yahoo.com,Male,65 - 74,Master's degree,Living month to month and just getting by,Suburban,Liberal,Others,2,1,3,3,-2,2
+0.788953677,-0.276674399,0.842201861,2,0,Dawnwright165@gmail.com,Female,35 - 44,Some college / Associate degree,Have enough but should save more,Small City or Town,Republican,Apple,5,4,5,2,5,3
+0.612249648,-0.093357853,1.262922408,2,0,daxian6911@yahoo.com,Male,45 - 54,Some highschool,Living month to month and just getting by,Suburban,Republican,Samsung,3,2,5,5,1,2
+-0.330187598,1.220547035,-0.807843598,4,0,ddoctd@yahoo.com,Male,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,Others,3,5,3,0,-2,0
+-0.524522658,0.260581439,-1.745580013,4,0,ddprncssjo@hotmail.com,Female,35 - 44,Trade / technical / vocational school,Living month to month and just getting by,Suburban,Republican,Samsung,-2,5,-5,0,3,4
+0.040332507,-0.886547812,0.112996274,1,1,deaneanddebv@aol.com,Female,55 - 64,Master's degree,Living very comfortably and spending freely,Countryside,Republican,Apple,3,-4,1,4,-4,1
+-1.633959761,-1.053323449,-1.014327982,4,0,dearesterrodgers24@gmail.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,I'm not sure,1,-1,2,2,-3,4
+-0.743550725,0.084959116,-0.815381633,4,0,Debravallone@cox.net,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Republican,Others,-1,3,1,1,-3,4
+1.246937139,0.154305813,0.95200684,3,0,Delberttyrrell1993@gmail.com,Male,25 - 34,Highschool,Living month to month and just getting by,Large City or Metropolitan,Independent,Samsung,3,-2,5,4,-3,0
+0.480684938,0.695408762,0.741982628,3,0,dennis7777@comcast.net,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Small City or Town,Independent,Apple,4,-4,4,4,-4,4
+-1.457255732,0.96018957,-1.572239611,4,0,Derosier.kat @outlook.com,Female,35 - 44,Trade / technical / vocational school,Have enough but should save more,Countryside,Democrat,Apple,-1,-1,-1,-1,-1,3
+0.878713331,0.073417783,0.700762315,3,0,Desel087@gmail.com,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Republican,Samsung,3,-1,5,5,-3,-2
+1.065121533,-0.642155024,1.210238879,2,0,destoroyah96@gmail.com,Female,45 - 54,Highschool,Have enough but should save more,Large City or Metropolitan,Independent,Samsung,3,3,5,2,2,-5
+-0.509706908,-1.607120197,1.137730301,2,0,dfoxcroft5@gmail.com,Female,45 - 54,Bachelor's degree,Have enough but should save more,Countryside,Republican,Others,3,-2,4,3,-3,2
+0.799176833,0.691561651,1.304142722,3,0,dhentz1@comcast.net,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Exurb,Republican,Apple,4,5,3,2,3,5
+0.83868559,0.085535349,-0.258964657,1,0,diannamare@yahoo.com,Male,35 - 44,Highschool,Have enough but should save more,Small City or Town,Republican,Samsung,3,2,4,4,-2,-3
+0.445768775,-0.455567601,0.029311251,1,0,diannawilliams71@yahoo.com,Female,35 - 44,Some highschool,Sometimes there isn't enough to pay all the bills,Countryside,Democrat,Apple,0,0,0,2,1,-4
+1.2841496,-2.82244368,1.801295759,2,0,didya15@yahoo.com,Male,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,Republican,Apple,2,5,5,5,-3,5
+0.151969888,-0.256286379,-0.412420477,1,0,dinger57b@yahoo.con,Male,55 - 64,Highschool,Have enough but should save more,Countryside,NOTHING REALLY,Samsung,-5,4,0,-3,4,3
+0.604841773,-0.540878974,0.056448365,1,0,dje76@hotmail.com,Female,55 - 64,Trade / technical / vocational school,Living comfortably with some left over,Exurb,Liberal,Samsung,2,1,2,2,-3,-3
+-0.596651282,-0.178669227,-0.98060919,1,0,doggiemommie13@gmail.com,Female,35 - 44,Bachelor's degree,Living month to month and just getting by,Small City or Town,Liberal,Samsung,-4,3,-3,-4,4,1
+0.124980584,-1.436497449,0.961652119,2,0,Donking1219@yahoo.com,Male,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Democrat,Samsung,4,3,5,4,-3,5
+0.930741542,-0.797389328,0.453380901,2,0,Donnajimenez39@gmail.com,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Democrat,Apple,0,1,1,2,2,2
+-1.131355962,0.260005207,-0.809315232,4,0,dorague@yahoo.com,Female,55 - 64,Highschool,Living very comfortably and spending freely,Suburban,Democrat,Apple,3,-2,4,4,-3,0
+-0.345176433,-0.005351835,1.54306372,3,0,dorian111980@gmail.com,Male,35 - 44,Some college / Associate degree,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Apple,5,-4,5,5,-5,5
+-2.823279261,-0.09835743,-1.032907367,4,0,drewanjones46@gmail.com,Male,25 - 34,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Republican,Apple,4,-4,4,5,-4,-3
+0.881009629,-0.272251055,1.505480549,2,0,dscott39@yahoo.com,Male,55 - 64,Some highschool,Living month to month and just getting by,Exurb,Democrat,Samsung,3,-4,5,2,-3,0
+1.431049043,1.570062984,1.43654958,3,0,dshon870@gmail.com,Male,25 - 34,Highschool,Living month to month and just getting by,Suburban,NOTHING REALLY,Others,5,-5,5,5,-5,5
+1.065121533,1.570062984,0.109131893,3,0,duanedevega@yahoo.com,Male,55 - 64,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Samsung,3,3,5,5,-5,-4
+0.517897399,-0.288791965,0.955357212,2,0,edgaronlineto@att.net,Male,55 - 64,Bachelor's degree,Living comfortably with some left over,Countryside,Independent,Others,3,-1,4,4,1,3
+-0.275344107,-0.003623136,-0.889422645,1,0,edwinrbeltran@yahoo.com,Male,25 - 34,Highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,3,2,1,2,2,2
+0.473277063,0.065147328,1.003218736,3,0,elcipotito2000@hotmail.com,Male,45 - 54,Some highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,5,5,5,4,5,5
+-0.73614285,0.340893236,-0.902606484,4,0,elizabeth.schwartz-1@mnsu.edu,Female,18 - 24,Some college / Associate degree,Have enough but should save more,Countryside,Democrat,Samsung,5,-5,5,5,-5,1
+-1.534495933,-0.610225671,-0.324258484,1,0,elzbietazam@outlook.com,Male,18 - 24,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Apple,4,-2,4,3,-3,-2
+0.7043056,-0.272251055,-0.584861517,1,0,emcee63@gmail.com,Male,45 - 54,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Apple,0,0,0,1,1,1
+-0.05913132,-0.011893591,-0.880676728,1,0,emerson-robert777@outlook.com,Male,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Republican,Microsoft,0,0,-1,-1,0,-1
+0.49831597,0.170270489,0.445880647,3,0,erbody1@gmail.com,Male,25 - 34,Some college / Associate degree,Living comfortably with some left over,Small City or Town,Independent,Samsung,5,-3,5,5,-3,5
+0.537824727,0.268275661,1.67217974,3,0,erelesta@gmail.com,Female,25 - 34,Highschool,Living month to month and just getting by,Countryside,Democrat,Apple,5,-5,5,5,-5,0
+-0.820271943,-0.626190348,0.294509051,1,0,ericwcaswell@gmail.com,Male,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Others,5,1,5,3,-5,3
+0.137500037,-2.558239104,0.961652119,2,0,eringranger993@gmail.com,Female,35 - 44,Master's degree,Living month to month and just getting by,Gated Community,Democrat,Samsung,5,-3,5,5,-2,-4
+0.348601245,-0.00804648,0.470814472,1,0,euqinom_nameloc@yahoo.com,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Samsung,3,-2,1,1,-3,2
+-2.270943549,0.866031509,-0.548138657,4,0,ezmonk@yahoo.com,Female,55 - 64,Bachelor's degree,Living month to month and just getting by,Countryside,Democrat,Others,3,-3,2,3,3,1
+0.888417504,0.694832529,1.873517567,3,0,faqdwrld@live.com,Male,25 - 34,Trade / technical / vocational school,Living month to month and just getting by,Suburban,NOTHING REALLY,Others,5,-3,5,5,-5,0
+1.615160947,0.776873025,0.555972397,3,0,fatchubb1975@gmail.com,Male,35 - 44,Highschool,Have enough but should save more,Small City or Town,Democrat,Apple,4,3,4,4,4,3
+0.746629638,0.252310985,-0.001019389,3,0,Felicia1028au@yahoo.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Suburban,Independent,Samsung,3,-4,2,3,-4,-2
+1.296669053,-0.717077531,1.611994689,2,0,fernnona@gmail.com,Male,35 - 44,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Samsung,5,-5,5,5,-5,-5
+0.443472478,-0.187515914,1.304142722,2,0,fireice_hitthefloor@yahoo.com,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Libertarian,Samsung,4,-5,5,4,-4,2
+-1.775747626,0.431204187,-0.850021537,4,0,fivegayles@cox.net,Female,45 - 54,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Apple,3,3,4,3,1,2
+1.468261504,0.86987862,1.43654958,3,0,Flakeba@gmail.com,Male,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Libertarian,Samsung,5,-1,5,4,3,-2
+-0.725919694,-0.357562429,0.336016136,1,1,flatout7799@gmail.com,Male,55 - 64,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Independent,Apple,2,-1,4,4,-4,1
+0.4383609,0.419086621,-0.135245452,3,0,flexjunior55@gmail.com,Male,18 - 24,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Apple,5,3,5,3,3,5
+1.617457245,0.862184398,2.234626604,3,0,floraikone@yahoo.com,Female,35 - 44,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Liberal,Apple,5,-5,5,5,1,5
+-0.718511819,-2.118988438,0.370308468,2,0,fluidspiral@gmail.com,Male,35 - 44,Highschool,Living month to month and just getting by,Small City or Town,Republican,Google,3,-3,4,3,-2,5
+-0.240946927,0.512092216,0.712799071,3,0,flyenangel53@gmail.com,Female,55 - 64,Some college / Associate degree,Living comfortably with some left over,Small City or Town,Democrat,Others,3,4,3,3,1,2
+-0.377623215,-0.187515914,0.263507558,1,0,fordsite10@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Suburban,Democrat,Others,4,-5,5,4,-5,-3
+-1.865507281,0.716949248,-1.961634113,4,0,fortknoxwv@yahoo.com,Male,25 - 34,Bachelor's degree,Living comfortably with some left over,Suburban,Republican,Samsung,3,5,-5,1,-5,5
+0.930741542,-0.55299654,1.051652532,2,0,frankjhonson2016@gmail.com,Male,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Independent,Samsung,4,5,5,4,-4,-4
+0.617361226,0.333775247,-1.118698365,1,0,frankpinter13@gmail.com,Male,45 - 54,Bachelor's degree,Have enough but should save more,Suburban,Independent,Google,4,-4,2,4,-5,1
+0.657388967,1.570062984,1.51240853,3,0,freebiescout@msn.com,Female,55 - 64,Highschool,Sometimes there isn't enough to pay all the bills,Countryside,Republican,Others,-4,5,5,-1,5,5
+0.167304622,0.866607742,0.518675996,3,0,Fritztimothy8@gmail.com,Male,18 - 24,Highschool,Living comfortably with some left over,Small City or Town,Republican,Google,3,2,2,2,3,3
+0.07524867,-0.62291947,1.288468823,2,0,funkybluemonkey3@gmail.com,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Democrat,Others,5,-5,5,5,-5,-5
+-0.452048135,-1.785437165,0.432024685,2,0,futuraluz32@gmail.com,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Samsung,5,-5,5,5,-5,-5
+1.035316948,0.773025914,1.261103203,3,0,gaby.vc08@gmail.com,Female,25 - 34,Master's degree,Living comfortably with some left over,Suburban,NOTHING REALLY,Samsung,5,-5,5,5,-5,-5
+0.854020324,-0.463838055,1.939098164,2,0,gabymariah@hotmail.com,Female,35 - 44,Trade / technical / vocational school,Have enough but should save more,Small City or Town,Independent,Apple,4,-4,5,4,4,-4
+0.886121207,1.48475161,0.528667577,3,0,gaema@yahoo.com,Male,55 - 64,Bachelor's degree,Living comfortably with some left over,Countryside,Independent,Apple,4,-4,4,4,-4,-4
+1.107445571,0.252310985,1.282747457,3,0,gamewizard101_2006@yahoo.com,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Apple,1,1,5,3,3,3
+2.020597216,-1.969329944,-0.737378927,2,0,garciamario855@yahoo.com,Male,35 - 44,Professional / Doctorate degree ,Living comfortably with some left over,Large City or Metropolitan,Democrat,Apple,5,5,5,5,5,5
+0.689489849,-0.54203144,1.440186722,2,0,garyghere@hotmail.com,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Others,4,-4,4,4,-4,5
+0.308573504,-2.558239104,-0.66221512,2,0,geneswife71@gmail.com,Female,25 - 34,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,NOTHING REALLY,Others,4,-4,5,4,-4,-3
+-0.536696212,-0.358138662,-0.866820766,1,1,ggiofam@aol.com,Female,45 - 54,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Apple,2,-1,3,1,1,-1
+-0.230723771,0.073417783,-0.236649548,1,0,giroux311@gmail.com,Male,35 - 44,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Apple,5,-1,4,4,1,-1
+-0.84531085,0.78899059,-0.447919424,4,0,Giusenicastri@gmail.com,Female,45 - 54,Trade / technical / vocational school,Have enough but should save more,Suburban,DON'T CARE ABOUT POLITICS,Others,2,3,3,-2,3,3
+-2.178887597,1.143506116,-1.185811397,4,0,gleime@sssnet.com,Male,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,Independent,Apple,0,0,1,0,1,3
+0.485277533,0.061300217,0.790129654,3,0,glowsurveys@yahoo.com,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,DON'T CARE ABOUT POLITICS,Apple,4,1,4,5,-1,0
+-0.90492002,-0.455567601,0.446454188,1,0,Gmeece19@gmail.com,Male,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Apple,4,-3,4,4,-4,-3
+1.376205552,-2.387040124,1.13080232,2,1,godsmyshell@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Countryside,Independent,Samsung,2,-4,2,3,-3,0
+1.333881513,-1.159022843,0.294509051,2,0,goldenfairy777@gmail.com,Female,25 - 34,Trade / technical / vocational school,Have enough but should save more,Countryside,DON'T CARE ABOUT POLITICS,Others,2,-2,2,2,-1,0
+0.4383609,1.570062984,0.655618089,3,0,golstontalesha@yahoo.com,Female,25 - 34,Bachelor's degree,Living very comfortably and spending freely,Suburban,Democrat,Apple,4,-5,5,5,-5,-5
+0.37840583,0.247887641,0.200280658,3,0,gonzo217@optonline.net,Male,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Independent,Microsoft,1,2,2,2,2,2
+-0.340410754,0.345892813,-0.144602692,1,0,gorf2@yahoo.com,Male,55 - 64,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Google,-1,2,2,1,0,3
+0.20681338,-0.183092571,0.581863847,1,0,gr8n8f8@gmail.com,Male,35 - 44,Some college / Associate degree,Living comfortably with some left over,Countryside,Libertarian,Samsung,1,-2,5,5,-1,-1
+-0.790467358,1.570062984,-0.227615592,4,0,gr978597@gmail.com,Female,18 - 24,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,NOTHING REALLY,Apple,2,4,2,2,3,3
+0.219332833,-0.182516338,0.266798396,1,0,grahampc22@gmail.com,Male,35 - 44,Bachelor's degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,5,-5,4,4,-5,1
+-1.860395703,-2.114565094,-2.019139647,4,0,gran-dadders56@charter.net,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Exurb,Independent,Samsung,1,4,0,-3,-1,-1
+1.065121533,-0.7038075,-0.650728885,1,0,greenlnd420@gmail.com,Male,25 - 34,Bachelor's degree,Living very comfortably and spending freely,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Samsung,2,-2,2,2,-2,0
+-1.718607837,1.053771399,-1.452444319,4,0,greysoul666@gmail.com,Male,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,Independent,Others,5,-1,3,4,-4,-3
+1.125076602,1.130812318,1.31675302,3,0,Grooverjan23@outlook.com,Male,35 - 44,Highschool,Living month to month and just getting by,Suburban,Democrat,Samsung,3,4,4,4,4,4
+0.174712497,-1.598849742,0.336016136,2,0,grundy1984@gmail.com,Male,25 - 34,Bachelor's degree,Have enough but should save more,Suburban,DON'T CARE ABOUT POLITICS,Google,2,-5,4,3,-5,-4
+0.030109351,-0.544726085,0.417270631,1,0,gvonwal@yahoo.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Countryside,NOTHING REALLY,Others,4,-3,2,5,-3,1
+-1.091847205,-1.41995654,-0.991401551,1,0,harmony715@icloud.com,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Apple,2,1,4,2,2,2
+-0.200919186,0.247887641,0.561427475,3,0,harrypoore6@gmail.com,Male,35 - 44,Master's degree,Living month to month and just getting by,Small City or Town,Republican,Apple,2,4,3,1,4,2
+1.567725331,-0.183668804,1.14102114,2,0,haygreen39@gmail.com,Male,35 - 44,Master's degree,Living comfortably with some left over,Large City or Metropolitan,Republican,Apple,4,2,4,5,3,-2
+-0.812864068,0.187387632,-0.619786924,4,0,heatherbob2000@yahoo.com,Female,35 - 44,Highschool,Living very comfortably and spending freely,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Others,2,1,1,0,-1,1
+0.30398091,-0.272251055,-0.464491415,1,0,heftydame13@centurylink.net,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Others,1,0,2,1,1,0
+1.383613427,-0.186939682,1.244244441,2,0,hieurock11@gmail.com,Male,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Republican,Apple,4,-2,5,4,-2,1
+1.517993417,-1.078134813,1.203310898,2,0,hollisternpookie89@netzero.com,Female,25 - 34,Highschool,Living month to month and just getting by,Suburban,Republican,Others,4,-3,4,2,-4,-2
+-2.362999501,1.570062984,-2.019713188,4,0,homersby@yahoo.com,Male,45 - 54,Bachelor's degree,Living comfortably with some left over,Suburban,DON'T CARE ABOUT POLITICS,Others,5,-5,5,5,-5,5
+-1.123948087,1.135235661,-2.163870033,4,0,hostfujioka22@gmail.com,Female,18 - 24,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Independent,Samsung,4,-3,3,3,-5,2
+1.376205552,-2.643550478,1.729073952,2,0,hottdor@hotmail.com,Female,55 - 64,Highschool,Living comfortably with some left over,Suburban,Independent,Others,3,-4,5,5,-4,-3
+0.620176507,-2.82244368,0.562613607,2,0,Howjoy312@aol.com,Male,55 - 64,Some college / Associate degree,Living comfortably with some left over,Small City or Town,Democrat,Apple,4,-4,4,4,-5,-5
+0.490389111,0.440050874,-1.652249711,1,0,hucekh@gmail.com,Female,18 - 24,Highschool,Have enough but should save more,Small City or Town,Democrat,Apple,5,-3,4,5,-4,3
+-1.372607655,0.776873025,-0.303189039,4,0,Huerecadede@gmail.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Suburban,Independent,Samsung,-1,1,1,2,-4,4
+0.664796842,0.154882046,0.105781522,3,0,hydroblader71@mail.com,Female,45 - 54,Some college / Associate degree,Living very comfortably and spending freely,Small City or Town,Democrat,Samsung,3,3,5,3,2,-2
+0.077544967,0.162576267,0.439526207,1,0,icedslayer78@yahoo.com,Male,35 - 44,Highschool,Living comfortably with some left over,Suburban,Independent,Apple,4,2,5,5,-3,-3
+0.886121207,-0.553572773,-0.211391172,1,0,icraiz@yahoo.com,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Apple,5,-5,5,5,-5,-5
+0.254248996,-0.093357853,0.398019123,1,0,icreech13@gmail.com,Male,18 - 24,Highschool,Living comfortably with some left over,Large City or Metropolitan,Republican,Samsung,2,3,4,4,1,2
+1.610049369,0.158729157,1.131375862,3,0,Idk,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Small City or Town,Independent,Apple,2,3,3,2,1,2
+0.177527778,1.130812318,-0.310976063,3,0,ivette.corre,Female,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Google,3,4,4,5,4,4
+0.436064603,-0.090663208,-0.361842924,1,0,Ivoryhinton995@gmail.com,Male,18 - 24,Some college / Associate degree,Have enough but should save more,Small City or Town,Independent,Samsung,4,-5,3,-4,-5,-5
+0.336081792,-0.183092571,-0.513213251,1,0,j-mccoy@live.com,Female,45 - 54,Highschool,Living month to month and just getting by,Suburban,Democrat,Others,3,-1,3,3,-5,0
+-0.996975972,0.878725308,-1.053691309,4,0,jabster34@aol.com,Male,35 - 44,Some highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Democrat,Samsung,4,-1,4,3,-4,1
+-0.954651934,1.224394146,-1.056408607,4,0,jaleito18@yahoo.com,Female,25 - 34,Bachelor's degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,0,2,1,2,1,3
+1.567725331,-0.829318681,0.274359451,2,0,jamestotah.us@yahoo.com,Male,35 - 44,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Republican,Samsung,4,5,4,3,4,-3
+-0.594354984,1.570062984,0.171996462,3,0,Jamestrs49@aol.com,Male,55 - 64,Highschool,Living month to month and just getting by,Suburban,Democrat,Others,5,-5,5,1,-5,5
+1.291557475,-0.362562005,1.426617531,2,0,Janine.laubner@googlemail.com,Female,18 - 24,Highschool,Have enough but should save more,Suburban,Independent,Others,3,3,5,3,-3,-4
+-0.175880279,1.570062984,-0.304048082,3,0,jasbailey1@juno.com,Male,55 - 64,Some highschool,Living comfortably with some left over,Countryside,Democrat,Others,5,-5,5,5,-1,5
+0.184935653,-1.432074106,1.023655107,2,0,jatc@cheerful.com,Female,45 - 54,Bachelor's degree,Have enough but should save more,Suburban,Independent,Apple,4,-4,4,4,-4,-4
+0.159377763,0.964036681,0.06791158,3,0,jbb379@yahoo.com,Female,55 - 64,Highschool,Living month to month and just getting by,Suburban,Democrat,Others,1,4,-3,-1,-1,0
+1.119965024,-0.113169641,1.092872846,2,0,jcampbell0021@yahoo.com,Female,35 - 44,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Samsung,4,4,5,5,1,5
+0.751741216,1.134659428,0.989362774,3,0,jdjeff23@gmail.com,Female,35 - 44,Some college / Associate degree,Have enough but should save more,Small City or Town,Democrat,Others,4,-3,4,4,-4,2
+-0.225612193,0.073417783,0.223147556,1,0,Jdotson78@rocketmail.com,Female,35 - 44,Highschool,Living month to month and just getting by,Large City or Metropolitan,NOTHING REALLY,Apple,2,2,2,1,1,2
+0.34119337,-0.357562429,-0.180101639,1,0,jennifercef@yahoo.com,Female,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Republican,Apple,4,-2,4,4,-2,3
+-1.372607655,0.964036681,-0.577933536,4,0,jenny17204@roadrunner.com,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Apple,1,-1,3,2,1,5
+-1.258328077,0.426780843,-0.585435058,4,1,jesse.l.walz@gmail.com,Male,18 - 24,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Democrat,HTC,5,-4,2,2,-5,1
+-1.783155502,1.224394146,-1.205349676,4,0,jessika.bumgarner@yahoo.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Countryside,Liberal,Apple,5,-5,5,5,-5,0
+0.211924958,-0.537031863,-0.547565116,1,0,jg.cohen@yahoo.com,Male,55 - 64,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Google,4,1,3,1,-1,2
+0.980473456,0.073417783,1.196096147,3,0,jharper545@yahoo.com,Male,18 - 24,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Apple,4,-3,5,4,-2,4
+-0.151706256,0.166999611,-0.502707661,1,1,"jijie21@cca.edu (lol, being forced by Tara)",Female,18 - 24,Highschool,Have enough but should save more,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Apple,5,-3,2,5,-5,5
+-0.138667819,-1.598849742,0.907208917,2,0,jim47715@outlook.com,Male,55 - 64,Some college / Associate degree,Living comfortably with some left over,Suburban,Libertarian,Google,4,-4,4,4,-5,-1
+-2.328083338,0.610097388,-1.717256767,4,0,jimmydavis2003@hotmail.com,Male,45 - 54,Master's degree,Have enough but should save more,Suburban,Independent,Samsung,5,1,5,5,-5,1
+-2.086831645,0.345892813,-1.211990886,4,0,jjdiaz@vivaldi.net,Male,35 - 44,Master's degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Samsung,5,-3,5,3,-5,5
+0.93585312,0.512668449,-0.169536516,3,0,jkamitian@yahoo.com,Male,45 - 54,Bachelor's degree,Living comfortably with some left over,Small City or Town,Independent,Apple,3,-3,4,4,-2,4
+-1.641367636,0.695984995,-1.572526382,4,0,jla45772@yahoo.com,Female,25 - 34,Some highschool,Sometimes there isn't enough to pay all the bills,Countryside,Republican,Google,3,-3,3,3,-3,-1
+0.896344363,-1.969329944,0.562613607,2,0,jlkeysermail@gmail.com,Male,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Independent,Samsung,5,-4,5,5,-4,0
+0.0152936,-0.21059858,-0.685367521,1,0,Jlmr8218@gmail.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Socialist,Samsung,3,2,4,1,1,0
+-0.101455359,0.085535349,-0.361268114,1,0,jlocal30@gmail.com,Male,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,NOTHING REALLY,I'm not sure,2,0,2,2,0,-1
+-1.081624049,0.081688238,-0.886072274,4,0,jmbrafer@mediacombb.net,Female,55 - 64,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Democrat,Samsung,0,4,2,2,2,2
+0.485796516,-0.992247206,0.499424488,2,0,jmcgaughey07@gmail.com,Female,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,DON'T CARE ABOUT POLITICS,Apple,2,2,3,3,5,3
+-1.633959761,-1.501420803,-0.304048082,1,0,jnnfood@yahoo.com,Female,45 - 54,Some college / Associate degree,Living comfortably with some left over,Suburban,Independent,Samsung,5,-5,5,5,-5,-5
+0.76426067,-0.455567601,0.72569614,2,0,Joannamike2016@yahoo.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Gated Community,NOTHING REALLY,Samsung,2,-2,3,2,-1,-2
+0.184935653,0.009070663,0.332092223,1,0,Jocourtois7@gmail.com,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Apple,4,-5,5,4,-4,5
+-2.270943549,0.86987862,0.807276455,4,0,jodilinn83@gmail.com,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Countryside,NOTHING REALLY,Apple,2,-2,3,3,1,1
+0.293757754,-0.439026691,0.618608458,1,0,johnha7@outlook.com,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Suburban,Republican,Others,1,-2,1,0,-3,1
+-0.320483426,-0.349291974,0.329088155,1,0,johnlgladden@gmail.com,Male,45 - 54,Master's degree,Living month to month and just getting by,Exurb,Democrat,Apple,5,-2,4,5,-4,3
+-1.407523818,1.037230489,-1.140055849,4,0,joni.l.barton@gmail.com,Female,55 - 64,Bachelor's degree,Living month to month and just getting by,Suburban,Republican,Apple,4,4,5,5,-3,-3
+-0.67618778,1.219970802,0.263794328,3,0,joseph_abbitt@yahoo.com,Male,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Exurb,Independent,Samsung,4,1,5,5,-4,-3
+-0.359992183,0.252310985,-0.534282696,1,0,Josephgreer542@gmail.com,Male,25 - 34,Some college / Associate degree,Living comfortably with some left over,Suburban,Republican,Samsung,4,-3,3,5,-3,2
+0.788953677,0.699832106,0.842201861,3,0,joshuagarlock@hotmail.com,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Independent,I'm not sure,3,1,2,3,-1,2
+-1.902719741,0.802260622,-2.393817875,4,0,jrcw74@hotmail.com,Female,35 - 44,Bachelor's degree,Living month to month and just getting by,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Others,-5,5,-5,-4,5,-4
+0.017589898,-0.011893591,-1.063336588,1,0,jrockhitz@gmail.com,Male,35 - 44,Highschool,Living month to month and just getting by,Suburban,Democrat,Samsung,3,-1,1,1,1,2
+-1.810663789,1.570062984,-1.889125535,4,0,Jrupert129@gmail.com,Female,55 - 64,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Others,1,2,1,3,3,5
+-1.141579118,-1.782166287,0.814491206,1,0,jssebckr@gmail.com,Male,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Samsung,3,-5,3,4,-4,5
+0.7043056,-0.813354004,0.25057144,2,0,jsword25@gmail.com,Male,55 - 64,Professional / Doctorate degree ,Living comfortably with some left over,Suburban,Republican,Samsung,3,-3,2,2,-3,-1
+1.057713657,-0.300333297,1.289101897,2,0,jtolliver6370@yahoo.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Gated Community,Independent,Samsung,4,-3,4,4,-2,0
+-0.60176286,1.314128863,-0.510209183,4,0,JTSCaesar@msn.com,Male,35 - 44,Bachelor's degree,Have enough but should save more,Small City or Town,Independent,Others,5,-1,5,4,-4,1
+0.077544967,1.309705519,-0.604113025,3,0,juanpurrscent@yahoo.com,Male,35 - 44,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,Independent,Others,3,3,1,1,-1,-5
+0.523008977,1.130812318,0.890063385,3,0,judge928judy@aol.com,Female,45 - 54,Highschool,Living very comfortably and spending freely,Suburban,Republican,Samsung,4,-4,3,4,-4,4
+-0.370215339,0.520938904,-1.09734215,4,0,judith.defrank@yahoo.com,Female,55 - 64,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Independent,Apple,0,3,-2,-2,-1,-2
+1.338993091,-0.565114106,0.779279029,2,0,kaladyj@yahoo.com,Male,55 - 64,Master's degree,Living month to month and just getting by,Suburban,Democrat,I'm not sure,3,-4,5,5,5,5
+-2.270943549,-0.351020673,-1.060906061,4,0,Kamaleon59@yahoo.com,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,NOTHING REALLY,Apple,5,-5,5,5,-5,-5
+0.070137092,-0.622343237,-0.831954892,1,0,kamarajohnson91@gmail.com,Female,25 - 34,Highschool,Have enough but should save more,Small City or Town,Democrat,Apple,2,2,3,2,3,2
+0.117572708,-0.520490954,0.230075537,1,0,Kandiekane1687@gmail.com,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Samsung,-2,5,-2,3,2,5
+0.881009629,-0.720348409,1.801295759,2,0,karenbradychi@gmail.com,Female,35 - 44,Some college / Associate degree,Living very comfortably and spending freely,Countryside,Republican,Others,4,2,3,4,-1,5
+-0.658902649,0.358010379,0.713372612,3,0,karengbowersox@gmail.com,Female,55 - 64,Highschool,Living month to month and just getting by,Small City or Town,Independent,Apple,1,2,2,0,2,5
+-0.188399733,0.520938904,-1.486161842,4,0,Kariann909@yahoo.com,Female,25 - 34,Trade / technical / vocational school,Living month to month and just getting by,Suburban,Republican,Samsung,2,-1,4,2,3,1
+1.007981744,1.570062984,0.748623839,3,0,kathyet7@gmail.com,Female,65 - 74,Highschool,Living comfortably with some left over,Exurb,Republican,Others,-5,5,5,-5,5,5
+-0.720808116,-0.894818267,0.627907434,1,0,kconcepcion51@gmail.com,Female,55 - 64,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Others,5,-2,5,4,-5,-5
+1.309188506,0.154305813,1.322761156,3,0,kdoss32@gmail.com,Male,35 - 44,Bachelor's degree,Living very comfortably and spending freely,Suburban,Independent,Others,5,-3,5,5,-3,-3
+-0.972282965,1.049348055,-0.664871617,4,0,Ke.amero@gmail.com,Female,25 - 34,Bachelor's degree,Living month to month and just getting by,Countryside,Liberal,Samsung,5,-2,3,3,-5,1
+0.503427548,-0.184245037,0.772351049,2,0,Keishababy101@gmail.com,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Democrat,Apple,5,-4,4,5,-4,-5
+-0.775651608,-0.17924546,0.085631922,1,0,kekgray67@gmail.com,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Suburban,Liberal,Others,-1,3,2,3,2,2
+1.114853446,-0.357562429,1.12387434,2,1,kes13@juno.com,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Apple,1,4,-1,1,-1,1
+-1.790563377,-0.265133066,0.126565465,4,0,kevinedwards08@gmail.com,Male,35 - 44,Bachelor's degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Apple,4,-2,4,4,-4,4
+1.707216899,1.570062984,1.192172234,3,0,kevinm1013@gmail.com,Male,25 - 34,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Samsung,5,-5,5,5,-5,-5
+0.440657197,-0.537031863,-0.802100481,1,0,kghauser@earthlink.net,Male,45 - 54,Bachelor's degree,Have enough but should save more,Exurb,Republican,Google,3,-3,2,3,-2,2
+0.527601571,-0.708807076,0.345946916,1,0,Khaosmvxkvveli@gmail.com,Female,18 - 24,Highschool,Living month to month and just getting by,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Apple,3,-5,5,3,2,5
+1.070233111,-1.704549136,1.069086103,2,0,kiagoodgirl82@gmail.com,Male,35 - 44,Highschool,Have enough but should save more,Suburban,Democrat,Samsung,3,4,4,4,0,-2
+1.192093648,1.033383378,1.584630337,3,0,kimberly92812@gmail.com,Female,18 - 24,Highschool,Living month to month and just getting by,Suburban,Democrat,Others,5,2,5,5,-5,3
+0.259360574,1.130812318,0.45366894,3,0,kitcat43us@yahoo.com,Female,55 - 64,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Countryside,Republican,Apple,4,4,4,4,-4,4
+0.124980584,-0.101628308,-0.096741168,1,0,kknowles30@yahoo.com,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Samsung,3,-1,3,2,-1,-2
+-1.810663789,0.699255873,-2.177725994,4,0,klimina06@gmail.com,Female,18 - 24,Some college / Associate degree,Living month to month and just getting by,Countryside,Independent,Apple,1,-1,1,-2,-1,2
+1.246937139,-1.969329944,1.945739374,2,0,KLJK2432@hotmail.com,Female,25 - 34,Highschool,Living comfortably with some left over,Large City or Metropolitan,Republican,Samsung,5,3,5,5,4,-5
+-0.780763186,0.000223975,-0.998329532,4,0,knbertlings@gmail.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Apple,1,-3,-2,2,-3,1
+0.351416526,-1.163446186,0.040774466,1,0,knorris1929@yahoo.com,Female,25 - 34,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Samsung,3,-4,2,2,-3,-3
+0.229555989,-0.016316934,0.397732353,1,0,krazy1mom@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Suburban,Democrat,Google,5,-5,5,5,-5,-1
+1.03020537,-0.537031863,-1.630892228,1,0,kristen.cirillo@gmail.com,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Suburban,DON'T CARE ABOUT POLITICS,Apple,3,-2,3,2,-2,2
+1.468261504,0.694832529,1.801295759,3,0,kristinichols36@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,5,5,5,5,-5,-5
+0.746629638,-0.801236439,0.640577264,2,0,krob_85308@yahoo.com,Male,55 - 64,Some college / Associate degree,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Samsung,3,2,1,1,-3,2
+0.37840583,-0.187515914,-0.148467072,1,0,krohrbacher1@bex.net,Male,55 - 64,Bachelor's degree,Living very comfortably and spending freely,Small City or Town,Democrat,Samsung,2,1,3,1,-2,0
+0.754037514,1.044924711,-1.580027904,1,0,kuwabara100@aol.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Independent,Samsung,3,-2,4,5,-1,-4
+0.973065581,0.349739924,-0.427135482,1,0,ky_mountain_girl@hotmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Republican,Others,4,2,5,4,-5,5
+-1.382830811,0.699832106,-0.919753285,4,0,Labradog07@comcast.net,Male,55 - 64,Bachelor's degree,Have enough but should save more,Suburban,Liberal,Others,3,-2,5,4,-1,5
+0.794065255,1.037230489,0.883422175,3,0,lachrisharaines@gmail.com,Female,25 - 34,Highschool,Living month to month and just getting by,Countryside,Republican,Apple,5,3,5,5,3,-4
+-1.368015061,0.016764884,-2.427823437,4,1,lacogy54@aol.com,Female,55 - 64,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Independent,I'm not sure,-3,3,-5,-5,3,3
+0.20681338,0.703679217,-0.315837117,3,0,laellhansen@yahoo.com,Female,35 - 44,Highschool,Living month to month and just getting by,Suburban,NOTHING REALLY,Samsung,-3,5,2,-3,3,-4
+-0.825383521,0.785719712,-0.462347659,4,0,lag32366@att.net,Female,45 - 54,Highschool,Living month to month and just getting by,Suburban,Republican,Google,-2,5,2,1,5,5
+0.035220929,-0.093357853,1.027579019,3,0,lakishahartley43@gmail.com,Female,45 - 54,Highschool,Have enough but should save more,Small City or Town,Republican,Samsung,4,4,5,5,3,3
+0.970769283,-0.288791965,-0.047732561,1,0,laleena2015@gmail.com,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Apple,2,-1,5,5,-5,4
+0.980473456,-1.517385479,1.347180972,2,0,Lana488@gmail.com,Female,25 - 34,Trade / technical / vocational school,Have enough but should save more,Small City or Town,Democrat,Others,5,0,4,4,-5,2
+-0.325595004,1.48475161,0.924355718,3,0,Laplant.karen@yahoo.com,Female,65 - 74,Highschool,Living month to month and just getting by,Suburban,NOTHING REALLY,Samsung,-4,5,3,5,4,-5
+0.609953351,0.162576267,0.732050579,3,0,lcrawley4@cfl.rr.com,Male,65 - 74,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Others,4,-2,4,3,-1,-2
+0.93585312,-1.969329944,0.445880647,2,0,leebarrow09@gmail.com,Female,55 - 64,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Others,5,-5,5,5,-5,5
+-2.049619185,0.358586612,-1.947491381,4,0,leemarie1111@yahoo.com,Female,35 - 44,Trade / technical / vocational school,Have enough but should save more,Suburban,Republican,Samsung,3,-2,2,3,-3,4
+-0.148890975,-0.894818267,-1.197561383,1,0,lemonleeterry@gmail.com,Male,35 - 44,Highschool,Living month to month and just getting by,Small City or Town,Republican,Others,2,-1,2,2,-2,-5
+0.66990842,-0.013046056,1.071803401,3,0,leshiat33@gmail.com,Female,25 - 34,Trade / technical / vocational school,Living month to month and just getting by,Small City or Town,Independent,Samsung,5,-5,5,5,4,-5
+0.83868559,-0.894818267,0.244217,2,0,lewis.dorn@gmail.com,Male,45 - 54,Highschool,Have enough but should save more,Suburban,Democrat,Samsung,1,-2,2,2,-2,-2
+-0.552030946,1.224394146,0.405233875,3,0,lghrdrummervt@gmail.com,Male,65 - 74,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Independent,Others,4,1,-1,3,-2,3
+0.344008651,0.447745096,0.590324262,3,0,lgmtrap@Netscape.net,Male,65 - 74,Bachelor's degree,Living month to month and just getting by,Suburban,Republican,Samsung,4,-4,5,5,-5,5
+0.83868559,-0.361985773,0.515958698,2,0,lil_jennylou@yahoo.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Others,1,0,2,1,-2,0
+0.030109351,-1.688584459,0.174138949,2,0,lindathomas4710@gmail.com,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Suburban,DON'T CARE ABOUT POLITICS,I'm not sure,5,-2,5,5,-1,-2
+1.020501197,-1.346762732,0.917427737,2,0,linemark815@gmail.com,Male,35 - 44,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,Samsung,4,-3,4,3,-3,3
+0.124980584,0.265004783,-0.692869043,1,0,Linnie.hair@gmail.com,Female,25 - 34,Trade / technical / vocational school,Have enough but should save more,Suburban,Democrat,Samsung,5,-2,5,5,-5,3
+-0.240946927,-0.809506894,-1.133127868,1,0,Lisa.daniel42@gmail.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Independent,Samsung,5,-5,5,5,-5,-5
+-0.825383521,-0.183092571,-0.126785037,1,0,lisamicheles6@aol.com,Female,25 - 34,Bachelor's degree,Living very comfortably and spending freely,Large City or Metropolitan,NOTHING REALLY,Apple,5,-3,4,4,-2,-3
+-0.014510985,0.43562753,-1.734116797,4,0,LisaNFL@hotmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Countryside,NOTHING REALLY,Others,2,-4,1,1,-3,0
+-0.954651934,0.166999611,-1.868054822,4,0,lisawhatley@att.net,Female,55 - 64,Bachelor's degree,Living very comfortably and spending freely,Countryside,Republican,Apple,1,2,2,1,-1,1
+0.26958373,0.597979823,0.748623839,3,0,livshelley21@gmail.com,Female,18 - 24,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Apple,5,-2,5,5,5,-5
+1.74442936,0.687138307,0.999581594,3,0,lkpr_karina@hotmail.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Apple,5,5,5,5,-4,5
+1.057713657,-0.983976752,1.144945053,2,0,lmariedpat@outlook.com,Female,65 - 74,Highschool,Living comfortably with some left over,Exurb,Democrat,Others,3,3,2,1,3,3
+1.333881513,-2.054641318,1.946026145,2,0,lost.n.digital@gmail.com,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Exurb,Libertarian,Apple,5,-5,5,5,-5,-5
+-0.902623723,-0.707654611,0.115773104,1,0,lotster@gmail.com,Female,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Apple,3,-3,3,1,-4,-2
+-0.584131828,-0.179821693,-1.258418557,4,0,loudlewdandrude6676@gmail.com,Female,25 - 34,Bachelor's degree,Living month to month and just getting by,Suburban,Republican,Samsung,5,-4,-4,5,3,-4
+-0.091232203,0.166999611,0.047989218,1,0,lovepink2929@gmail.com,Female,25 - 34,Highschool,Have enough but should save more,Small City or Town,Independent,Google,3,2,3,2,3,2
+-0.31026027,0.338198591,0.101570839,1,0,lspratt@kent.edu,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,Independent,Google,-4,5,1,3,4,4
+-2.186295473,0.610097388,-1.342004998,4,0,ltheobald13@yahoo.com,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Suburban,Independent,Others,3,-2,5,4,-4,-4
+0.261656871,0.430627954,0.621899297,3,0,luispinzon1954@comcast.net,Male,65 - 74,Some college / Associate degree,Have enough but should save more,Small City or Town,Independent,Samsung,2,4,3,2,-3,3
+-0.636160039,0.708102561,-0.981469502,4,0,luzer@msn.com,Male,45 - 54,Master's degree,Living very comfortably and spending freely,Suburban,Democrat,Apple,2,2,3,4,1,4
+-1.044411588,0.520938904,-0.581857449,4,0,lyndalarch@aol.com,Female,55 - 64,Bachelor's degree,Have enough but should save more,Suburban,Republican,Apple,4,1,4,5,-3,3
+1.246937139,-0.533184753,1.43654958,2,0,lynnlasley43@gmail.com,Female,45 - 54,Highschool,Have enough but should save more,Small City or Town,Liberal,Others,5,-4,5,5,-5,3
+1.167400641,-1.700702025,0.735341418,2,0,lys33coop@gmail.com,Female,18 - 24,Highschool,Have enough but should save more,Large City or Metropolitan,Republican,Apple,5,-3,5,4,-4,3
+0.092879701,-2.041947519,0.267371938,2,0,M1ch3113lee@yahoo.com,Female,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,Republican,Samsung,5,-5,-4,4,-5,-4
+-0.148890975,-0.357562429,-1.135558395,1,0,m4573rsplinter@hotmail.com,Female,65 - 74,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,Others,1,1,1,2,-1,1
+1.114853446,-0.894818267,1.203310898,2,0,madamx19@gmail.com,Female,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Others,3,-2,1,2,-2,1
+0.933556823,-1.794283853,1.181954683,2,0,Madgeclaro@gmail.com,Male,18 - 24,Highschool,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Apple,5,-5,5,5,-5,5
+1.928541264,0.687138307,2.162404797,3,0,malcolmk75@yahoo.com,Male,35 - 44,Highschool,Living comfortably with some left over,Countryside,Republican,Apple,5,1,5,5,5,2
+0.746629638,0.439474641,-0.275477115,3,0,mandy197824@hotmail.com,Female,35 - 44,Trade / technical / vocational school,Living month to month and just getting by,Suburban,Republican,Others,5,3,2,0,-5,-5
+1.433345341,0.337622358,-0.606504503,3,0,manpreetrathore23@gmail.com,Female,25 - 34,Master's degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Apple,3,-4,5,5,-5,-5
+0.66990842,0.773025914,0.670047592,3,0,Mariaatheem@gmail.com,Female,45 - 54,Some highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Democrat,Apple,-3,-4,3,4,2,3
+1.707216899,-0.359291127,1.402257247,2,0,mariobhamil@gmail.com,Male,35 - 44,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Republican,Samsung,5,3,5,4,5,-5
+-1.405227521,1.570062984,-1.365468458,4,0,martinrussell004@gmail.com,Male,45 - 54,Highschool,Have enough but should save more,Small City or Town,Republican,Others,-2,1,3,4,5,4
+-0.108863234,0.862760631,0.092273132,3,0,martom532hotmail.com,Male,18 - 24,Some college / Associate degree,Living month to month and just getting by,Exurb,Democrat,Apple,3,4,2,2,3,4
+-1.994775693,0.959613337,-2.610196527,4,0,maryJCjasper@gmail.com,Female,35 - 44,Trade / technical / vocational school,Have enough but should save more,Large City or Metropolitan,Independent,Others,3,-3,-4,2,-4,2
+-1.633959761,-0.088934509,0.367017629,4,0,maryp.wtn@gmail.com,Female,55 - 64,Highschool,Sometimes there isn't enough to pay all the bills,Countryside,Democrat,Others,-3,3,0,0,3,4
+-1.549311684,0.439474641,0.215932804,4,1,matt2t6@gmail.com,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Independent,Samsung,5,-5,3,4,-5,-2
+0.664796842,0.687138307,0.931570469,3,0,mattiasw.illians5874@gmail.com,Male,35 - 44,Bachelor's degree,Living very comfortably and spending freely,Large City or Metropolitan,Republican,Apple,3,2,3,4,5,4
+1.928541264,-1.969329944,2.162404797,2,0,matttrell@gmail.com,Male,35 - 44,Highschool,Living comfortably with some left over,Large City or Metropolitan,Independent,Others,5,-5,5,5,-5,-5
+1.523104995,0.601826934,0.418516295,3,0,MAUREENMCDONALD728@GMAIL.COM,Female,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Independent,Others,5,-4,5,5,-5,-5
+0.923333667,0.866607742,-0.275477115,3,0,maurenysruiz@yahoo.com,Female,35 - 44,Some highschool,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Others,3,3,3,3,2,3
+-0.402316222,0.26442855,0.425096705,1,0,Maybe,Female,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Countryside,NOTHING REALLY,Apple,2,3,4,1,1,0
+0.756852794,0.337622358,0.71608991,3,0,mazycktamisha@gmail.com,Female,35 - 44,Bachelor's degree,Living month to month and just getting by,Small City or Town,Democrat,Others,3,3,4,4,4,2
+0.786657379,1.570062984,1.493443792,3,0,mcamerican59@gmail.com,Male,45 - 54,Some highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,5,1,4,0,5,5
+-0.685891953,0.78899059,-1.118411595,4,0,meca1181@gmail.com,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,NOTHING REALLY,Samsung,2,-1,3,2,2,2
+-0.452048135,-0.00804648,-0.289333077,1,0,melissaeverett349@yahoo.com,Female,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,DON'T CARE ABOUT POLITICS,Samsung,3,-2,-4,-2,-1,2
+1.022797494,0.252310985,0.583969822,3,0,Melissamac3506@hotmail.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Countryside,Independent,Apple,3,-3,3,3,-3,-1
+0.127276881,0.51651556,-0.349804899,1,0,mellisa653@gmail.com,Female,25 - 34,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Small City or Town,DON'T CARE ABOUT POLITICS,Samsung,2,1,2,2,-2,0
+0.34119337,-0.10932253,0.155709973,1,0,mhaiduck221@gmail.com,Female,35 - 44,Trade / technical / vocational school,Have enough but should save more,Large City or Metropolitan,Independent,Apple,3,2,2,4,2,1
+0.664796842,-0.027858267,-0.296261058,1,0,Micdog299@gmail.com,Male,18 - 24,Highschool,Have enough but should save more,Large City or Metropolitan,Democrat,Apple,3,4,3,4,-2,3
+-1.089031924,-0.97628253,-0.916175675,1,0,Michaeld106345@yahoo.com,Male,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Liberal,Others,4,-4,3,2,-4,-3
+-0.566846697,0.337046125,-0.00823414,1,0,michelle10027@gmx.com,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Other,DON'T CARE ABOUT POLITICS,Samsung,4,4,4,4,4,4
+-0.064242898,0.158729157,-0.440704673,1,0,mike_kavanaugh@hotmail.com,Male,35 - 44,Bachelor's degree,Have enough but should save more,Suburban,Democrat,Apple,2,1,1,2,2,1
+1.338993091,-1.615390651,1.782331022,2,0,mileegonzalez@yahoo.com,Female,55 - 64,Bachelor's degree,Living month to month and just getting by,Countryside,Democrat,Others,5,-4,5,4,5,-3
+1.74442936,-1.074863935,2.017961182,2,0,miriambeam@yahoo.com,Female,25 - 34,Highschool,Have enough but should save more,Suburban,Republican,Samsung,5,5,5,5,5,5
+-1.370311358,0.252310985,-1.55838365,4,0,Mishathavirgo@gmail.com,Male,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,Samsung,1,-1,2,1,-1,2
+0.344008651,-1.338492277,0.597825784,2,0,missamy273@yahoo.com,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Independent,Others,5,5,2,3,-5,3
+0.030109351,0.081688238,0.857529457,3,0,missfit102@yahoo.com,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Independent,Samsung,4,-1,3,3,0,2
+-0.409724097,-2.383193013,-0.852987825,1,0,missy69.mt@gmail.com,Female,45 - 54,Some highschool,Sometimes there isn't enough to pay all the bills,Exurb,DON'T CARE ABOUT POLITICS,Samsung,4,-4,3,4,-5,-4
+-0.509706908,-0.097204964,-0.584861517,1,0,mjpenny@hotmail.com,Male,55 - 64,Some college / Associate degree,Living comfortably with some left over,Suburban,DON'T CARE ABOUT POLITICS,Others,-1,1,0,-1,-1,1
+-1.534495933,0.716949248,0.004377426,4,0,mkuhlka41@gmail.com,Female,35 - 44,Some highschool,Sometimes there isn't enough to pay all the bills,Exurb,DON'T CARE ABOUT POLITICS,Others,-2,5,-4,-1,5,-5
+0.162193044,0.781296369,1.395329267,3,0,ml_dotson@yahoo.com,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Small City or Town,Republican,Apple,5,-4,5,5,-5,-3
+-2.086831645,1.570062984,-2.394104646,4,0,mlady916@gmail.com,Female,45 - 54,Master's degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Samsung,2,5,3,3,5,3
+-0.225612193,0.606250278,-0.909247695,4,0,momcota@gmail.com,Male,45 - 54,Bachelor's degree,Have enough but should save more,Countryside,Democrat,I'm not sure,4,-3,-1,1,-4,2
+1.928541264,-1.790436742,1.405546818,2,0,Mommyfruit85@gmail.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Republican,Samsung,5,-5,5,5,3,-4
+1.149769609,1.219970802,0.980963159,3,0,monequebenjamin@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,4,4,2,5,-5,-5
+0.819104161,0.341469469,0.558363875,3,0,monika@purplemile.com,Female,35 - 44,Master's degree,Have enough but should save more,Suburban,Independent,Apple,3,-1,3,3,3,-3
+0.445768775,-0.980129641,0.64597281,2,0,montgomerymercedes3@gmail.com,Female,45 - 54,Trade / technical / vocational school,Living month to month and just getting by,Suburban,Democrat,Others,1,-1,2,3,1,3
+0.296573034,-1.786013398,0.707977066,2,0,Moycastro77@yahoo.com,Male,18 - 24,Some college / Associate degree,Living very comfortably and spending freely,Large City or Metropolitan,Republican,Apple,4,-3,4,4,-2,-3
+0.803769427,0.529209359,1.282747457,3,0,mr.larry.swift@gmail.com,Male,35 - 44,Highschool,Have enough but should save more,Small City or Town,DON'T CARE ABOUT POLITICS,Apple,-1,2,-1,2,-1,-2
+-0.278159387,-0.447297146,-1.130162849,1,0,mrg696@yahoo.com,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Countryside,Independent,Others,-2,3,-4,-3,3,1
+1.376205552,-1.44034456,1.729073952,2,0,mrmike00102006@yahoo.com,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Apple,5,-5,5,5,-3,-5
+-1.074216173,0.086111581,0.325164242,1,0,mrschaveztobe@hotmail.com,Female,35 - 44,Bachelor's degree,Living comfortably with some left over,Countryside,Democrat,Apple,4,-1,1,1,-4,2
+-0.183288155,-1.610967307,0.047415676,1,0,Mrsscrump831@gmail.com,Female,18 - 24,Trade / technical / vocational school,Have enough but should save more,Suburban,Republican,Samsung,5,-3,3,3,-4,-3
+-1.235931368,1.399440237,-0.67843954,4,0,mshonnie2u@yahoo.com,Female,55 - 64,Trade / technical / vocational school,Living month to month and just getting by,Small City or Town,Independent,Others,3,2,5,5,-1,5
+-0.183288155,0.171422955,-0.389265539,1,0,mstanford1@comcast.net,Female,55 - 64,Trade / technical / vocational school,Have enough but should save more,Suburban,Republican,Apple,2,1,3,2,1,4
+1.204613101,-0.983400519,0.635122185,2,0,Mstedman0203@gmail.com,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,NOTHING REALLY,Apple,4,-3,4,4,3,0
+0.794065255,-0.366985349,0.107373489,1,0,mud_muffin32@yahoo.com,Female,45 - 54,Highschool,Have enough but should save more,Countryside,Democrat,Apple,5,-5,5,5,-5,-5
+0.881009629,-0.978977175,1.202737357,2,0,mulcher19@gmail.com,Male,25 - 34,Some highschool,Have enough but should save more,Small City or Town,DON'T CARE ABOUT POLITICS,Apple,5,-5,5,5,-5,-5
+-0.203734467,-0.870583136,0.553314632,1,0,Murphyjeremiah34@gmail.com,Male,55 - 64,Master's degree,Have enough but should save more,Suburban,Democrat,Others,-2,2,3,-5,-5,-3
+1.886217225,-1.171716641,2.083255008,2,0,mwestry@gmail.com,Male,25 - 34,Master's degree,Living very comfortably and spending freely,Suburban,Democrat,Apple,5,-4,5,5,5,-5
+0.157081466,0.349739924,0.435948598,3,0,mysdmurtaugh@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Suburban,Democrat,Others,-1,3,1,-2,5,5
+0.229555989,0.1631525,0.216506346,1,0,mysteryistee06@aol.com,Female,45 - 54,Highschool,Living month to month and just getting by,Countryside,Independent,Google,2,-2,-2,1,-4,1
+0.654573686,0.870454853,0.834700339,3,0,mysticsean@gmail.com,Male,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Others,5,-5,5,5,-4,3
+1.217132554,0.162576267,1.312542336,3,0,nanmihalko1974@gmail.com,Male,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Republican,Samsung,4,-1,5,5,4,4
+0.346304948,-1.151328621,0.097955449,1,0,Nannish41-65@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Suburban,Republican,Apple,-4,0,-5,-4,5,4
+-0.753773881,0.96018957,0.408871017,3,1,natkasman@cca.edu,Female,25 - 34,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Socialist,Apple,3,2,-1,1,-3,4
+1.517993417,-1.521808823,1.354682494,2,0,natuku25@hotmail.com,Male,25 - 34,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Samsung,3,-3,5,4,-3,-3
+-0.051723445,0.605674045,-0.255901056,1,0,Nbrew1984@gmail.com,Female,25 - 34,Trade / technical / vocational school,Living month to month and just getting by,Large City or Metropolitan,Independent,Samsung,3,-4,2,3,-4,3
+-2.178887597,-0.19963348,-1.118411595,4,0,Nessa.fisk@aol.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Google,5,0,3,5,1,5
+0.480684938,-0.8953945,0.062743272,1,0,Newstart842019@gmail.com,Male,25 - 34,Highschool,Living month to month and just getting by,Suburban,Independent,Samsung,4,-4,4,4,-5,2
+-0.60176286,0.162576267,0.457917404,1,0,ngroff312@gmail.com,Female,35 - 44,Highschool,Have enough but should save more,Small City or Town,Liberal,Samsung,1,0,2,3,-1,-4
+2.020597216,-2.054641318,1.756725074,2,0,nickalban192@yahoo.com,Male,35 - 44,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Republican,Apple,5,-5,5,5,-5,5
+1.388725005,1.130812318,1.220457699,3,0,Nievesmayra_2003@yahoo.com,Female,45 - 54,Trade / technical / vocational school,Living month to month and just getting by,Small City or Town,NOTHING REALLY,Apple,1,3,1,3,4,4
+0.970769283,1.219970802,0.782916171,3,0,nightstalker183@gmail.com,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Other,Democrat,Samsung,5,-5,5,5,-5,5
+-1.011791723,-0.003046903,-1.327288724,4,0,ninaofpravda@gmail.com,Male,25 - 34,Master's degree,Living comfortably with some left over,Small City or Town,Independent,Samsung,2,-2,2,4,-3,4
+-0.661717929,-0.613496549,-1.794685932,4,0,no,Male,55 - 64,Bachelor's degree,Have enough but should save more,Suburban,Republican,Samsung,5,-3,-3,-3,-3,4
+-1.275959109,0.512668449,-0.272759818,4,0,No,Male,18 - 24,Trade / technical / vocational school,Have enough but should save more,Countryside,Independent,Samsung,5,3,3,4,4,-4
+0.965657705,0.337622358,0.010979587,3,0,No,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Democrat,Samsung,2,-2,2,-1,-1,-2
+-0.593836001,0.776873025,0.085058381,3,0,no,Female,35 - 44,Highschool,Living month to month and just getting by,Small City or Town,DON'T CARE ABOUT POLITICS,Others,5,-4,5,5,-4,5
+0.249137418,0.337622358,0.280041768,3,0,no,Male,45 - 54,Highschool,Have enough but should save more,Small City or Town,Liberal,Samsung,-1,1,2,2,2,1
+0.348601245,-0.013046056,-1.587242656,1,0,No,Female,25 - 34,Some college / Associate degree,Living comfortably with some left over,Suburban,Independent,Apple,4,-3,5,5,-4,-5
+-0.338114457,0.597979823,-0.173460429,1,0,No,Male,25 - 34,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Republican,Samsung,-2,3,5,5,4,1
+0.199405504,0.342045702,-0.284835623,1,0,NO COMMENT,Male,55 - 64,Highschool,Sometimes there isn't enough to pay all the bills,Exurb,Democrat,Microsoft,-1,-1,-1,-1,-1,-1
+1.204613101,1.041653833,0.243644728,3,0,No I'm not,Male,35 - 44,Some college / Associate degree,Living comfortably with some left over,Small City or Town,Democrat,I'm not sure,4,-3,4,4,1,1
+0.383517408,1.143506116,0.066667184,3,0,no thanks,Male,55 - 64,Some highschool,Living month to month and just getting by,Gated Community,Democrat,Apple,0,0,-2,1,-3,5
+-1.460071013,-2.82244368,-1.111771653,1,0,noahsmom71@wowway.com,Female,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,Republican,Apple,5,-5,5,5,-5,3
+0.211924958,1.391169782,0.438952666,3,0,nomad48235@yahoo.com,Male,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Others,5,-5,5,5,-5,-5
+1.610049369,-1.069864358,1.570774375,2,0,"not, thaks",Male,35 - 44,Some college / Associate degree,Living very comfortably and spending freely,Suburban,Republican,Apple,5,-4,5,5,-5,-3
+-2.044507607,0.256158096,-1.324572695,4,0,nrenka@gmail.com,Female,35 - 44,Master's degree,Living comfortably with some left over,Suburban,Democrat,Apple,3,0,-2,-1,-4,2
+-0.686410936,0.62336742,0.66947405,3,0,nsbrat74@gmail.com,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,Democrat,Others,5,-5,5,5,-5,-5
+-0.151187272,0.520362671,0.629114049,3,0,nyc.darkvenom@gmail.com,Male,25 - 34,Bachelor's degree,Have enough but should save more,Suburban,Republican,Apple,5,4,4,3,4,5
+1.117668727,-1.346762732,1.219884158,2,0,omlomax77@gmail.com,Female,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Other,Democrat,Others,5,-5,5,5,-5,5
+-1.181087876,0.081688238,-1.64503496,4,0,oneillje07@comcast.net,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Small City or Town,Democrat,Apple,3,1,-1,0,-3,3
+0.027813054,-0.194633903,0.314334101,1,0,Onyboni0227@gmail.com,Female,25 - 34,Highschool,Living month to month and just getting by,Large City or Metropolitan,Independent,Google,-3,4,2,1,3,3
+1.468261504,-0.553572773,-0.128602974,2,0,oramirezlobo@hotmail.com,Male,35 - 44,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Republican,Apple,5,-4,5,5,5,-4
+-1.823183243,0.959613337,-1.125626346,4,0,organeyesr@me.com,Female,55 - 64,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Liberal,Apple,4,-1,1,3,-3,1
+0.130092162,-1.615390651,0.624616595,2,0,P1roj3ctzero13@yahoo.com,Male,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Republican,Samsung,5,-5,5,5,-5,-5
+0.560221437,1.48475161,0.859061891,3,0,pachano834@gmail.com,Female,35 - 44,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Republican,Apple,4,4,5,5,4,5
+1.39613288,-0.894818267,1.105483143,2,0,paidisailu@gmail.com,Female,25 - 34,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Suburban,Libertarian,Apple,2,2,2,2,-1,2
+-1.442439981,-1.033511661,0.345948185,1,0,pancraziohicks0281@gmail.com,Male,35 - 44,Highschool,Living comfortably with some left over,Countryside,DON'T CARE ABOUT POLITICS,Others,-5,5,0,0,-5,5
+0.336081792,-0.626190348,-0.00823414,1,0,papaifamily1@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Exurb,NOTHING REALLY,Others,1,5,-1,0,1,5
+1.022797494,-0.887124045,0.691403807,2,0,paxing@mail.com,Male,25 - 34,Master's degree,Have enough but should save more,Large City or Metropolitan,Republican,Google,1,-2,2,2,-2,2
+0.482981236,-0.19963348,-0.259191895,1,0,paymastermj@aol.com,Female,45 - 54,Master's degree,Have enough but should save more,Suburban,Democrat,Samsung,5,-5,0,0,-5,0
+-1.823183243,1.309705519,-1.351612496,4,0,pearlgtr@yahoo.com,Male,35 - 44,Professional / Doctorate degree ,Living comfortably with some left over,Suburban,Democrat,Others,5,0,-1,3,-5,3
+-0.198622889,-0.894818267,0.07177596,1,0,pfistersk@yahoo.com,Female,45 - 54,Bachelor's degree,Living comfortably with some left over,Suburban,Independent,Samsung,2,1,0,1,-3,0
+1.610049369,0.337622358,-0.382278026,3,0,pmherb1@gmail.com,Female,55 - 64,Some college / Associate degree,Have enough but should save more,Small City or Town,Republican,Apple,4,3,3,4,4,3
+1.027909072,0.606250278,-0.066026445,3,0,Prescott0214@gmail.com,Female,35 - 44,Highschool,Living month to month and just getting by,Suburban,Republican,Apple,4,1,2,4,-2,3
+-0.151187272,1.314128863,-0.519854461,3,0,Princessj1417@gmail.com,Female,18 - 24,Some highschool,Living month to month and just getting by,Small City or Town,Democrat,Samsung,-1,4,3,2,5,5
+0.978177159,0.268275661,-0.092530485,3,0,quenga6@yahoo.com,Male,45 - 54,Highschool,Living month to month and just getting by,Suburban,Democrat,Samsung,4,1,5,4,-3,0
+-0.954651934,-0.097781197,-1.131980786,4,0,quietoonrain@gmail.com,Female,25 - 34,Highschool,Living month to month and just getting by,Exurb,NOTHING REALLY,Others,-1,1,1,1,1,-1
+-2.086831645,1.219970802,-1.658890922,4,0,r.shilo@yahoo.com,Female,35 - 44,Bachelor's degree,Living month to month and just getting by,Suburban,Independent,Apple,3,-4,5,3,-4,5
+1.346400967,-1.69243157,1.422693618,2,0,rachellmaecheeseboro1215@gmail.com,Female,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Republican,Apple,5,-5,5,5,-5,-4
+1.572836909,1.224394146,0.628540507,3,0,ralph.ortiz28@yahoo.com,Male,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,Republican,Apple,3,2,4,2,3,4
+0.217036536,0.870454853,-0.103382378,3,0,randersoniii74@gmail.com,Male,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,Others,3,-2,3,1,-1,-1
+0.017589898,0.175270066,-0.435882668,1,0,randolphaniyah@gmail.com,Female,18 - 24,Highschool,Have enough but should save more,Small City or Town,DON'T CARE ABOUT POLITICS,Samsung,4,-3,2,1,-4,-1
+-2.014703022,-0.451144257,0.944505318,1,0,raphy2017@gmail.com,Female,18 - 24,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Socialist,Apple,4,-1,2,3,1,2
+-0.825383521,1.570062984,-2.105217416,4,0,ravynbush2015@gmail.com,Male,25 - 34,Highschool,Living month to month and just getting by,Small City or Town,NOTHING REALLY,Others,4,4,5,5,-5,3
+0.211924958,0.077264894,-0.729018361,1,0,rbiswell91@gmail.com,Female,25 - 34,Bachelor's degree,Living comfortably with some left over,Countryside,DON'T CARE ABOUT POLITICS,Samsung,3,0,0,1,-4,-4
+-0.233020068,1.224394146,-0.981182731,4,0,redmanjeffers@yahoo.com,Female,55 - 64,Trade / technical / vocational school,Living month to month and just getting by,Countryside,Democrat,Samsung,4,2,4,3,3,1
+-2.228619511,1.399440237,-1.882771096,4,0,redsweatervest@gmail.con,Female,35 - 44,Master's degree,Have enough but should save more,Suburban,Democrat,Apple,4,-2,4,4,-2,4
+1.107445571,-0.366985349,0.972215973,2,0,ree196893@gmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Exurb,Democrat,Samsung,2,-3,5,4,-2,-3
+0.848908746,1.037230489,1.691144477,3,0,rennka50@gmail.com,Female,25 - 34,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Democrat,Apple,5,5,3,4,5,2
+0.124980584,-0.36525665,0.499424488,1,0,rfair98066@hotmail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Samsung,3,-5,5,1,-3,2
+1.794161273,1.48475161,2.018247952,3,0,rimestone79@outlook.com,Male,35 - 44,Master's degree,Living very comfortably and spending freely,Suburban,Republican,Apple,4,5,4,5,5,4
+0.385813706,-0.187515914,1.137730301,2,0,riosm1957@gmail.com,Female,55 - 64,Trade / technical / vocational school,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,4,2,4,3,2,5
+0.296573034,0.776873025,0.628540507,3,0,rishforeal133@outlook.com,Male,18 - 24,Some college / Associate degree,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Google,3,3,3,4,3,4
+-0.554327243,0.333775247,-0.444915356,1,0,rjaquon199@live.com,Male,25 - 34,Highschool,Living month to month and just getting by,Suburban,Independent,Samsung,5,-5,5,4,-5,-5
+-1.639071339,0.955766227,-0.905037011,4,1,rneuschafer@yahoo.com,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Small City or Town,Independent,Others,2,-2,2,-1,-2,1
+0.83868559,-0.622343237,0.989362774,2,0,rnldgary7@gmail.com,Male,55 - 64,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,Democrat,Samsung,4,-3,4,1,-4,4
+0.707120881,-1.264722236,0.867174735,2,0,robertjcole54@gmail.com,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Republican,Others,5,-5,5,5,-5,5
+-0.462271291,0.874878197,-0.497885656,4,0,robinallison@optonline.net,Female,55 - 64,Bachelor's degree,Living month to month and just getting by,Gated Community,Democrat,Samsung,2,3,4,4,2,3
+0.617361226,-0.357562429,-0.251116832,1,0,robinkanderson74@yahoo.com,Female,55 - 64,Highschool,Living comfortably with some left over,Other,Republican,Others,1,1,1,1,-1,2
+-1.454959435,-0.259557257,-1.468729539,4,0,robinwhitney@ymail.com,Female,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,DON'T CARE ABOUT POLITICS,Apple,-4,3,-5,-5,5,2
+-1.278255406,-0.272827288,-1.329968241,4,0,roblamm1978@gmail.com,Male,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Independent,Samsung,4,-2,2,2,-3,-1
+0.117572708,-1.570191267,0.506065698,2,0,RodneyCarr424@gmail.Com,Male,35 - 44,Some highschool,Living very comfortably and spending freely,Suburban,Democrat,Samsung,5,-3,4,5,5,5
+0.430953025,-1.411109852,0.549390719,2,0,Romans828114@msn.com,Male,55 - 64,Some college / Associate degree,Living month to month and just getting by,Suburban,Independent,Samsung,-1,-2,3,2,2,-1
+-1.726015713,0.252310985,-1.572239611,4,0,ronroyrupe@gmail.com,Male,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Republican,Others,1,-2,-2,-2,-1,1
+-0.148890975,-0.186939682,-0.493674972,1,0,rpc051769@aol.com,Male,45 - 54,Bachelor's degree,Living comfortably with some left over,Suburban,Independent,Apple,-1,2,0,-3,1,3
+0.788953677,-0.016316934,0.979143954,3,0,rpenland12@yahoo.com,Female,55 - 64,Some college / Associate degree,Living comfortably with some left over,Countryside,Republican,Others,4,-1,1,2,3,-2
+0.353712823,0.252310985,-0.089527685,1,0,rrashmiyadav@gmail.com,Female,25 - 34,Bachelor's degree,Have enough but should save more,Small City or Town,Liberal,Others,2,-1,2,2,0,0
+1.346400967,-0.545302318,0.44345012,2,0,ryan33.mayer@gmail.com,Male,35 - 44,Master's degree,Living comfortably with some left over,Suburban,Democrat,Apple,3,3,3,3,3,2
+-0.101455359,-2.310575438,0.191859291,2,0,s32666@aol.com,Male,45 - 54,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Suburban,Independent,Others,4,-5,3,3,-5,-5
+0.162193044,-0.086239864,-1.197562652,1,0,sadasdas@dc-business.com,Male,18 - 24,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Google,3,2,3,4,1,2
+-1.017422284,1.570062984,-0.778313738,4,0,sadboy513@hotmail.com,Male,18 - 24,Highschool,Living very comfortably and spending freely,Large City or Metropolitan,Libertarian,Apple,5,-5,3,2,-5,4
+-1.014607003,-0.890394923,-0.032020882,1,0,sadlvded@hotmail.com,Male,55 - 64,Some college / Associate degree,Have enough but should save more,Countryside,NOTHING REALLY,Others,3,0,3,2,0,3
+-0.320483426,-0.614072782,-1.35614773,1,0,saganfk@yahoo.com,Female,25 - 34,Bachelor's degree,Have enough but should save more,Suburban,Republican,Apple,-1,2,-3,-2,-2,4
+0.891232785,1.216123691,1.102804895,3,0,salvadorgonzalez112@gmail.com,Male,35 - 44,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Republican,Apple,5,5,3,4,4,4
+0.296573034,-2.737132306,-0.851244181,2,0,salvajewendy@gmail.com,Female,45 - 54,Trade / technical / vocational school,Living month to month and just getting by,Suburban,Democrat,Others,0,-3,1,2,2,0
+1.836485312,1.48475161,2.011033201,3,0,Sam.camilo12@gmail.com,Female,35 - 44,Highschool,Living comfortably with some left over,Suburban,Republican,Apple,5,5,4,5,4,-2
+0.891232785,-1.253180904,0.851500837,2,0,samaashley1996@yahoo.com,Male,45 - 54,Bachelor's degree,Living comfortably with some left over,Large City or Metropolitan,Republican,Samsung,5,3,5,5,5,-1
+-0.738439147,0.968460025,-1.430800065,4,0,samantha7@catlover.com,Female,55 - 64,Some college / Associate degree,Living month to month and just getting by,Countryside,Independent,Others,3,-1,3,1,-4,5
+0.881009629,0.610097388,-1.788905034,1,0,sammikayj@yahoo.com,Female,35 - 44,Bachelor's degree,Living very comfortably and spending freely,Suburban,Democrat,Apple,3,-2,3,3,-3,0
+-1.541903809,-0.467108933,-0.837025887,4,0,sammy06brown@tds.net,Female,45 - 54,Highschool,Living comfortably with some left over,Countryside,Republican,Samsung,3,-3,2,1,-2,-4
+0.973065581,-0.455567601,0.329721228,2,0,sanel36@live.com,Female,35 - 44,Bachelor's degree,Living comfortably with some left over,Suburban,Democrat,Others,4,-5,3,4,-5,-2
+-0.713400241,0.691561651,-0.843667097,4,0,sarawthanh@aol.com,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,DON'T CARE ABOUT POLITICS,Samsung,4,-5,3,3,-5,-3
+0.930741542,1.570062984,0.169316944,3,0,sarraba39@gmail.com,Female,35 - 44,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Suburban,Independent,Google,4,-2,4,5,-4,3
+-2.362999501,1.045500944,-2.300812125,4,0,sassyny@hotmail.com,Female,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,Independent,Apple,3,3,1,0,-2,3
+-1.03930001,1.224394146,-0.468988869,4,0,sbest1kelly@att.net,Male,65 - 74,Highschool,Have enough but should save more,Suburban,Democrat,Samsung,5,3,5,4,-4,-3
+-0.954651934,-1.240487105,-0.0937371,1,0,scenemarine@mail.com,Male,25 - 34,Highschool,Living very comfortably and spending freely,Suburban,Libertarian,Google,5,4,5,5,-5,2
+1.03302065,0.699255873,1.797658617,3,0,Schismata@gmail.com,Male,25 - 34,Some college / Associate degree,Living comfortably with some left over,Suburban,Republican,Samsung,4,-1,5,5,-3,3
+-1.442439981,0.606250278,-1.204202593,4,0,sciurbar@yahoo.com,Male,55 - 64,Bachelor's degree,Have enough but should save more,Suburban,Independent,Samsung,0,0,0,0,-1,0
+-1.49957977,0.964036681,-0.29354376,4,0,scoopleader@yahoo.com,Female,55 - 64,Bachelor's degree,Living month to month and just getting by,Small City or Town,Republican,Apple,4,3,4,5,-1,1
+1.836485312,-0.180397926,1.54306372,2,0,scottedson846@gmail.com,Male,45 - 54,Highschool,Living comfortably with some left over,Suburban,Independent,Samsung,5,-5,5,5,-5,5
+0.575037188,-0.101628308,-0.570432014,1,0,Scsdrummer1979@gmail.com,Male,35 - 44,Trade / technical / vocational school,Living month to month and just getting by,Exurb,Independent,Samsung,3,1,3,3,4,3
+0.396036862,-0.011893591,-0.137961481,1,0,search4dr1@hotmail.com,Female,45 - 54,Some college / Associate degree,Have enough but should save more,Exurb,Independent,Microsoft,3,-2,4,4,-1,-3
+1.157177485,-0.894818267,0.979717495,2,0,shanelwhite99@gmail.com,Female,18 - 24,Some college / Associate degree,Have enough but should save more,Large City or Metropolitan,Independent,Apple,4,-3,4,4,-4,3
+0.385813706,-0.272251055,-0.433489921,1,1,sharonkay.mt@gmail.com,Female,55 - 64,Bachelor's degree,Living comfortably with some left over,Small City or Town,Democrat,Others,-1,1,0,1,0,1
+0.211924958,-0.53260852,-0.000445847,1,0,Sharonmeyd@yahoo.com,Female,55 - 64,Highschool,Living month to month and just getting by,Suburban,Democrat,Samsung,1,1,2,2,1,-1
+-0.954651934,0.618944076,-1.018479132,4,0,shaunarouse4@gmail.com,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,DON'T CARE ABOUT POLITICS,Samsung,1,3,3,3,3,4
+-0.780763186,-0.093357853,-1.260176961,4,0,shaunza15@yahoo.com,Female,35 - 44,Master's degree,Living comfortably with some left over,Suburban,Socialist,Samsung,2,-2,-1,-2,-2,1
+0.296573034,0.694832529,-0.137961481,3,0,shawnafischer26@gmail.com,Female,35 - 44,Highschool,Living month to month and just getting by,Suburban,Independent,Samsung,5,-5,5,5,-5,-5
+1.475669379,-1.256451782,1.71521799,2,0,Shawnam79@hotmail.com,Female,35 - 44,Highschool,Have enough but should save more,Suburban,Democrat,Apple,4,-3,5,4,3,-4
+1.204613101,-0.72419552,1.122056403,2,0,sheliaspears2424@gmail.com,Female,55 - 64,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Small City or Town,Democrat,Samsung,4,-2,5,4,3,2
+-0.333002879,-0.703231267,-0.887604709,1,0,shelley_l_warren@yahoo.com,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Republican,Apple,-1,-3,-5,-4,-5,-3
+0.351416526,-1.969329944,0.965289261,2,0,sherblueberry84@gmail.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,DON'T CARE ABOUT POLITICS,Samsung,5,-5,5,5,0,5
+-0.295790419,-0.186939682,1.558737619,2,0,sherrieguan@cca.edu,Female,18 - 24,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,NOTHING REALLY,Apple,4,1,5,2,0,1
+-0.536696212,1.399440237,0.879211492,3,0,Sherrismall1967@gmail.com,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Countryside,Republican,Others,-1,2,5,5,-1,-5
+1.065121533,-0.711501721,0.800061703,2,1,sherylhdodd@gmail.com,Female,45 - 54,Highschool,Living comfortably with some left over,Suburban,Democrat,Samsung,2,-1,3,3,-1,-1
+0.903752238,0.426780843,0.504533263,3,0,Shomarihollis@gmail.com,Male,18 - 24,Bachelor's degree,Have enough but should save more,Large City or Metropolitan,Democrat,Apple,3,4,2,1,4,2
+-0.501780049,0.43562753,-0.69143519,4,0,Showard911@aol.com,Male,55 - 64,Master's degree,Sometimes there isn't enough to pay all the bills,Countryside,Independent,Apple,3,0,-1,1,-1,4
+-0.768243732,-0.268403944,-0.577646766,1,1,sicguy112233@gmail.com,Male,18 - 24,Highschool,Living comfortably with some left over,Suburban,Republican,Apple,1,1,2,1,3,0
+1.341289389,-2.037524175,1.426904302,2,0,SigKapp700@yahoo.com,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,NOTHING REALLY,Google,4,0,2,3,-3,-3
+0.843797168,-0.012469824,-0.079882406,1,0,siromekim@easy-mail.top,Male,25 - 34,Master's degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Google,-1,2,2,3,-1,2
+-1.198718907,-0.617919893,-0.667648447,1,0,Sjnynyi@aol.com,Male,55 - 64,Bachelor's degree,Living month to month and just getting by,Large City or Metropolitan,Independent,Others,0,2,1,-1,-1,0
+-1.037003713,1.48475161,-0.069376816,4,0,sjsandman23@yahoo.com,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Suburban,Republican,Apple,2,0,2,2,-3,0
+0.114757428,-0.165975428,-1.38265177,1,0,skinnercurtis@yahoo.com,Male,55 - 64,Bachelor's degree,Have enough but should save more,Small City or Town,Republican,Samsung,0,0,-5,-5,-5,0
+-1.768339751,-0.206751469,-0.462060888,4,0,slaytonmarks@gmail.com,Female,55 - 64,Bachelor's degree,Living month to month and just getting by,Small City or Town,Independent,Samsung,4,3,5,3,3,2
+1.376205552,1.570062984,0.734730096,3,0,smarie54@yahoo.com,Female,65 - 74,Trade / technical / vocational school,Living month to month and just getting by,Countryside,Independent,Others,3,-2,5,3,-4,2
+1.149769609,0.606250278,1.361323704,3,0,smiscavage@yahoo.com,Female,45 - 54,Bachelor's degree,Have enough but should save more,Suburban,Independent,Others,3,-3,2,3,-3,0
+-0.146075694,-1.253180904,-0.678440808,1,0,snackcakess31@gmail.com,Female,35 - 44,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Exurb,Democrat,HTC,5,2,-2,5,5,1
+0.965657705,-0.183668804,0.92163842,2,0,snedsfj@gmail.com,Female,45 - 54,Some college / Associate degree,Living comfortably with some left over,Countryside,Democrat,Others,4,-3,4,3,-3,3
+1.567725331,-1.070440591,0.756124092,2,0,snowjagger@gmail.com,Male,35 - 44,Master's degree,Living very comfortably and spending freely,Large City or Metropolitan,Democrat,Apple,4,-4,3,4,3,0
+-0.101455359,-0.357562429,-0.425988399,1,0,sparklesatheart40@gmail.com,Female,35 - 44,Trade / technical / vocational school,Living month to month and just getting by,Exurb,Independent,Others,3,4,1,3,1,3
+1.425937465,-0.094510319,0.277996593,2,0,sparnallp@gmail.com,Female,25 - 34,Some college / Associate degree,Living comfortably with some left over,Large City or Metropolitan,Independent,Others,4,-3,3,2,-3,3
+1.333881513,-0.281097743,1.50605409,2,0,speacterharvi@gmail.com,Male,25 - 34,Professional / Doctorate degree ,Living comfortably with some left over,Large City or Metropolitan,Republican,Samsung,1,0,5,5,1,2
+0.164489341,-0.887124045,1.041721751,2,0,ssevilneverdies8@gmail.com,Male,45 - 54,Some college / Associate degree,Living month to month and just getting by,Small City or Town,DON'T CARE ABOUT POLITICS,Samsung,5,5,2,3,0,2
+1.296669053,-0.456143834,1.24724851,2,0,staffordkeels68@gmail.com,Male,45 - 54,Professional / Doctorate degree ,Living comfortably with some left over,Suburban,Liberal,Samsung,2,-3,5,4,-2,-4
+0.445768775,1.399440237,-1.018479132,3,0,Stang6719@yahoo.com,Male,45 - 54,Bachelor's degree,Living month to month and just getting by,Suburban,Republican,Apple,-1,-1,2,2,0,0
+-0.591539704,-0.272251055,-0.915315364,1,0,Stevenkimjosh@hotmail.com,Female,35 - 44,Some college / Associate degree,Living comfortably with some left over,Exurb,Democrat,Samsung,2,0,1,1,-4,0
+0.217036536,-1.244334216,0.3673044,2,0,stevenmalcom8@gmail.com,Male,18 - 24,Highschool,Living comfortably with some left over,Small City or Town,Democrat,Samsung,4,-3,5,1,-3,2
+0.306277207,0.431204187,0.876780965,3,0,sthayer99@gmail.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Countryside,NOTHING REALLY,Apple,4,3,4,3,1,3
+0.4383609,1.305858408,0.859348662,3,0,Straya45@yahoo.com,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Apple,2,-2,3,5,3,-1
+-0.90492002,0.785143479,-0.380519622,4,0,strider_jmo@hotmail.com,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Democrat,Others,1,3,4,3,-1,0
+-0.283270965,-0.971859186,-0.59929102,1,0,suemaggie7@comcast.net,Female,55 - 64,Master's degree,Living very comfortably and spending freely,Suburban,Democrat,Apple,4,1,3,2,2,4
+0.440657197,-0.357562429,-0.61915385,1,0,sumarie711@aol.com,Female,55 - 64,Bachelor's degree,Have enough but should save more,Suburban,Republican,Samsung,3,-2,2,2,-3,1
+0.077544967,-0.447297146,-0.060630898,1,0,swaterma888@hotmail.com,Male,45 - 54,Professional / Doctorate degree ,Living comfortably with some left over,Suburban,Independent,Microsoft,1,-2,1,0,-3,1
+1.020501197,-1.696854914,1.14073437,2,0,sylbtinker2@gmail.com,Female,45 - 54,Highschool,Living comfortably with some left over,Suburban,Republican,Samsung,3,-5,3,5,-4,-5
+-0.419947253,1.22881749,-2.105217416,4,0,sylviacoleman32@yahoo.com,Female,45 - 54,Professional / Doctorate degree ,Sometimes there isn't enough to pay all the bills,Countryside,Democrat,Others,5,-5,1,-5,-5,-5
+1.015389619,-0.255710146,0.587320194,2,0,szrmc00@yahoo.com,Male,55 - 64,Trade / technical / vocational school,Living month to month and just getting by,Suburban,Independent,Others,4,-1,4,2,2,-3
+1.107445571,-0.088934509,1.274959165,2,0,t4095robinwood@gmail.com,Male,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Small City or Town,Republican,Samsung,4,3,5,3,2,5
+0.696897725,-1.338492277,0.374232381,2,0,tadub1980@gmail.com,Male,55 - 64,Some college / Associate degree,Have enough but should save more,Suburban,Independent,Others,3,3,3,3,0,3
+-0.86770756,-1.512962135,-1.285745128,1,0,Talei23locks@gmail.com,Female,18 - 24,Some highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,NOTHING REALLY,Samsung,4,2,3,5,1,-2
+-0.678484078,0.265004783,-0.649257251,4,0,tamcar1@yahoo.com,Female,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Independent,Others,-1,2,0,-1,2,1
+-0.731031272,-0.276674399,0.912605732,1,0,taralin@cca.edu,Female,18 - 24,Highschool,Living comfortably with some left over,Large City or Metropolitan,NOTHING REALLY,Apple,3,-2,5,5,-3,3
+1.468261504,1.570062984,0.790190455,3,0,tasha.boyd7@gmail.com,Female,35 - 44,Some college / Associate degree,Living very comfortably and spending freely,Suburban,Democrat,Samsung,5,4,5,5,4,5
+1.2841496,-1.680314004,1.505480549,2,0,taylorcora7@gmail.com,Female,55 - 64,Highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,5,-5,5,5,-4,-5
+0.517897399,0.512668449,0.181640472,3,0,tazmama71@gmail.com,Female,45 - 54,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Others,2,-1,3,4,-2,-2
+1.114853446,-0.715348832,-0.145176233,1,0,Tazmaniandavid@msn.com,Male,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,Samsung,1,3,1,1,0,3
+-1.902719741,-1.680314004,-2.249661031,4,0,tbeaux100@hotmail.com,Male,45 - 54,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Samsung,5,-5,5,3,-5,0
+-0.32507602,1.570062984,-0.097255177,3,0,tee90149@gmail.com,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,4,-4,5,5,-4,-4
+1.468261504,-2.054641318,1.801295759,2,1,telam172005@yahoo.com,Female,25 - 34,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Democrat,Apple,5,-2,4,5,-5,-4
+1.74442936,-2.225264065,2.017961182,2,0,tgoode911@gmail.com,Male,18 - 24,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Apple,5,-5,5,5,5,-5
+-0.357695886,-0.183668804,-0.152390984,1,0,tgorant@gmail.com,Female,35 - 44,Master's degree,Living month to month and just getting by,Suburban,Democrat,Samsung,3,-3,3,3,-3,-3
+-1.952451655,-1.75293158,-1.493089823,4,0,the_cancer_bear@yahoo.com,Male,55 - 64,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Countryside,DON'T CARE ABOUT POLITICS,Samsung,-2,5,1,2,3,4
+-0.686410936,-0.183668804,0.00527425,1,0,The_saint00@msn.com,Male,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Samsung,5,-5,5,2,-5,-4
+-0.86770756,0.162576267,-0.49577968,4,0,thelandofhearts12@gmail.com,Female,18 - 24,Some college / Associate degree,Have enough but should save more,Suburban,Democrat,Samsung,3,-1,5,3,-3,-2
+1.192093648,-2.293458296,-0.093450329,2,0,thomas_hill45@yahoo.com,Male,65 - 74,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,-2,2,3,2,2,-2
+1.356624123,0.691561651,1.360690631,3,0,thomas22ga@outlook.com,Male,35 - 44,Professional / Doctorate degree ,Living comfortably with some left over,Small City or Town,Republican,Samsung,5,2,3,4,3,1
+0.436064603,-2.82244368,-0.685368789,2,0,tiffanyeickleberry69@gmail.com,Female,25 - 34,Some highschool,Have enough but should save more,Suburban,DON'T CARE ABOUT POLITICS,Others,5,-5,5,5,-5,0
+0.804288411,0.948072005,0.76906021,3,0,Tigeribxbxbx@yahoo.com,Non-Binary,45 - 54,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Liberal,Apple,2,5,5,1,3,2
+-0.188918716,1.570062984,-0.149388185,3,0,timtim@shasta.com,Male,45 - 54,Highschool,Have enough but should save more,Small City or Town,Republican,Samsung,5,-5,5,5,-5,-5
+-1.454959435,1.570062984,-0.729878673,4,0,tinaedwards3240@yahoo.com,Female,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Small City or Town,Independent,Samsung,5,-5,5,5,-4,4
+0.420729869,0.068994439,0.279754997,1,0,tinasweigart11@gmail.com,Male,35 - 44,Some college / Associate degree,Have enough but should save more,Small City or Town,Republican,Apple,4,-2,4,4,1,-2
+0.219332833,1.395016893,-0.606791274,3,0,tippylou35@hotmail.com,Female,55 - 64,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Others,3,2,5,5,4,1
+0.122684286,1.053771399,0.421807134,3,0,tlgough2018@gmail.com,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Suburban,Republican,Others,2,5,2,5,3,5
+0.1244616,-2.82244368,1.649924164,2,0,tm.barnes@yahoo.com,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Others,4,4,5,4,4,-5
+-0.815679349,0.166999611,-2.308313647,4,0,Tmhcrd6@gmail.com,Female,18 - 24,Bachelor's degree,Living month to month and just getting by,Small City or Town,Republican,Apple,2,4,4,1,2,5
+-0.069354476,0.268275661,-0.555353409,1,0,tmwallace678@gmail.com,Female,35 - 44,Highschool,Living month to month and just getting by,Suburban,Independent,Others,0,-3,5,0,-4,5
+0.420729869,-1.325798479,0.511174474,2,0,tngal96@yahoo.com,Female,35 - 44,Highschool,Sometimes there isn't enough to pay all the bills,Exurb,Democrat,Others,5,3,5,4,-5,-4
+0.806584708,-1.342339388,0.481033292,2,0,tnluci88@gmail.com,Female,25 - 34,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Democrat,Others,1,-2,1,2,-1,-4
+0.933556823,-0.180397926,1.729073952,2,0,tolly.williams@yahoo.com,Female,35 - 44,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Google,5,5,5,5,-5,5
+-0.096343781,-0.358714895,0.251757572,1,0,Toni_ford2164@yahoo.com,Female,35 - 44,Bachelor's degree,Living month to month and just getting by,Suburban,Democrat,Apple,5,-2,5,4,-5,3
+-1.681395377,1.058194742,-1.361257774,4,0,toothlessinpa@hotmail.com,Female,45 - 54,Bachelor's degree,Living very comfortably and spending freely,Countryside,Independent,Samsung,-3,4,-5,-5,4,-1
+-1.867803578,-1.143058166,-0.909534465,4,0,traceypr50@gmail.com,Female,45 - 54,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Republican,Samsung,2,-2,2,0,-4,0
+-2.044507607,1.399440237,-1.7313995,4,0,traviscity222@gmail.com,Male,18 - 24,Bachelor's degree,Living month to month and just getting by,Small City or Town,Independent,Others,5,-2,4,4,-3,0
+0.786657379,0.162576267,-0.365478797,1,0,Travysvulgamore@gmail.com,Male,25 - 34,Highschool,Have enough but should save more,Suburban,Republican,Samsung,3,1,5,3,-2,3
+1.020501197,1.570062984,1.099514056,3,0,tre_vert@yahoo.com,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Democrat,Google,4,-5,4,5,-5,2
+0.580148766,0.691561651,0.213826828,3,0,Treannabelcher@gmail.com,Female,18 - 24,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Apple,5,-5,5,5,-5,5
+-0.77054003,0.077841127,-0.85507078,4,0,trellwolf@hotmail.com,Female,55 - 64,Highschool,Living month to month and just getting by,Exurb,Republican,Others,-1,1,1,0,1,1
+-0.051723445,-0.626190348,-0.079595636,1,0,trobjmnwebster@gmail.com,Female,35 - 44,Highschool,Living month to month and just getting by,Countryside,DON'T CARE ABOUT POLITICS,Others,1,2,2,-1,0,-2
+-0.027030438,-0.28052151,-1.053691309,1,0,turnage.kimberly@yahoo.com,Female,35 - 44,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Suburban,Democrat,Samsung,1,-1,5,3,1,-3
+0.119869006,-0.899241611,-0.406736891,1,0,turnerparis@icloud.com,Male,18 - 24,Some college / Associate degree,Living month to month and just getting by,Exurb,Independent,Apple,2,5,-2,-1,1,1
+0.430953025,-1.504691681,1.068512562,2,0,tvalenzuela98@yahoo.com,Female,45 - 54,Highschool,Living month to month and just getting by,Countryside,Republican,Apple,2,-2,3,3,3,-2
+-0.067058179,-1.049476338,-0.39619352,1,0,twestley46@yahoo.com,Male,45 - 54,Bachelor's degree,Living very comfortably and spending freely,Suburban,Democrat,Others,3,-3,2,2,-3,2
+-0.140964116,-0.549149429,0.14160629,1,0,uniquelyknatya@gmail.com,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Countryside,Democrat,Samsung,3,2,2,3,3,2
+0.938149418,1.570062984,0.728413437,3,0,V_blackey@yahoo.com,Female,45 - 54,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Samsung,3,-1,2,3,0,2
+-0.606355454,-1.607120197,-0.719659853,1,0,valleyblue@live.com,Male,35 - 44,Master's degree,Living comfortably with some left over,Large City or Metropolitan,Libertarian,Google,5,-4,4,4,-4,-4
+0.13520374,0.346469046,1.584917108,3,0,vbyrns09@gmail.com,Female,25 - 34,Highschool,Have enough but should save more,Countryside,Republican,Samsung,5,-2,5,5,-2,4
+-1.031892135,1.570062984,-0.331186464,4,0,vikingcanadian@gmail.com,Male,55 - 64,Bachelor's degree,Sometimes there isn't enough to pay all the bills,Suburban,Liberal,Others,4,-2,4,4,-3,2
+-0.196326591,0.073417783,-1.317644714,1,0,vivwilliamson12@gmail.com,Female,25 - 34,Some highschool,Living month to month and just getting by,Countryside,Independent,I'm not sure,-1,4,1,1,1,1
+0.664796842,-0.712654187,0.101917142,1,0,voyagersknight@yahoo.com,Male,25 - 34,Highschool,Living month to month and just getting by,Exurb,Democrat,Samsung,4,2,3,4,-5,0
+-1.95985953,0.069570672,-0.498210207,4,1,vyang@cca.edu,Non-Binary,18 - 24,Highschool,Living month to month and just getting by,Large City or Metropolitan,NOTHING REALLY,Apple,2,2,2,2,2,2
+-1.82547954,-0.186939682,-0.843667097,4,0,warrengalaxtic@gmail.com,Male,35 - 44,Some college / Associate degree,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,Independent,Others,3,1,3,3,-3,-2
+-0.549215665,-0.272251055,-0.296261058,1,0,wazzuuhawk@hotmail.com,Male,35 - 44,Some college / Associate degree,Living month to month and just getting by,Small City or Town,Liberal,Samsung,2,0,2,1,1,1
+-0.999791253,-1.570191267,0.878313399,1,0,weaverk9@hotmail.com,Female,45 - 54,Master's degree,Living comfortably with some left over,Suburban,Republican,Others,-4,-2,-5,-5,3,-2
+-0.678484078,-0.28052151,-0.338401216,1,0,Weevyfainst@gmail.com,Non-Binary,18 - 24,Some college / Associate degree,Have enough but should save more,Suburban,DON'T CARE ABOUT POLITICS,Samsung,5,-2,5,5,-5,-2
+0.070137092,-0.341021519,0.395914416,1,0,whitbauman@gmail.com,Female,25 - 34,Highschool,Sometimes there isn't enough to pay all the bills,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Samsung,5,-5,5,5,-5,-5
+0.169600919,1.570062984,0.806989684,3,0,whitewolf9571@yahoo.com,Female,45 - 54,Highschool,Living month to month and just getting by,Small City or Town,Democrat,Google,5,-5,5,5,1,-5
+1.157177485,-1.610967307,1.570774375,2,0,wiccafate@yahoo.com,Male,45 - 54,Bachelor's degree,Living very comfortably and spending freely,Suburban,Democrat,Apple,2,-5,5,5,-4,-5
+-1.785970782,1.143506116,-1.348359438,4,0,wicked_wombat69@hotmail.com,Female,45 - 54,Trade / technical / vocational school,Have enough but should save more,Small City or Town,Republican,Apple,5,-1,5,5,-3,-2
+1.794161273,-0.817777348,2.162404797,2,0,winstowin123@gmail.com,Female,18 - 24,Highschool,Have enough but should save more,Suburban,Republican,Apple,5,-2,5,5,-2,5
+-0.016807282,-1.22836954,0.187648608,1,0,wintersalan68@yahoo.com,Male,45 - 54,Bachelor's degree,Have enough but should save more,Countryside,Republican,Samsung,4,-3,5,5,-2,-5
+-1.902719741,0.870454853,0.00227145,4,0,wmjcameron@hotmail.com,Male,45 - 54,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,DON'T CARE ABOUT POLITICS,Others,4,-4,2,2,-4,-4
+0.480684938,-0.027858267,-1.320075241,1,0,Woffordlh@gmail.com,Male,35 - 44,Highschool,Living comfortably with some left over,Large City or Metropolitan,Democrat,Samsung,-1,-2,0,2,2,4
+0.157081466,1.48475161,0.518102455,3,0,woodyloves13@gmail.com,Male,35 - 44,Highschool,Have enough but should save more,Suburban,NOTHING REALLY,Others,5,-3,5,5,-4,2
+0.604841773,0.252310985,-0.829524365,1,0,Woolsey effete 82@ Gmail.com,Male,55 - 64,Highschool,Living month to month and just getting by,Other,Republican,Others,2,2,2,2,2,2
+-1.315467866,0.613944499,-0.606791274,4,0,wrightkerryl1970@gmail.com,Male,45 - 54,Highschool,Living month to month and just getting by,Countryside,Republican,Others,5,-3,5,5,-4,-3
+0.027813054,1.045500944,0.226497927,3,0,wrndb411@yahoo.com,Male,45 - 54,Some college / Associate degree,Living comfortably with some left over,Suburban,Independent,I'm not sure,2,-2,3,1,-4,0
+0.488092814,-0.085087399,-0.230680461,1,0,xotressxo@yahoo.com,Female,35 - 44,Highschool,Have enough but should save more,Countryside,Republican,Samsung,1,-3,1,1,-2,2
+-0.359992183,-0.272251055,-1.060906061,1,0,xoxo2729@gmail.com,Female,35 - 44,Some college / Associate degree,Living month to month and just getting by,Large City or Metropolitan,Republican,Samsung,3,1,2,2,2,1
+1.431049043,-1.261451358,1.580993195,2,0,yenohoney40ish@hotmail.com,Female,55 - 64,Some college / Associate degree,Living comfortably with some left over,Suburban,Republican,Google,5,-4,5,5,-5,-5
+1.475669379,-2.054641318,2.017961182,2,0,yes,Male,35 - 44,Highschool,Living month to month and just getting by,Large City or Metropolitan,Democrat,Samsung,5,5,4,5,5,4
+-0.101455359,0.512668449,-0.843667097,1,0,yes,Female,45 - 54,Bachelor's degree,Living comfortably with some left over,Suburban,Independent,Others,2,-2,3,2,-2,2
+-2.455055453,1.570062984,-1.81776404,4,0,Yodasedwork@gmail.com,Male,35 - 44,Bachelor's degree,Living month to month and just getting by,Small City or Town,Independent,Others,5,-5,5,5,-5,-4
+-0.417650956,0.17969341,-0.050698849,1,0,youngnrecklessgirl@gmail.com,Female,35 - 44,Trade / technical / vocational school,Sometimes there isn't enough to pay all the bills,Small City or Town,NOTHING REALLY,Others,1,2,3,4,2,4
+-1.994775693,1.570062984,-0.39619352,4,0,yukon62569@yahoo.com,Male,45 - 54,Trade / technical / vocational school,Living month to month and just getting by,Countryside,Republican,Others,5,-2,5,5,-5,5
